@@ -1,1880 +1,1110 @@
-# game/code/e08/e08s04.rpy:68
-translate korean e08s04_623c1c05:
+# game/code/e08/e08s03.rpy:41
+translate korean e08s03_33275fb1:
 
-    # mc "Hello."
-    mc "Hello."
+    # mc "I could really use a shower."
+    mc "샤워가 정말 하고 싶은걸."
 
-# game/code/e08/e08s04.rpy:71
-translate korean e08s04_bd19522c:
+# game/code/e08/e08s03.rpy:44
+translate korean e08s03_14285aa7:
 
-    # hh "Havisham."
-    hh "Havisham."
+    # arj "We're almost done."
+    arj "거의 다 끝났어."
 
-# game/code/e08/e08s04.rpy:74
-translate korean e08s04_95c7633a:
+# game/code/e08/e08s03.rpy:45
+translate korean e08s03_cdcec51a:
 
-    # mc "Are you okay?"
-    mc "Are you okay?"
+    # arj "Did you remember to bring all the farm equipment inside?"
+    arj "농기구 안으로 다 들여다 놨지?"
 
-# game/code/e08/e08s04.rpy:76
-translate korean e08s04_68ef5c8f:
+# game/code/e08/e08s03.rpy:48
+translate korean e08s03_f1a92672:
 
-    # hh "There was a storm."
-    hh "There was a storm."
+    # mc "Most of it. I still have to clear the fly traps, I'll do that tomorrow."
+    mc "거의 다. 파리잡이 치우긴 해야 하는데, 그건 내일 할게."
 
-# game/code/e08/e08s04.rpy:78
-translate korean e08s04_17ba94dc:
+# game/code/e08/e08s03.rpy:49
+translate korean e08s03_d4efe022:
 
-    # mc "Yeah. I'm guessing you're from around here, but I had never seen you around in any of the town hall meetings."
-    mc "Yeah. I'm guessing you're from around here, but I had never seen you around in any of the town hall meetings."
+    # mc "The more important question is, did you decide on what you want to watch today?"
+    mc "정작 중요한 건 다른 거라구, 오늘 뭐 볼지 정했어?"
 
-# game/code/e08/e08s04.rpy:80
-translate korean e08s04_d503a21f:
+# game/code/e08/e08s03.rpy:53
+translate korean e08s03_9183fb55:
 
-    # hh "I am alone."
-    hh "I am alone."
+    # arj "I was looking for something to watch, it feels like we've seen everything already."
+    arj "볼 만한 걸 찾으려곤 해 봤는데, 대부분 우리가 본 거 같더라구."
 
-# game/code/e08/e08s04.rpy:81
-translate korean e08s04_6bdcd221:
+# game/code/e08/e08s03.rpy:55
+translate korean e08s03_a83320f8:
 
-    # mc "Do you need help? You shouldn't be alone right now."
-    mc "Do you need help? You shouldn't be alone right now."
+    # mc "It's because we can't ever decide what to watch, so I turn on a nature documentary, and we watch it for twenty minutes before passing out."
+    mc "그건 우리가 도통 정하질 못하기 때문이라구. 그래서 내가 자연 다큐멘터리 같은 걸 틀면, 20분도 안 돼서 기절하듯이 잠에 들잖아."
 
-# game/code/e08/e08s04.rpy:82
-translate korean e08s04_62693f24:
+# game/code/e08/e08s03.rpy:57
+translate korean e08s03_f37f3b18:
 
-    # hh "When there is smoke, there is fire. When there is fire, there is rain."
-    hh "When there is smoke, there is fire. When there is fire, there is rain."
+    # arj "Yeah, I don't know why."
+    arj "그렇지, 왜 그런지 모르겠다니까."
 
-# game/code/e08/e08s04.rpy:85
-translate korean e08s04_5d7e59c4:
+# game/code/e08/e08s03.rpy:58
+translate korean e08s03_bc3c4b50:
 
-    # mc "Speaking of water, I'm going to grab some for you, stay here."
-    mc "Speaking of water, I'm going to grab some for you, stay here."
+    # arj "It mostly happens when they show underwater footage, all those marble blue contrasts takes me out."
+    arj "수중 장면 같은 게 나오면 십중팔구 그렇게 된단 말이지. 물빛이 요란해서 그렇게 되는 거 같아."
 
-# game/code/e08/e08s04.rpy:86
-translate korean e08s04_5acfbbaf:
+# game/code/e08/e08s03.rpy:62
+translate korean e08s03_e13885de:
 
-    # mc "Or maybe you can come with me to the barn. It's right over there."
-    mc "Or maybe you can come with me to the barn. It's right over there."
+    # mc "Farm life must be different near a creek, right?"
+    mc "우리가 개울 근처에서 농장 생활을 했다면, 지금이랑 분명히 다르겠지?"
 
-# game/code/e08/e08s04.rpy:89
-translate korean e08s04_fd040f8a:
+# game/code/e08/e08s03.rpy:64
+translate korean e08s03_964f85e0:
 
-    # hh "No time."
-    hh "No time."
+    # arj "It's probably way harder."
+    arj "아마 더 힘들지 않았을까."
 
-# game/code/e08/e08s04.rpy:91
-translate korean e08s04_b2b9e19d:
+# game/code/e08/e08s03.rpy:65
+translate korean e08s03_41030119:
+
+    # mc "Really? I imagined it'd be quite enjoyable, you know, even avoiding the temptation of taking a swim."
+    mc "그래? 너무 재미있을걸. 일하다가 수영하러 가고 싶고 싶을 정도일 거라구."
+
+# game/code/e08/e08s03.rpy:66
+translate korean e08s03_cc44afc1:
+
+    # arj "Ah, come on, you're getting distracted."
+    arj "아, 제발, 일에 집중 좀 해."
+
+# game/code/e08/e08s03.rpy:69
+translate korean e08s03_e646d4e9:
+
+    # arj "Put all the tools in here."
+    arj "장비는 다 여기에 둬."
+
+# game/code/e08/e08s03.rpy:70
+translate korean e08s03_e8519bcc:
+
+    # arj "Then we're done for the day."
+    arj "그러면 오늘 일은 끝이야."
+
+# game/code/e08/e08s03.rpy:82
+translate korean e08s03_5527dc46:
+
+    # mc "It's a real mess out here."
+    mc "여기 정말 엉망인데."
+
+# game/code/e08/e08s03.rpy:83
+translate korean e08s03_a32c7427:
+
+    # mc "We should really finish up quick. Where's the dog?"
+    mc "빨리 다 치워야겠는데. 우리 멍멍이는 어디있지?"
+
+# game/code/e08/e08s03.rpy:88
+translate korean e08s03_ede290da:
+
+    # arj "Remy! Are you in the house?"
+    arj "레미! 집에 있니?"
+
+# game/code/e08/e08s03.rpy:91
+translate korean e08s03_75e1f4cc:
+
+    # arj "What is it?"
+    arj "왜 그래?"
+
+# game/code/e08/e08s03.rpy:93
+translate korean e08s03_d389aafd:
+
+    # mc "Storm's approaching."
+    mc "폭풍이 온다는대."
+
+# game/code/e08/e08s03.rpy:94
+translate korean e08s03_5e6eb737:
+
+    # mc "Says we should get inside."
+    mc "집안에 있어야 한대."
+
+# game/code/e08/e08s03.rpy:97
+translate korean e08s03_f4109e86:
+
+    # arj "Remy!"
+    arj "레미!"
+
+# game/code/e08/e08s03.rpy:102
+translate korean e08s03_8fa77c23:
+
+    # arj "She's scared of storms."
+    arj "레미는 폭풍을 무서워하는데."
+
+# game/code/e08/e08s03.rpy:104
+translate korean e08s03_255e5400:
+
+    # mc "So scared, she didn't even bother getting in the house."
+    mc "겁에 질려서, 집에도 못 들어온 거 같은걸."
+
+# game/code/e08/e08s03.rpy:107
+translate korean e08s03_44203bbe:
+
+    # arj "How severe is the storm, does it say?"
+    arj "폭풍이 얼마나 심하대?"
+
+# game/code/e08/e08s03.rpy:110
+translate korean e08s03_c7269adc:
+
+    # mc "Pretty sure it's going to be okay, although it's warning of very strong winds."
+    mc "바람이 엄청 셀 거라고 경고하더라구. 그대로 괜찮을 거야."
+
+# game/code/e08/e08s03.rpy:111
+translate korean e08s03_58041b79:
+
+    # mc "Guessing it's a tornado."
+    mc "토네이도 같은걸."
+
+# game/code/e08/e08s03.rpy:113
+translate korean e08s03_482724ff:
+
+    # arj "Tornado?"
+    arj "토네이도라구?"
+
+# game/code/e08/e08s03.rpy:115
+translate korean e08s03_cf1adef2:
+
+    # mc "Yeah."
+    mc "응."
+
+# game/code/e08/e08s03.rpy:118
+translate korean e08s03_a9db79f6:
+
+    # arj "We need to board up the barn then, and hope it doesn't get damaged too badly."
+    arj "그럼 헛간에 판자를 덧대야겠어. 크게 망가지지 않으면 좋겠는데."
+
+# game/code/e08/e08s03.rpy:120
+translate korean e08s03_a89ec305:
+
+    # mc "Alright, you get me the boards, I'll start boarding up the windows."
+    mc "알겠어, 판자 가져와 줘. 난 창문에 판자 박기 시작할게."
+
+# game/code/e08/e08s03.rpy:126
+translate korean e08s03_a0723839:
+
+    # mc "Okay, so should we stay in the barn or go back in the house?"
+    mc "좋아, 그럼 헛간에 있을까? 아니면 집으로 갈까?"
+
+# game/code/e08/e08s03.rpy:128
+translate korean e08s03_4a550739:
+
+    # arj "I don't know. It's my first experience dealing with a tornado."
+    arj "모르겠어. 토네이도는 처음이라서."
+
+# game/code/e08/e08s03.rpy:129
+translate korean e08s03_66aade19:
+
+    # arj "I'm trying my hardest not to freak out right now."
+    arj "지금은 정신줄 안 놓으려고 최대한 노력 중이야."
+
+# game/code/e08/e08s03.rpy:132
+translate korean e08s03_e70c3f6e:
+
+    # mc "No, it's going to be fine. We should go in the barn now, though. Before we get sucked in."
+    mc "걱정 마, 괜찮을 테니까. 일단은 헛간에 있자. 나가면 날아가 버릴 수도 있으니까."
+
+# game/code/e08/e08s03.rpy:136
+translate korean e08s03_0a06672c:
+
+    # arj "Ahh!!!"
+    arj "아아악!!!"
+
+# game/code/e08/e08s03.rpy:141
+translate korean e08s03_9079e505:
+
+    # mct "Maybe not the best thing to say when someone tells you they're terrified..."
+    mct "겁에 질린 사람 앞에서 하기에 좋은 말은 분명 아니었나 봐..."
+
+# game/code/e08/e08s03.rpy:153
+translate korean e08s03_1e2e2b06:
+
+    # arj "It's going to be okay."
+    arj "괜찮을 거야."
+
+# game/code/e08/e08s03.rpy:154
+translate korean e08s03_415c71a6:
+
+    # arj "Right, [mcname]?"
+    arj "그치, [mcname]?"
+
+# game/code/e08/e08s03.rpy:157
+translate korean e08s03_5e2b3f7d:
+
+    # mc "I hope so."
+    mc "그러길 바라."
+
+# game/code/e08/e08s03.rpy:158
+translate korean e08s03_3056a935:
+
+    # mc "Thankfully we prepared for this. Little emergency kit with a water, flashlight, batteries, and energy bars."
+    mc "다행히 미리 준비를 해 놨잖아. 물, 손전등, 건전지, 에너지 바가 들어 있는 작은 비상 용품."
+
+# game/code/e08/e08s03.rpy:160
+translate korean e08s03_b60d835f:
+
+    # arj "Didn't we do that like months ago?"
+    arj "그거 몇 달 전에 준비한 거 아니야?"
+
+# game/code/e08/e08s03.rpy:165
+translate korean e08s03_c3c4cf71:
+
+    # mc "Does bottled water have an expiration date?"
+    mc "물에도 유통기한이 있어?"
+
+# game/code/e08/e08s03.rpy:167
+translate korean e08s03_9e94cee5:
+
+    # arj "Surely it does."
+    arj "당연히 있지."
+
+# game/code/e08/e08s03.rpy:171
+translate korean e08s03_7238fc03:
+
+    # mc "Oh no."
+    mc "아, 이런."
+
+# game/code/e08/e08s03.rpy:173
+translate korean e08s03_f87c3f8c:
+
+    # arj "What, oh no?"
+    arj "뭐, 이런이라고?"
+
+# game/code/e08/e08s03.rpy:177
+translate korean e08s03_d0ecae39:
+
+    # mc "Flashlight isn't working."
+    mc "손전등이 안 켜지네."
+
+# game/code/e08/e08s03.rpy:179
+translate korean e08s03_c78cf52f:
+
+    # arj "Well, your phone's still good, right?"
+    arj "음, 네 휴대폰은 작동하긴 하지?"
+
+# game/code/e08/e08s03.rpy:180
+translate korean e08s03_fd5e70d3:
+
+    # mc "I think so. Not getting any reception, but it should be enough charge to last us a day or two."
+    mc "그럴 거야. 신호는 안 잡히지만, 하루 이틀 버틸 정도로 충전은 되어 있겠지."
+
+# game/code/e08/e08s03.rpy:186
+translate korean e08s03_708aede9:
+
+    # mc "Just when I wanted to shower."
+    mc "마침 샤워하고 싶었는데."
+
+# game/code/e08/e08s03.rpy:187
+translate korean e08s03_d394e27e:
+
+    # mc "I'll probably have to step out in the rain to wash."
+    mc "비로 씻으면 되겠네."
+
+# game/code/e08/e08s03.rpy:189
+translate korean e08s03_e591de0d:
+
+    # arj "How long have you gone without showering?"
+    arj "너 샤워한지 얼마나 된 거야?"
+
+# game/code/e08/e08s03.rpy:192
+translate korean e08s03_4ea3480d:
+
+    # mc "Like in a row?"
+    mc "연속으로 말이야?"
+
+# game/code/e08/e08s03.rpy:194
+translate korean e08s03_9b4cd288:
+
+    # arj "I take a bath every day."
+    arj "난 매일 욕조에 들어가거든."
+
+# game/code/e08/e08s03.rpy:195
+translate korean e08s03_74c5243e:
+
+    # mc "I try and do it every day, but sometimes it doesn't work out. Exegient circumstances."
+    mc "나도 매일 그러려곤 하는데, 가끔 안 된단 말이지. 급한 일이 있으니까."
+
+# game/code/e08/e08s03.rpy:198
+translate korean e08s03_f5e2f764:
+
+    # arj "Taking a shower is different from bathing."
+    arj "샤워랑 욕조에 들어가는 거랑은 다르거든."
+
+# game/code/e08/e08s03.rpy:201
+translate korean e08s03_7c5f36b6:
+
+    # mc "I bathe every once in a while. I don't like spending too much time in there."
+    mc "욕조에서 가끔 들어가긴 한다구. 욕조에 너무 오래 있으면 싫단 말이야."
+
+# game/code/e08/e08s03.rpy:205
+translate korean e08s03_d1b4a935:
+
+    # arj "Why not?"
+    arj "왜 싫은데?"
+
+# game/code/e08/e08s03.rpy:208
+translate korean e08s03_f7a3a3a2:
+
+    # mc "I don't know. It's too hot and steamy. I just want to wash up."
+    mc "나도 잘 모르겠어. 너무 뜨겁고 습하고. 몸 담글 필요 없이 그냥 씻기만 하면 되잖아."
+
+# game/code/e08/e08s03.rpy:209
+translate korean e08s03_12bf4709:
+
+    # mc "You spend too much time in there and you start thinking about all sorts of stuff, you know."
+    mc "욕조에 너무 있으면 온갖 생각이 다 떠오르고. 너도 알잖아."
+
+# game/code/e08/e08s03.rpy:210
+translate korean e08s03_0741d0ab:
+
+    # mc "The sound of the water running, it's like after a while, you start meditating."
+    mc "물이 떨어지는 소리가 들리고, 그렇게 오래 좀 있으면, 명상을 하게 돼."
+
+# game/code/e08/e08s03.rpy:213
+translate korean e08s03_6e68f063:
+
+    # arj "What's wrong with that?"
+    arj "그게 뭐가 문제야?"
+
+# game/code/e08/e08s03.rpy:216
+translate korean e08s03_b0ccff69:
+
+    # mc "Who wants to spend time thinking about things?"
+    mc "온갖 생각에 잠겨 시간을 보내고 싶은 사람이 어디에 있어?"
+
+# game/code/e08/e08s03.rpy:218
+translate korean e08s03_6a88b0f0:
+
+    # arj "I do that."
+    arj "난 그러고 싶은데."
+
+# game/code/e08/e08s03.rpy:219
+translate korean e08s03_da282013:
+
+    # mc "Yeah, but you do that all the time, apparently. If I do it once in a while, fine, but spend too much time alone, you start blending into the environment, you know what I mean?"
+    mc "그래 그렇겠지. 넌 항상 그러고 싶어 하니까. 가끔은 그래도 괜찮지만, 욕조에 너무 오래 있으면 주변과 하나가 되어 버리는 느낌이 든단 말이야, 내가 하는 말 알지?"
+
+# game/code/e08/e08s03.rpy:220
+translate korean e08s03_0ae3098d:
+
+    # arj "It's not so bad."
+    arj "그렇게 나쁘진 않은데."
+
+# game/code/e08/e08s03.rpy:226
+translate korean e08s03_2b6abfda:
+
+    # arj "I take that back."
+    arj "방금 한 말 취소할게."
+
+# game/code/e08/e08s03.rpy:228
+translate korean e08s03_5832dd1f:
+
+    # mc "*laughs* Yeah."
+    mc "*웃음* 그래."
+
+# game/code/e08/e08s03.rpy:229
+translate korean e08s03_32adb0af:
+
+    # arj "I really hope that wasn't the roof that just got blown off."
+    arj "방금 날아간 게 지붕이 아니어야 하는데."
+
+# game/code/e08/e08s03.rpy:232
+translate korean e08s03_254e1a76:
+
+    # mc "Yeah, that's the thing that worries me. Structurally it should be fine, this is a relatively new barn, it's not like those ones that aren't maintained."
+    mc "그러게, 걱정되네. 건물은 괜찮겠지. 지은 지 얼마 안 된 헛간이니까. 관리도 했고."
+
+# game/code/e08/e08s03.rpy:233
+translate korean e08s03_ed5aecdd:
+
+    # mc "And the rain, it's a good thing we have a drainage hole because the whole barn would be filled with water."
+    mc "그리고 배수구가 있으니까 비도 괜찮아. 헛간 전체가 물에 잠기는 일은 없을 거야."
+
+# game/code/e08/e08s03.rpy:236
+translate korean e08s03_a6e68a3e:
+
+    # arj "I don't underestimate this getting worse."
+    arj "낙관적으로만 보면 안 돼."
+
+# game/code/e08/e08s03.rpy:237
+translate korean e08s03_063e23f3:
+
+    # arj "Do you ever stop and think about when things are hard, it's because everything starts piling up all at once?"
+    arj "괜찮을 거라고만 말하지 말고 어려울 때 어떻게 할지 생각해 봐. 나쁜 일은 하나만 오는 게 아니잖아?"
+
+# game/code/e08/e08s03.rpy:238
+translate korean e08s03_22a6f3b4:
+
+    # arj "It'd be easy if it was just the storm, but no, none of our flashlights work, the roof might collapse, and the water might drown us all."
+    arj "폭풍 하나면 끝인 것도 아냐. 우리한테는 켜지는 손전등 하나 없고, 지붕은 무너질지도 모르고, 물에 빠져 죽을지도 몰라."
+
+# game/code/e08/e08s03.rpy:242
+translate korean e08s03_2e3c54ab:
+
+    # mc "This is like the real life version of finals week. Karma is cramming in all the shit we can't handle in one go."
+    mc "실생활에서 겪는 기말 고사 주간이라고 생각해. 업보라는 건 우리가 감당할 수 없는 모든 엿 같은 일이 몰아치는 거라구."
+
+# game/code/e08/e08s03.rpy:244
+translate korean e08s03_f742af0d:
+
+    # arj "Karma?"
+    arj "업보?"
+
+# game/code/e08/e08s03.rpy:245
+translate korean e08s03_3a61e2de:
+
+    # mc "That's what you call it, right?"
+    mc "이럴 때 쓰는 말 맞지?"
+
+# game/code/e08/e08s03.rpy:246
+translate korean e08s03_0404e7bf:
+
+    # arj "What do you mean? Like we deserved it or something?"
+    arj "무슨 뜻으로 쓴 거야? 우리가 이럴 일 당할 만한 짓을 했다는 거야?"
+
+# game/code/e08/e08s03.rpy:249
+translate korean e08s03_90e6868a:
+
+    # mc "Kinda?"
+    mc "그렇겠지?"
+
+# game/code/e08/e08s03.rpy:251
+translate korean e08s03_62ed882a:
+
+    # arj "Did you commit any sins that would warrant divine intervention?"
+    arj "너 신적 존재가 개입할 만한 죄악이라도 저지른 적 있어?"
+
+# game/code/e08/e08s03.rpy:253
+translate korean e08s03_b84362b5:
+
+    # mc "I didn't mean it like that, I was just adding to your observation. Bad things happen right, even if you don't deserve it. Is that still called karma, or something else?"
+    mc "그런 뜻으로 한 말은 아니고, 그냥 네 말이 덧붙인 거 뿐이야. 나쁜 일은 네가 그럴 만한 짓을 했든 아니든 일어난다구. 그러니까 그걸 업보라고 해야 하나, 뭐라고 해야 하나?"
+
+# game/code/e08/e08s03.rpy:254
+translate korean e08s03_6d82fe15:
+
+    # mc "I don't really know what I'm saying, forget it."
+    mc "내가 무슨 말하는지도 모르겠나. 잊어 줘."
+
+# game/code/e08/e08s03.rpy:255
+translate korean e08s03_47a58dd9:
+
+    # arj "Mhmm..."
+    arj "음흠..."
+
+# game/code/e08/e08s03.rpy:258
+translate korean e08s03_16ae6490:
+
+    # arj "What time is it now?"
+    arj "지금 몇 시지?"
+
+# game/code/e08/e08s03.rpy:261
+translate korean e08s03_71011557:
+
+    # mc "Would you believe it, it's only five."
+    mc "겨우 다섯 시밖에 안 됐어."
+
+# game/code/e08/e08s03.rpy:263
+translate korean e08s03_db581ccd:
+
+    # arj "Wow."
+    arj "와아."
+
+# game/code/e08/e08s03.rpy:265
+translate korean e08s03_204855cd:
+
+    # mc "The internet isn't working, so this phone is pretty much useless."
+    mc "인터넷이 안 되니까, 휴대폰이 거의 쓸모도 없잖아."
+
+# game/code/e08/e08s03.rpy:266
+translate korean e08s03_248dc041:
+
+    # mc "Somehow even with this technology, we're no different than cavemen at this point."
+    mc "이런 기술이 있어도, 이런 상황이니 원시인이랑 다를 바가 없네."
+
+# game/code/e08/e08s03.rpy:268
+translate korean e08s03_f19f19d4:
+
+    # arj "Do you still have Fetish Locator installed? The app?"
+    arj "너 아직도 페티시 로케이터 깔아 둔 거야? 그 앱을?"
+
+# game/code/e08/e08s03.rpy:271
+translate korean e08s03_2ce5d322:
+
+    # mc "That's funny."
+    mc "그거 웃긴다."
+
+# game/code/e08/e08s03.rpy:272
+translate korean e08s03_5ad4365c:
+
+    # mc "After what you told me about your experience with Fetish Locator, it'd be a crime to still have it installed."
+    mc "네가 페티시 로케이터 때문에 겪은 일은 다 말해 줬는데, 아직도 지우지 않은 건 범죄 같은걸."
+
+# game/code/e08/e08s03.rpy:274
+translate korean e08s03_01c792bc:
+
+    # arj "You didn't have any positive experiences with it?"
+    arj "그걸로 좋은 경험한 적이 있긴 해?"
+
+# game/code/e08/e08s03.rpy:277
+translate korean e08s03_d06e08c1:
+
+    # mc "I did, but I don't think about it fondly. It was just a phase in my life that's over now."
+    mc "좋은 경험을 한 적은 있긴 하지만, 그런 경험이 소중하다고 생각하진 않아. 내 인생이 한 국면이었고, 이젠 끝난 일이야."
+
+# game/code/e08/e08s03.rpy:279
+translate korean e08s03_289731f5:
+
+    # arj "That's a good way to put it."
+    arj "그 말이 딱 맞네."
+
+# game/code/e08/e08s03.rpy:282
+translate korean e08s03_2cfcd6e5:
+
+    # mc "Can you imagine if that thing was still going on? What would today's challenge, having sex in the eye of a tornado, five hundred points."
+    mc "페티시 로케이터가 여전히 있으면 어떨지 상상해 봐. 오늘의 도전이 뭐겠어, 토네이도의 눈에서 섹스하기, 오백 점."
+
+# game/code/e08/e08s03.rpy:285
+translate korean e08s03_087d5369:
+
+    # arj "I doubt anyone has ever dared to do that."
+    arj "그런 짓 하는 사람이 있기나 하겠니."
+
+# game/code/e08/e08s03.rpy:288
+translate korean e08s03_3bdb250f:
+
+    # mc "Why not? People have sex while jumping out of planes. That's going in the reverse direction."
+    mc "없을 이유가 있어? 비행기에서 뛰어내리면서 섹스하는 사람도 있는데. 하늘에서 땅으로 내려오면서 하는 사람이 있다면 땅에서 하늘로 올라가면서 하는 사람도 있는 거야."
+
+# game/code/e08/e08s03.rpy:289
+translate korean e08s03_c572e49f:
+
+    # mc "What would having sex be like in that instance, would you even know what's going on, if you had sex in a tornado?"
+    mc "그런 상황에서 섹스를 하면 어떨까? 어떻게 될지 상상이 돼? 네가 토네이도 속에서 섹스를 하면 말이야."
+
+# game/code/e08/e08s03.rpy:294
+translate korean e08s03_68c0cadb:
+
+    # arj "I imagine you'd get transported to Oz."
+    arj "오즈의 세계로 전이되겠지."
+
+# game/code/e08/e08s03.rpy:295
+translate korean e08s03_3f7bb0bf:
+
+    # arj "Remy would be Toto, I'd be Dorothy, and you'd be..."
+    arj "레미는 토토고, 나는 도로시고, 너는..."
+
+# game/code/e08/e08s03.rpy:297
+translate korean e08s03_a6880157:
+
+    # mc "In the Lollipop Guild."
+    mc "먼치킨이겠지."
+
+# game/code/e08/e08s03.rpy:300
+translate korean e08s03_b800f37d:
+
+    # arj "Those guys used to scare me."
+    arj "예전엔 그 녀석들이 무서웠는데."
+
+# game/code/e08/e08s03.rpy:302
+translate korean e08s03_d6b1a4ca:
+
+    # mc "Come on, they're harmless."
+    mc "어이, 해를 입히는 애들도 아니잖아."
+
+# game/code/e08/e08s03.rpy:305
+translate korean e08s03_5dfae209:
+
+    # arj "Well, still, I don't think I could complete that challenge, not in a million years."
+    arj "음, 아무튼, 나라면 그런 도전은 할 수 없을 거야. 백만 년이 지나도 말이지."
+
+# game/code/e08/e08s03.rpy:307
+translate korean e08s03_a5fe8482:
+
+    # mc "We can work up to it."
+    mc "천천히 해 나가면 돼."
+
+# game/code/e08/e08s03.rpy:308
+translate korean e08s03_e1287974:
+
+    # mc "First, tornadoes, then hurricanes, categories one-five, then, what's after hurricanes?"
+    mc "처음은, 토네이도, 그다음은 허리케인, 1등급부터 5등급까지, 그리고 나서, 허리케인 다음엔 뭐지?"
+
+# game/code/e08/e08s03.rpy:311
+translate korean e08s03_b4d52c82:
+
+    # arj "Death?"
+    arj "죽음?"
+
+# game/code/e08/e08s03.rpy:313
+translate korean e08s03_61beb387:
+
+    # mc "If we want to be realistic, death probably comes first."
+    mc "현실적으로 생각한다면, 죽음이 맨 앞에 오겠지."
+
+# game/code/e08/e08s03.rpy:314
+translate korean e08s03_741ba693:
+
+    # mc "Which is also what we're waiting for."
+    mc "언제나 우리를 기다리고 있기도 하고 말이야."
+
+# game/code/e08/e08s03.rpy:317
+translate korean e08s03_a72f2e0e:
+
+    # arj "Waiting for Death. It's like Waiting for Godot, except death actually appears."
+    arj "죽음을 기다리며라. 고도를 기다리며 같네, 우리가 기다리는 죽음은 실제로 오고 있지만."
+
+# game/code/e08/e08s03.rpy:319
+translate korean e08s03_b4bb20be:
+
+    # mc "Are you really that scared? I really don't think we're going to die. If I scared you earlier, I'm sorry."
+    mc "그렇게 무서워? 우리는 안 죽어. 내가 괜한 소리로 겁 줘서 미안해."
+
+# game/code/e08/e08s03.rpy:322
+translate korean e08s03_2b32d833:
+
+    # arj "It's not your fault. I don't know how I'm feeling, to be honest."
+    arj "네 탓이 아닌걸. 솔직히 나도 내 감정을 모르겠어."
+
+# game/code/e08/e08s03.rpy:323
+translate korean e08s03_67e89949:
+
+    # arj "Mostly worrying, because I don't know when this is going to end. We have to stay in here until the storm ends."
+    arj "걱정이 크긴 해. 폭풍이 그칠 때까지 여기에 있어야 하는데, 언제 끝날지 모르니까."
+
+# game/code/e08/e08s03.rpy:325
+translate korean e08s03_8bf6eeac:
+
+    # mc "We're going to be okay, I promise."
+    mc "내가 장담하는데, 우린 괜찮을 거야."
+
+# game/code/e08/e08s03.rpy:331
+translate korean e08s03_6259a79e:
+
+    # mc "Ever think about having kids?"
+    mc "아이 생각 해 봤어?"
+
+# game/code/e08/e08s03.rpy:333
+translate korean e08s03_2828eb8e:
+
+    # arj "Kids?"
+    arj "아이?"
+
+# game/code/e08/e08s03.rpy:334
+translate korean e08s03_b49915db:
+
+    # mc "You know, sanctifying our marriage with the birth of the next generation."
+    mc "다음 세대의 탄생을 통한 우리 결혼의 정당화. 알잖아."
+
+# game/code/e08/e08s03.rpy:337
+translate korean e08s03_0e406ef9:
+
+    # arj "Yeah, we talked about it. We talked about it, how we'd like to have children in the future."
+    arj "그래, 우리 이 얘기 했었지. 했었어. 장래 아이를 가고 싶다고."
+
+# game/code/e08/e08s03.rpy:338
+translate korean e08s03_7ca8ffff:
+
+    # arj "We haven't made any specific plans."
+    arj "구체적인 계획은 세우지 않았지만."
+
+# game/code/e08/e08s03.rpy:340
+translate korean e08s03_63f423b7:
+
+    # mc "Too busy setting up our living space."
+    mc "사는 데 너무 바빴으니까."
+
+# game/code/e08/e08s03.rpy:343
+translate korean e08s03_f36c0522:
+
+    # arj "It's going to be difficult, taking care of the children, and tending to the farm."
+    arj "아이 보는 거랑 농장일을 같이 하는 건 힘들 거야."
+
+# game/code/e08/e08s03.rpy:345
+translate korean e08s03_99c4892b:
+
+    # mc "For a couple of years, yeah."
+    mc "몇 년은 그렇겠지."
+
+# game/code/e08/e08s03.rpy:346
+translate korean e08s03_63c27469:
+
+    # mc "When they grow up, we would have some extra hands to help us."
+    mc "아이들이 자라면 우리를 도와줄걸."
+
+# game/code/e08/e08s03.rpy:349
+translate korean e08s03_0f474f47:
+
+    # arj "They? How many are you expecting?"
+    arj "아이들? 몇 명이나 갖고 싶은데?"
+
+# game/code/e08/e08s03.rpy:351
+translate korean e08s03_2cf2183a:
+
+    # mc "I don't know. I want a big family."
+    mc "모르겠어. 그래도 대가족이면 좋겠다."
+
+# game/code/e08/e08s03.rpy:353
+translate korean e08s03_1ed399b9:
+
+    # mc "It's not something you really see anymore, because of economic sustainability."
+    mc "경제적 지속가능성 문제 때문에 요즘 보긴 힘들지만."
+
+# game/code/e08/e08s03.rpy:355
+translate korean e08s03_d142fc2e:
+
+    # arj "I'm the youngest of five siblings."
+    arj "난 다섯 중 막내였어."
+
+# game/code/e08/e08s03.rpy:357
+translate korean e08s03_baf9c7ed:
+
+    # mc "How come I never met them?"
+    mc "왜 난 한 명도 못 만났지?"
+
+# game/code/e08/e08s03.rpy:360
+translate korean e08s03_196653da:
+
+    # arj "You met them."
+    arj "너도 만났거든."
+
+# game/code/e08/e08s03.rpy:362
+translate korean e08s03_61fe0509:
+
+    # mc "I would remember it if I did."
+    mc "그랬으면 기억했겠지."
+
+# game/code/e08/e08s03.rpy:365
+translate korean e08s03_6923f631:
+
+    # arj "Having a big family has its upsides and downsides."
+    arj "대가족엔 강점도 있고 단점도 있어."
+
+# game/code/e08/e08s03.rpy:366
+translate korean e08s03_cf75a9d4:
+
+    # arj "One upside is you'll never be alone."
+    arj "장점은 절대 혼자가 될 수 없다는 거."
+
+# game/code/e08/e08s03.rpy:367
+translate korean e08s03_fd49aa04:
+
+    # arj "The downside is, you'll never be left alone."
+    arj "단점도 절대 혼자가 될 수 없다는 거."
+
+# game/code/e08/e08s03.rpy:369
+translate korean e08s03_4b047e07:
+
+    # mc "What's wrong with that?"
+    mc "그게 문제야?"
+
+# game/code/e08/e08s03.rpy:370
+translate korean e08s03_6511cfab:
+
+    # arj "Won't you miss our movie nights?"
+    arj "우리 둘이서 영화 보는 밤이 그리워지지 않겠어?"
+
+# game/code/e08/e08s03.rpy:373
+translate korean e08s03_08ff6046:
+
+    # mc "We can still have our moments, right?"
+    mc "얘들이 있어도 우리만의 시간은 가질 수 있잖아?"
+
+# game/code/e08/e08s03.rpy:374
+translate korean e08s03_e0f7d0f3:
+
+    # mc "It won't be just..."
+    mc "그냥..."
+
+# game/code/e08/e08s03.rpy:379
+translate korean e08s03_c65e53f9:
+
+    # arj "Being alone has its benefits, you know?"
+    arj "혼자 있는 게 이점이 된다는 거, 알지?"
+
+# game/code/e08/e08s03.rpy:380
+translate korean e08s03_b038b1b2:
+
+    # arj "Did you always have a girlfriend?"
+    arj "넌 항상 여자 친구가 있던 거야?"
+
+# game/code/e08/e08s03.rpy:383
+translate korean e08s03_fca52711:
+
+    # mc "No."
+    mc "아니."
+
+# game/code/e08/e08s03.rpy:385
+translate korean e08s03_4a3b353c:
+
+    # arj "Were you lonely?"
+    arj "외로웠어?"
+
+# game/code/e08/e08s03.rpy:388
+translate korean e08s03_bf9a770d:
+
+    # mc "I wouldn't say I was lonely."
+    mc "혼자라서 외로웠다곤 말 못 하겠네."
+
+# game/code/e08/e08s03.rpy:389
+translate korean e08s03_b3be4acf:
+
+    # mc "I don't really remember what I was before going to college. I hung around with friends, and when I was at home, I spent time playing games."
+    mc "실은 대학 가기 전엔 그렇게 기억할 만한 게 없었어. 그냥 친구들이랑 어울리기도 했고, 집에 있을 땐 게임이나 하며 시간을 보냈지."
+
+# game/code/e08/e08s03.rpy:391
+translate korean e08s03_dac0c692:
+
+    # arj "So you never felt that way?"
+    arj "그럼 혼자 있어서 좋았던 적이 없다는 거야?"
+
+# game/code/e08/e08s03.rpy:394
+translate korean e08s03_bcae530f:
+
+    # mc "I did, but it wasn't so scary. I was in a good state of mind."
+    mc "그랬던 적이야 있지. 그래서 무섭지는 않았어. 내 정신 상태에 문제가 있던 것도 아니고."
+
+# game/code/e08/e08s03.rpy:395
+translate korean e08s03_09afb406:
+
+    # mc "How about you?"
+    mc "넌 어땠는데?"
+
+# game/code/e08/e08s03.rpy:398
+translate korean e08s03_a0d27990:
+
+    # arj "Meh."
+    arj "글쎄다."
+
+# game/code/e08/e08s03.rpy:399
+translate korean e08s03_4e8b8536:
+
+    # arj "As I said, if I didn't meet you... I don't know where I'd be."
+    arj "뭐라고 할까, 너랑 난나지 못했다면... 난 내가 어떻게 됐을지 모르겠는데."
+
+# game/code/e08/e08s03.rpy:401
+translate korean e08s03_3d733d89:
+
+    # arj "I poured myself entirely into my work, that I never really thought about having a boyfriend, or finding someone to be with."
+    arj "일에 몰두해서 남자 친구나 함께할 사람을 갖는다는 생각 자체를 하지 않았겠지."
+
+# game/code/e08/e08s03.rpy:402
+translate korean e08s03_170b0c31:
+
+    # arj "I was really missing out, as it turns out."
+    arj "이제 와서 보니까 난 정말 많은 걸 놓쳐 왔어."
+
+# game/code/e08/e08s03.rpy:404
+translate korean e08s03_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "그게 무슨 말이야?"
 
-# game/code/e08/e08s04.rpy:92
-translate korean e08s04_cb0db49d:
+# game/code/e08/e08s03.rpy:407
+translate korean e08s03_cebcc08f:
 
-    # hh "I must be somewhere."
-    hh "I must be somewhere."
+    # arj "It's like, I don't know how to describe it. It's like having an invisible wound, and that only other people can see it."
+    arj "뭐라고 할까, 어떻게 말하면 좋을지 모르겠는데. 나한텐 투명한 상처가 있었는데, 그걸 볼 수 있는 사람은 다른 사람들뿐이었다라고 할까."
 
-# game/code/e08/e08s04.rpy:95
-translate korean e08s04_377ac4ad:
+# game/code/e08/e08s03.rpy:408
+translate korean e08s03_dc5c3b00:
 
-    # hh "When the clock hits eight, I'll be on my way."
-    hh "When the clock hits eight, I'll be on my way."
+    # arj "Some poet said youth is wasted on the young. I understand why they said that. I didn't even know what was wrong with me."
+    arj "어떤 시인이 젊은이들은 젊음을 낭비한다고 했지. 이제 그렇게 말한 이유를 알겠어. 당시의 난 나한테 무슨 문제가 있는지도 몰랐으니까."
 
-# game/code/e08/e08s04.rpy:97
-translate korean e08s04_a15ee08f:
+# game/code/e08/e08s03.rpy:411
+translate korean e08s03_de590e67:
 
-    # mc "The clock isn't moving."
-    mc "The clock isn't moving."
+    # mc "There was nothing wrong with you. That's just a part of growing up."
+    mc "너한텐 무슨 문제도 없어. 그런 건 그냥 성장의 일부라고."
 
-# game/code/e08/e08s04.rpy:98
-translate korean e08s04_7f9c56e9:
+# game/code/e08/e08s03.rpy:413
+translate korean e08s03_409d2133:
 
-    # hh "Did you know around this time of the month, all the horseflies die?"
-    hh "Did you know around this time of the month, all the horseflies die?"
+    # arj "Not like I was expressing an inexpressible thought. Just articulating my thoughts, or failing to."
+    arj "무슨 대단하고 무거운 이야기를 하려고 했던 건 아닌데. 미안. 생각을 제대로 말하고 싶었는데, 실패했네."
 
-# game/code/e08/e08s04.rpy:99
-translate korean e08s04_85880acb:
+# game/code/e08/e08s03.rpy:414
+translate korean e08s03_db528b98:
 
-    # mc "Listen, Miss..."
-    mc "Listen, Miss..."
+    # mc "It's okay. I get what you're trying to say."
+    mc "괜찮아. 무슨 말 하고 싶었는지 알겠으니까."
 
-# game/code/e08/e08s04.rpy:100
-translate korean e08s04_bd19522c_1:
+# game/code/e08/e08s03.rpy:417
+translate korean e08s03_8c60e828:
 
-    # hh "Havisham."
-    hh "Havisham."
+    # arj "How many children were you thinking of having with me?"
+    arj "우리 애가 몇이면 좋겠어?"
 
-# game/code/e08/e08s04.rpy:103
-translate korean e08s04_b589650a:
+# game/code/e08/e08s03.rpy:420
+translate korean e08s03_193231cb:
 
-    # mc "Right. I'm [mcname]. You're a bit shaken, I can tell."
-    mc "Right. I'm [mcname]. You're a bit shaken, I can tell."
+    # mc "At least five."
+    mc "최소 다섯 명."
 
-# game/code/e08/e08s04.rpy:104
-translate korean e08s04_4e37c26e:
+# game/code/e08/e08s03.rpy:423
+translate korean e08s03_8ce922f9:
 
-    # mc "Can you tell me what happened?"
-    mc "Can you tell me what happened?"
+    # arj "Five?"
+    arj "다섯 명?"
 
-# game/code/e08/e08s04.rpy:106
-translate korean e08s04_21ca2efa:
+# game/code/e08/e08s03.rpy:426
+translate korean e08s03_ace8d093:
 
-    # hh "My home is gone. I have nothing left."
-    hh "My home is gone. I have nothing left."
+    # mc "It's my lucky number."
+    mc "내 행운의 숫자거든."
 
-# game/code/e08/e08s04.rpy:107
-translate korean e08s04_a6029b1c:
+# game/code/e08/e08s03.rpy:429
+translate korean e08s03_a8508811:
 
-    # hh "However, helping when I don't have anything is the most loving thing one can do."
-    hh "However, helping when I don't have anything is the most loving thing one can do."
+    # arj "Can we support that much?"
+    arj "우리가 그렇게 많이 키울 수나 있을까?"
 
-# game/code/e08/e08s04.rpy:110
-translate korean e08s04_f62a21ad:
+# game/code/e08/e08s03.rpy:430
+translate korean e08s03_42460a2d:
 
-    # mc "Okay, you're in shock."
-    mc "Okay, you're in shock."
+    # arj "I doubt we're making a windfall in terms of profit, right?"
+    arj "우리가 무슨 떼돈을 버는 것도 아니잖아?"
 
-# game/code/e08/e08s04.rpy:111
-translate korean e08s04_4f63b894:
+# game/code/e08/e08s03.rpy:433
+translate korean e08s03_9e00abe6:
 
-    # mc "I'll only be a minute, one minute, and I'll be back."
-    mc "I'll only be a minute, one minute, and I'll be back."
+    # mc "We'll make it work."
+    mc "우리라면 어떻게든 해낼 수 있어."
 
-# game/code/e08/e08s04.rpy:112
-translate korean e08s04_6c87dac1:
+# game/code/e08/e08s03.rpy:434
+translate korean e08s03_9179b83e:
 
-    # mc "So stay right here."
-    mc "So stay right here."
+    # mc "And if not, we can always ask the neighbors."
+    mc "힘들면, 이웃들 손 좀 빌리면 되지."
 
-# game/code/e08/e08s04.rpy:121
-translate korean e08s04_1dcfe3ba:
+# game/code/e08/e08s03.rpy:440
+translate korean e08s03_849d23ea:
 
-    # arj "Mmm..."
-    arj "Mmm..."
+    # mc "Come on, let's keep talking."
+    mc "자, 계속 이야기해 보자구."
 
-# game/code/e08/e08s04.rpy:122
-translate korean e08s04_7b6e5595:
+# game/code/e08/e08s03.rpy:443
+translate korean e08s03_26006bdd:
 
-    # arj "Is it morning?"
-    arj "Is it morning?"
+    # arj "I'm getting really scared."
+    arj "나 정말 무서워."
 
-# game/code/e08/e08s04.rpy:126
-translate korean e08s04_bc1b377d:
+# game/code/e08/e08s03.rpy:445
+translate korean e08s03_9e313545:
 
-    # mc "I'm sorry if I woke you."
-    mc "I'm sorry if I woke you."
+    # mc "It'll pass."
+    mc "괜찮아질 거야."
 
-# game/code/e08/e08s04.rpy:127
-translate korean e08s04_5f14483c:
+# game/code/e08/e08s03.rpy:448
+translate korean e08s03_663657c3:
 
-    # mc "I was just looking for something..."
-    mc "I was just looking for something..."
+    # arj "Aren't you a little scared?"
+    arj "넌 조금도 안 무서워?"
 
-# game/code/e08/e08s04.rpy:129
-translate korean e08s04_228898dc:
+# game/code/e08/e08s03.rpy:450
+translate korean e08s03_70eb12bf:
 
-    # arj "It's okay. I was going to wake up anyway."
-    arj "It's okay. I was going to wake up anyway."
+    # mc "More than a little scared."
+    mc "조금보단 조금 무섭지."
 
-# game/code/e08/e08s04.rpy:130
-translate korean e08s04_b07c245c:
+# game/code/e08/e08s03.rpy:451
+translate korean e08s03_4cd44184:
 
-    # arj "What are you looking for?"
-    arj "What are you looking for?"
+    # arj "..."
+    arj "..."
 
-# game/code/e08/e08s04.rpy:133
-translate korean e08s04_3fe92883:
+# game/code/e08/e08s03.rpy:454
+translate korean e08s03_f44c365e:
 
-    # mc "There's a woman out there, she looks pretty beat up."
-    mc "There's a woman out there, she looks pretty beat up."
+    # mc "We made it this far, right? I find it difficult something would happen to us right now, when we're talking about children."
+    mc "우린 여기까지 해냈잖아? 방금까지 아이를 몇 가질까 이야길 하고 있었는데 무슨 일이 생기겠어?"
 
-# game/code/e08/e08s04.rpy:134
-translate korean e08s04_59087f0d:
+# game/code/e08/e08s03.rpy:455
+translate korean e08s03_33933ce9:
 
-    # mc "She probably needs some stuff. She says she's leaving soon."
-    mc "She probably needs some stuff. She says she's leaving soon."
+    # mc "That would be the ultimate irony."
+    mc "무슨 일 생기면 정말 말도 안 되는 거야."
 
-# game/code/e08/e08s04.rpy:136
-translate korean e08s04_8627d5ce:
+# game/code/e08/e08s03.rpy:457
+translate korean e08s03_87b39068:
 
-    # arj "There are some eggs, we can give her a basketful."
-    arj "There are some eggs, we can give her a basketful."
+    # arj "I suppose."
+    arj "그럴지도."
 
-# game/code/e08/e08s04.rpy:140
-translate korean e08s04_f3814906:
+# game/code/e08/e08s03.rpy:460
+translate korean e08s03_5fe20b5e:
 
-    # mc "Maybe we can convince her to stay."
-    mc "Maybe we can convince her to stay."
+    # mc "I'm not joking. We have known each other for a long time."
+    mc "빈 말 아냐. 우리 서로 오래 알아왔잖아"
 
-# game/code/e08/e08s04.rpy:142
-translate korean e08s04_d40d9d88:
+# game/code/e08/e08s03.rpy:461
+translate korean e08s03_fb9a435d:
 
-    # arj "Why?"
-    arj "Why?"
+    # mc "And whatever happened, throughout it all, we ended up together."
+    mc "그 어떤 일도 우리는 헤쳐 나왔고, 결국 하나가 됐어."
 
-# game/code/e08/e08s04.rpy:143
-translate korean e08s04_70a444bd:
+# game/code/e08/e08s03.rpy:462
+translate korean e08s03_68fb6460:
 
-    # mc "I don't know."
-    mc "I don't know."
+    # mc "We both decided, all the choices we made, it would be to ensure we were here right here, right now, in this barn, having this conversation."
+    mc "우리 둘 다 스스로 결정한 거야. 그리고 그 결정들이 모여서 바로 이곳, 지금 여기, 이 헛간에서 우리가 이 대화를 하고 있는 거야."
 
-# game/code/e08/e08s04.rpy:144
-translate korean e08s04_81cfa8f1:
+# game/code/e08/e08s03.rpy:473
+translate korean e08s03_95c7633a:
 
-    # mc "I don't imagine her getting very far with that clock."
-    mc "I don't imagine her getting very far with that clock."
+    # mc "Are you okay?"
+    mc "괜찮아?"
 
-# game/code/e08/e08s04.rpy:151
-translate korean e08s04_a97951b7:
+# game/code/e08/e08s03.rpy:475
+translate korean e08s03_b35e998e:
 
-    # mc "Here."
-    mc "Here."
+    # arj "Holy hell, that scared me."
+    arj "세상에 염병, 정말 무서워."
 
-# game/code/e08/e08s04.rpy:152
-translate korean e08s04_a9d7bde6:
+# game/code/e08/e08s03.rpy:476
+translate korean e08s03_7e5cd954:
 
-    # mc "Drink."
-    mc "Drink."
+    # mc "When is this going to be over?"
+    mc "이건 언제 끝날까?"
 
-# game/code/e08/e08s04.rpy:159
-translate korean e08s04_c7dac84e:
+# game/code/e08/e08s03.rpy:477
+translate korean e08s03_107a807e:
 
-    # mc "You must have really been thirsty."
-    mc "You must have really been thirsty."
+    # arj "Hold me."
+    arj "안아 줘."
 
-# game/code/e08/e08s04.rpy:160
-translate korean e08s04_cbae4e19:
+# game/code/e08/e08s03.rpy:481
+translate korean e08s03_87d2fc95:
 
-    # mc "This is Amber-Rose. We're together."
-    mc "This is Amber-Rose. We're together."
+    # mc "I'll never let you go."
+    mc "절대로 안 놓을게."
 
-# game/code/e08/e08s04.rpy:163
-translate korean e08s04_fe53ce04:
+# game/code/e08/e08s03.rpy:483
+translate korean e08s03_ff92642c:
 
-    # arj "Hello."
-    arj "Hello."
+    # arj "Do you regret any of it?"
+    arj "후회하는 거 있어?"
 
-# game/code/e08/e08s04.rpy:165
-translate korean e08s04_bd19522c_2:
+# game/code/e08/e08s03.rpy:485
+translate korean e08s03_fca52711_1:
 
-    # hh "Havisham."
-    hh "Havisham."
+    # mc "No."
+    mc "없어."
 
-# game/code/e08/e08s04.rpy:167
-translate korean e08s04_4a4b5a19:
-
-    # mc "That's her name."
-    mc "That's her name."
-
-# game/code/e08/e08s04.rpy:168
-translate korean e08s04_e394433d:
-
-    # arj "Is that your first name or your surname?"
-    arj "Is that your first name or your surname?"
-
-# game/code/e08/e08s04.rpy:169
-translate korean e08s04_f92bf219:
-
-    # hh "My mother's name."
-    hh "My mother's name."
-
-# game/code/e08/e08s04.rpy:170
-translate korean e08s04_e70f1875:
-
-    # hh "She was a watchmaker."
-    hh "She was a watchmaker."
-
-# game/code/e08/e08s04.rpy:173
-translate korean e08s04_ef523f71:
-
-    # arj "I heard you were leaving. So before you did..."
-    arj "I heard you were leaving. So before you did..."
-
-# game/code/e08/e08s04.rpy:174
-translate korean e08s04_576a38a2:
-
-    # arj "Here."
-    arj "Here."
-
-# game/code/e08/e08s04.rpy:175
-translate korean e08s04_6dc61341:
-
-    # arj "Here's some eggs. If you need to take it home, we have enough food to tide us over."
-    arj "Here's some eggs. If you need to take it home, we have enough food to tide us over."
-
-# game/code/e08/e08s04.rpy:177
-translate korean e08s04_2f8291f5:
-
-    # hh "Eggs?"
-    hh "Eggs?"
-
-# game/code/e08/e08s04.rpy:180
-translate korean e08s04_b98b97de:
-
-    # arj "Do you need anything else?"
-    arj "Do you need anything else?"
-
-# game/code/e08/e08s04.rpy:181
-translate korean e08s04_d09b0352:
-
-    # arj "What's wrong?"
-    arj "What's wrong?"
-
-# game/code/e08/e08s04.rpy:184
-translate korean e08s04_b441e578:
-
-    # hh "You would give a complete stranger your last remaining food?"
-    hh "You would give a complete stranger your last remaining food?"
-
-# game/code/e08/e08s04.rpy:185
-translate korean e08s04_9a8e70a5:
-
-    # hh "That is a kind gesture, reserved for only the happiest of occasions."
-    hh "That is a kind gesture, reserved for only the happiest of occasions."
-
-# game/code/e08/e08s04.rpy:188
-translate korean e08s04_a2a132e9:
-
-    # mc "Don't worry, we have more where that came from."
-    mc "Don't worry, we have more where that came from."
-
-# game/code/e08/e08s04.rpy:190
-translate korean e08s04_226a8ac6:
-
-    # arj "You're on a farm, after all."
-    arj "You're on a farm, after all."
-
-# game/code/e08/e08s04.rpy:191
-translate korean e08s04_0793a78a:
-
-    # arj "It may not look like it, after last night."
-    arj "It may not look like it, after last night."
-
-# game/code/e08/e08s04.rpy:192
-translate korean e08s04_bdf3e13d:
-
-    # arj "Do you want to come in? You look pretty shaken up."
-    arj "Do you want to come in? You look pretty shaken up."
-
-# game/code/e08/e08s04.rpy:194
-translate korean e08s04_5d0925df:
-
-    # mct "Why else is she talking in old-timey language?"
-    mct "Why else is she talking in old-timey language?"
-
-# game/code/e08/e08s04.rpy:196
-translate korean e08s04_b3b6f7f8:
-
-    # hh "No, I must be going."
-    hh "No, I must be going."
-
-# game/code/e08/e08s04.rpy:198
-translate korean e08s04_25fd1c5b:
-
-    # hh "I'm on my way to the women's shelter. They're waiting for me."
-    hh "I'm on my way to the women's shelter. They're waiting for me."
-
-# game/code/e08/e08s04.rpy:199
-translate korean e08s04_701658a4:
-
-    # hh "I'm the mother hen."
-    hh "I'm the mother hen."
-
-# game/code/e08/e08s04.rpy:201
-translate korean e08s04_0a104480:
-
-    # mc "Really, you?"
-    mc "Really, you?"
-
-# game/code/e08/e08s04.rpy:203
-translate korean e08s04_03bd3623:
-
-    # arj "[mcname]."
-    arj "[mcname]."
-
-# game/code/e08/e08s04.rpy:208
-translate korean e08s04_97df7fc2:
-
-    # mc "I mean... that's great."
-    mc "I mean... that's great."
-
-# game/code/e08/e08s04.rpy:210
-translate korean e08s04_94504d03:
-
-    # hh "They're waiting for me to tell them what to do."
-    hh "They're waiting for me to tell them what to do."
-
-# game/code/e08/e08s04.rpy:212
-translate korean e08s04_e7e4e4ae:
-
-    # arj "What to do?"
-    arj "What to do?"
-
-# game/code/e08/e08s04.rpy:215
-translate korean e08s04_8aded32b:
-
-    # hh "Everything is destroyed. There is nothing left back home."
-    hh "Everything is destroyed. There is nothing left back home."
-
-# game/code/e08/e08s04.rpy:216
-translate korean e08s04_e241197f:
-
-    # hh "No home."
-    hh "No home."
-
-# game/code/e08/e08s04.rpy:217
-translate korean e08s04_e0010c89:
-
-    # hh "All I managed to salvage was my clock, which is broken now."
-    hh "All I managed to salvage was my clock, which is broken now."
-
-# game/code/e08/e08s04.rpy:218
-translate korean e08s04_0346236b:
-
-    # hh "I'll have to fix it. It's the only thing that remains now of hers."
-    hh "I'll have to fix it. It's the only thing that remains now of hers."
-
-# game/code/e08/e08s04.rpy:219
-translate korean e08s04_5b893dd9:
-
-    # hh "It's a talisman."
-    hh "It's a talisman."
-
-# game/code/e08/e08s04.rpy:222
-translate korean e08s04_c56229b1:
-
-    # mc "What's a talisman?"
-    mc "What's a talisman?"
-
-# game/code/e08/e08s04.rpy:224
-translate korean e08s04_6909ffc9:
-
-    # hh "What helps us survive."
-    hh "What helps us survive."
-
-# game/code/e08/e08s04.rpy:226
-translate korean e08s04_1c48fe6c:
-
-    # arj "If it's any consolation, Miss Havisham, our clock is broken too."
-    arj "If it's any consolation, Miss Havisham, our clock is broken too."
-
-# game/code/e08/e08s04.rpy:228
-translate korean e08s04_e9eebe06:
-
-    # mc "You mean our phone? It's out of charge."
-    mc "You mean our phone? It's out of charge."
-
-# game/code/e08/e08s04.rpy:230
-translate korean e08s04_fa508aba:
-
-    # arj "No, all our clocks are broken in the house. Probably an electrical problem."
-    arj "No, all our clocks are broken in the house. Probably an electrical problem."
-
-# game/code/e08/e08s04.rpy:231
-translate korean e08s04_91b8ca9e:
-
-    # hh "I'll bring these eggs back to the shelter."
-    hh "I'll bring these eggs back to the shelter."
-
-# game/code/e08/e08s04.rpy:232
-translate korean e08s04_5c2a3567:
-
-    # mc "Where is it located?"
-    mc "Where is it located?"
-
-# game/code/e08/e08s04.rpy:233
-translate korean e08s04_d19c35ce:
-
-    # hh "It's a couple of miles from here. By the town library."
-    hh "It's a couple of miles from here. By the town library."
-
-# game/code/e08/e08s04.rpy:236
-translate korean e08s04_75dc7ec8:
-
-    # arj "Do you want us to drive you?"
-    arj "Do you want us to drive you?"
-
-# game/code/e08/e08s04.rpy:238
-translate korean e08s04_d29109ae:
-
-    # hh "No."
-    hh "No."
-
-# game/code/e08/e08s04.rpy:239
-translate korean e08s04_a2895728:
-
-    # hh "Thank you."
-    hh "Thank you."
-
-# game/code/e08/e08s04.rpy:240
-translate korean e08s04_529d20c0:
-
-    # hh "I get carsick."
-    hh "I get carsick."
-
-# game/code/e08/e08s04.rpy:243
-translate korean e08s04_626d3f7a:
-
-    # hh "Thank you for the eggs."
-    hh "Thank you for the eggs."
-
-# game/code/e08/e08s04.rpy:244
-translate korean e08s04_34ef4a0b:
-
-    # hh "When you see me again, I hope it will be under better circumstances."
-    hh "When you see me again, I hope it will be under better circumstances."
-
-# game/code/e08/e08s04.rpy:251
-translate korean e08s04_c72f89a9:
-
-    # mc "That was weird."
-    mc "That was weird."
-
-# game/code/e08/e08s04.rpy:253
-translate korean e08s04_fc35108e:
-
-    # arj "Uh, yeah."
-    arj "Uh, yeah."
-
-# game/code/e08/e08s04.rpy:254
-translate korean e08s04_02642bb5:
-
-    # mc "Is she going to be okay?"
-    mc "Is she going to be okay?"
-
-# game/code/e08/e08s04.rpy:255
-translate korean e08s04_dd9f4b64:
-
-    # arj "I really don't know."
-    arj "I really don't know."
-
-# game/code/e08/e08s04.rpy:257
-translate korean e08s04_0f32110e:
-
-    # mct "What a weird interaction that was."
-    mct "What a weird interaction that was."
-
-# game/code/e08/e08s04.rpy:258
-translate korean e08s04_be42fadc:
-
-    # mct "She was like a ghost."
-    mct "She was like a ghost."
-
-# game/code/e08/e08s04.rpy:261
-translate korean e08s04_a39ca151:
-
-    # mc "I didn't know there was a shelter around here."
-    mc "I didn't know there was a shelter around here."
-
-# game/code/e08/e08s04.rpy:263
-translate korean e08s04_0f5bc6d6:
+# game/code/e08/e08s03.rpy:486
+translate korean e08s03_0f5bc6d6:
 
     # arj "Me neither."
-    arj "Me neither."
-
-# game/code/e08/e08s04.rpy:264
-translate korean e08s04_2910d468:
-
-    # arj "They must have been around for a while. It's weird how we've been here for more than a year and we don't know what all the buildings are."
-    arj "They must have been around for a while. It's weird how we've been here for more than a year and we don't know what all the buildings are."
-
-# game/code/e08/e08s04.rpy:267
-translate korean e08s04_ee96946c:
-
-    # mc "That's not that weird."
-    mc "That's not that weird."
-
-# game/code/e08/e08s04.rpy:268
-translate korean e08s04_b24eb4c3:
-
-    # mc "We don't really go anywhere."
-    mc "We don't really go anywhere."
-
-# game/code/e08/e08s04.rpy:270
-translate korean e08s04_09370ab9:
-
-    # arj "We should get to know our neighbors better. Not just our immediate neighbors like Ashley and Frank. Other ones outside our immediate vicinity."
-    arj "We should get to know our neighbors better. Not just our immediate neighbors like Ashley and Frank. Other ones outside our immediate vicinity."
-
-# game/code/e08/e08s04.rpy:271
-translate korean e08s04_516904ab:
-
-    # mc "We might have to."
-    mc "We might have to."
-
-# game/code/e08/e08s04.rpy:275
-translate korean e08s04_74e9f063:
-
-    # mc "Our house looks okay, somehow."
-    mc "Our house looks okay, somehow."
-
-# game/code/e08/e08s04.rpy:277
-translate korean e08s04_567ab456:
-
-    # arj "I hope it's the same story inside."
-    arj "I hope it's the same story inside."
-
-# game/code/e08/e08s04.rpy:278
-translate korean e08s04_cf1adef2:
-
-    # mc "Yeah."
-    mc "Yeah."
-
-# game/code/e08/e08s04.rpy:281
-translate korean e08s04_09965611:
-
-    # arj "What are the chances the electricity is on?"
-    arj "What are the chances the electricity is on?"
-
-# game/code/e08/e08s04.rpy:283
-translate korean e08s04_ef186835:
-
-    # mc "About zero. Same with the water, and the internet."
-    mc "About zero. Same with the water, and the internet."
-
-# game/code/e08/e08s04.rpy:284
-translate korean e08s04_aac4cdf0:
-
-    # mc "It'll probably take a couple of days for it to be restored."
-    mc "It'll probably take a couple of days for it to be restored."
-
-# game/code/e08/e08s04.rpy:287
-translate korean e08s04_1a539e70:
-
-    # arj "What do we do in the meantime?"
-    arj "What do we do in the meantime?"
-
-# game/code/e08/e08s04.rpy:289
-translate korean e08s04_be19ab44:
-
-    # mc "Let's check how much food we have."
-    mc "Let's check how much food we have."
-
-# game/code/e08/e08s04.rpy:291
-translate korean e08s04_c285c125:
-
-    # mc "Then we can start boiling some water, so we can take a bath together, because I really need one."
-    mc "Then we can start boiling some water, so we can take a bath together, because I really need one."
-
-# game/code/e08/e08s04.rpy:292
-translate korean e08s04_026bb471:
-
-    # mc "We'll clean around the house. There's not much we can do out here that we haven't taken care of yesterday."
-    mc "We'll clean around the house. There's not much we can do out here that we haven't taken care of yesterday."
-
-# game/code/e08/e08s04.rpy:294
-translate korean e08s04_24c9bb5d:
-
-    # arj "Alright."
-    arj "Alright."
-
-# game/code/e08/e08s04.rpy:295
-translate korean e08s04_d056d011:
-
-    # arj "I'll get Remy."
-    arj "I'll get Remy."
-
-# game/code/e08/e08s04.rpy:303
-translate korean e08s04_390c3454:
-
-    # mc "I don't think we have enough."
-    mc "I don't think we have enough."
-
-# game/code/e08/e08s04.rpy:305
-translate korean e08s04_e2e0eff2:
-
-    # arj "Definitely not."
-    arj "Definitely not."
-
-# game/code/e08/e08s04.rpy:306
-translate korean e08s04_3533a42c:
-
-    # mc "How much do we need?"
-    mc "How much do we need?"
-
-# game/code/e08/e08s04.rpy:307
-translate korean e08s04_bc7d21b5:
-
-    # arj "I'm not sure."
-    arj "I'm not sure."
-
-# game/code/e08/e08s04.rpy:310
-translate korean e08s04_45a78f33:
-
-    # arj "Are we using pots as the measurement?"
-    arj "Are we using pots as the measurement?"
-
-# game/code/e08/e08s04.rpy:312
-translate korean e08s04_a37dbe43:
-
-    # mc "I suppose so."
-    mc "I suppose so."
-
-# game/code/e08/e08s04.rpy:313
-translate korean e08s04_ec5971d9:
-
-    # arj "We need like two more runs."
-    arj "We need like two more runs."
-
-# game/code/e08/e08s04.rpy:321
-translate korean e08s04_a362fe68:
-
-    # mc "I'll get it."
-    mc "I'll get it."
-
-# game/code/e08/e08s04.rpy:325
-translate korean e08s04_0c92ad14:
-
-    # mc "Oh my God."
-    mc "Oh my God."
-
-# game/code/e08/e08s04.rpy:326
-translate korean e08s04_f3b3d28f:
-
-    # mc "What's wrong?"
-    mc "What's wrong?"
-
-# game/code/e08/e08s04.rpy:330
-translate korean e08s04_5fcac651:
-
-    # fc "We need some help."
-    fc "We need some help."
-
-# game/code/e08/e08s04.rpy:332
-translate korean e08s04_a72d2b8c:
-
-    # mc "Yeah, come in."
-    mc "Yeah, come in."
-
-# game/code/e08/e08s04.rpy:333
-translate korean e08s04_b9b79bdd:
-
-    # mct "Thankfully we stocked the first aid kit before the storm."
-    mct "Thankfully we stocked the first aid kit before the storm."
-
-# game/code/e08/e08s04.rpy:340
-translate korean e08s04_7d010a14:
-
-    # mc "What happened?"
-    mc "What happened?"
-
-# game/code/e08/e08s04.rpy:342
-translate korean e08s04_36045d7e:
-
-    # fc "Don't worry, we're fine."
-    fc "Don't worry, we're fine."
-
-# game/code/e08/e08s04.rpy:343
-translate korean e08s04_c4366644:
-
-    # fc "Will you know it, our barn exploded."
-    fc "Will you know it, our barn exploded."
-
-# game/code/e08/e08s04.rpy:345
-translate korean e08s04_ac143ef6:
-
-    # mc "Exploded?"
-    mc "Exploded?"
-
-# game/code/e08/e08s04.rpy:348
-translate korean e08s04_2bb6a01b:
-
-    # fc "Boom. During the storm, no less."
-    fc "Boom. During the storm, no less."
-
-# game/code/e08/e08s04.rpy:349
-translate korean e08s04_32358435:
-
-    # fc "We weren't inside, thankfully."
-    fc "We weren't inside, thankfully."
-
-# game/code/e08/e08s04.rpy:350
-translate korean e08s04_21220833:
-
-    # fc "Ashley passed out though, the destruction of our farm, the stress just put her over the edge."
-    fc "Ashley passed out though, the destruction of our farm, the stress just put her over the edge."
-
-# game/code/e08/e08s04.rpy:352
-translate korean e08s04_c0968e63:
-
-    # mc "Do you have a place to go?"
-    mc "Do you have a place to go?"
-
-# game/code/e08/e08s04.rpy:355
-translate korean e08s04_3f0bce17:
-
-    # fc "I was hoping you could do us a favor."
-    fc "I was hoping you could do us a favor."
-
-# game/code/e08/e08s04.rpy:357
-translate korean e08s04_2abf6abd:
-
-    # mc "Of course, you guys can stay here."
-    mc "Of course, you guys can stay here."
-
-# game/code/e08/e08s04.rpy:358
-translate korean e08s04_b55d8e66:
-
-    # mc "The basement is flooded, so you'll have to stay in the living room. Is that okay?"
-    mc "The basement is flooded, so you'll have to stay in the living room. Is that okay?"
-
-# game/code/e08/e08s04.rpy:362
-translate korean e08s04_91b90b82:
-
-    # fc "That's perfectly acceptable."
-    fc "That's perfectly acceptable."
-
-# game/code/e08/e08s04.rpy:363
-translate korean e08s04_1dc9f865:
-
-    # fc "Any place with a couch and working kitchen is more than enough."
-    fc "Any place with a couch and working kitchen is more than enough."
-
-# game/code/e08/e08s04.rpy:365
-translate korean e08s04_e4497318:
-
-    # mc "Alright, because it can get a little chilly here."
-    mc "Alright, because it can get a little chilly here."
-
-# game/code/e08/e08s04.rpy:366
-translate korean e08s04_02f02d87:
-
-    # mc "I'll let AmRose know."
-    mc "I'll let AmRose know."
-
-# game/code/e08/e08s04.rpy:369
-translate korean e08s04_151afc9a:
-
-    # fc "Hey, [mcname]. Thanks again."
-    fc "Hey, [mcname]. Thanks again."
-
-# game/code/e08/e08s04.rpy:371
-translate korean e08s04_0b15d407:
-
-    # mc "Don't worry about it."
-    mc "Don't worry about it."
-
-# game/code/e08/e08s04.rpy:380
-translate korean e08s04_954cde79:
-
-    # arj "Oh my God, is she okay?"
-    arj "Oh my God, is she okay?"
-
-# game/code/e08/e08s04.rpy:382
-translate korean e08s04_1c2543c4:
-
-    # mc "Hey, AmRose, these two are staying here."
-    mc "Hey, AmRose, these two are staying here."
-
-# game/code/e08/e08s04.rpy:384
-translate korean e08s04_7e46017d:
-
-    # fc "She's fine, AmRose. Just needs a bit of rest, if you don't mind our imposition."
-    fc "She's fine, AmRose. Just needs a bit of rest, if you don't mind our imposition."
-
-# game/code/e08/e08s04.rpy:385
-translate korean e08s04_80e9dfd3:
-
-    # arj "No, of course not."
-    arj "No, of course not."
-
-# game/code/e08/e08s04.rpy:388
-translate korean e08s04_d57c5824:
-
-    # arj "We were just going to take a bath."
-    arj "We were just going to take a bath."
-
-# game/code/e08/e08s04.rpy:389
-translate korean e08s04_d6f3720b:
-
-    # arj "You guys can go first if you want."
-    arj "You guys can go first if you want."
-
-# game/code/e08/e08s04.rpy:392
-translate korean e08s04_80eb36c8:
-
-    # fc "No, no, you've done enough by letting us stay."
-    fc "No, no, you've done enough by letting us stay."
-
-# game/code/e08/e08s04.rpy:393
-translate korean e08s04_0a519d09:
-
-    # fc "You guys go ahead."
-    fc "You guys go ahead."
-
-# game/code/e08/e08s04.rpy:395
-translate korean e08s04_27c9800e:
-
-    # arj "Are you sure?"
-    arj "Are you sure?"
-
-# game/code/e08/e08s04.rpy:397
-translate korean e08s04_fc12b71a:
-
-    # fc "Sure, sure. Go on."
-    fc "Sure, sure. Go on."
-
-# game/code/e08/e08s04.rpy:398
-translate korean e08s04_ab67fc00:
-
-    # fc "We'll be okay here."
-    fc "We'll be okay here."
-
-# game/code/e08/e08s04.rpy:401
-translate korean e08s04_6cb072c2:
-
-    # mc "If you need anything else, let us know."
-    mc "If you need anything else, let us know."
-
-# game/code/e08/e08s04.rpy:402
-translate korean e08s04_566ab0c8:
-
-    # mc "Medical supplies should be all in the pantry. Water's unaffected, it's still running."
-    mc "Medical supplies should be all in the pantry. Water's unaffected, it's still running."
-
-# game/code/e08/e08s04.rpy:404
-translate korean e08s04_a77262c6:
-
-    # fc "Got it."
-    fc "Got it."
-
-# game/code/e08/e08s04.rpy:416
-translate korean e08s04_bathtub_bb3d3d52:
-
-    # arj "I think we're still one pot short, and the water's not as hot as we'd like it."
-    arj "I think we're still one pot short, and the water's not as hot as we'd like it."
-
-# game/code/e08/e08s04.rpy:417
-translate korean e08s04_bathtub_1f2018e8:
-
-    # arj "But it has been two days."
-    arj "But it has been two days."
-
-# game/code/e08/e08s04.rpy:419
-translate korean e08s04_bathtub_80136da1:
-
-    # mc "And we are filthy."
-    mc "And we are filthy."
-
-# game/code/e08/e08s04.rpy:427
-translate korean e08s04_bathtub_dd75ab33:
-
-    # mc "Ahh..."
-    mc "Ahh..."
-
-# game/code/e08/e08s04.rpy:429
-translate korean e08s04_bathtub_caa3a8a2:
-
-    # arj "It's still warm."
-    arj "It's still warm."
-
-# game/code/e08/e08s04.rpy:430
-translate korean e08s04_bathtub_95ad5f6a:
-
-    # mc "We should wash Remy too."
-    mc "We should wash Remy too."
-
-# game/code/e08/e08s04.rpy:433
-translate korean e08s04_bathtub_6e45d7c8:
-
-    # arj "What, now?"
-    arj "What, now?"
-
-# game/code/e08/e08s04.rpy:435
-translate korean e08s04_bathtub_875550b4:
-
-    # mc "No, after Frank and Ashley."
-    mc "No, after Frank and Ashley."
-
-# game/code/e08/e08s04.rpy:436
-translate korean e08s04_bathtub_2e392384:
-
-    # arj "What happened to her?"
-    arj "What happened to her?"
-
-# game/code/e08/e08s04.rpy:439
-translate korean e08s04_bathtub_b0d5abf2:
-
-    # mc "Their barn exploded."
-    mc "Their barn exploded."
-
-# game/code/e08/e08s04.rpy:441
-translate korean e08s04_bathtub_e15a70a6:
-
-    # arj "Really?"
-    arj "Really?"
-
-# game/code/e08/e08s04.rpy:442
-translate korean e08s04_bathtub_cf1adef2:
-
-    # mc "Yeah."
-    mc "Yeah."
-
-# game/code/e08/e08s04.rpy:445
-translate korean e08s04_bathtub_8aceed5d:
-
-    # arj "Exploded? That's a lot to take in."
-    arj "Exploded? That's a lot to take in."
-
-# game/code/e08/e08s04.rpy:446
-translate korean e08s04_bathtub_ccf2a2ee:
-
-    # arj "Did Ashley get hurt?"
-    arj "Did Ashley get hurt?"
-
-# game/code/e08/e08s04.rpy:448
-translate korean e08s04_bathtub_eb9c1f6d:
-
-    # mc "No. She collapsed apparently, due to the burden of it all."
-    mc "No. She collapsed apparently, due to the burden of it all."
-
-# game/code/e08/e08s04.rpy:449
-translate korean e08s04_bathtub_e690a622:
-
-    # mc "Sounds like an ulcer brought on by stress."
-    mc "Sounds like an ulcer brought on by stress."
-
-# game/code/e08/e08s04.rpy:452
-translate korean e08s04_bathtub_33841aa5:
-
-    # arj "I feel so sorry for her, and Frank. They've been here a lot longer than us, but we came out relatively unscathed."
-    arj "I feel so sorry for her, and Frank. They've been here a lot longer than us, but we came out relatively unscathed."
-
-# game/code/e08/e08s04.rpy:453
-translate korean e08s04_bathtub_8967be26:
-
-    # arj "Were we just lucky?"
-    arj "Were we just lucky?"
-
-# game/code/e08/e08s04.rpy:455
-translate korean e08s04_bathtub_00ef3952:
-
-    # mc "At least everyone is okay."
-    mc "At least everyone is okay."
-
-# game/code/e08/e08s04.rpy:457
-translate korean e08s04_bathtub_2b777c6f:
-
-    # mc "But that Havisham lady has seen better days."
-    mc "But that Havisham lady has seen better days."
-
-# game/code/e08/e08s04.rpy:459
-translate korean e08s04_bathtub_b23ad953:
-
-    # arj "We can probably go for a visit downtown, and see if they have any supplies left. Maybe we can get something for the shelter."
-    arj "We can probably go for a visit downtown, and see if they have any supplies left. Maybe we can get something for the shelter."
-
-# game/code/e08/e08s04.rpy:461
-translate korean e08s04_bathtub_606e2d02:
-
-    # mc "Sure."
-    mc "Sure."
-
-# game/code/e08/e08s04.rpy:466
-translate korean e08s04_bathtub_70b1356a:
-
-    # mc "In the meantime, how about we, you know..."
-    mc "In the meantime, how about we, you know..."
-
-# game/code/e08/e08s04.rpy:469
-translate korean e08s04_bathtub_e15a70a6_1:
-
-    # arj "Really?"
-    arj "Really?"
-
-# game/code/e08/e08s04.rpy:470
-translate korean e08s04_bathtub_56c3991c:
-
-    # mc "Why not?"
-    mc "Why not?"
-
-# game/code/e08/e08s04.rpy:473
-translate korean e08s04_bathtub_3849c4ba:
-
-    # arj "You get aroused at the weirdest moments."
-    arj "You get aroused at the weirdest moments."
-
-# game/code/e08/e08s04.rpy:475
-translate korean e08s04_bathtub_8c150848:
-
-    # mc "Are you worried that they might hear us?"
-    mc "Are you worried that they might hear us?"
-
-# game/code/e08/e08s04.rpy:478
-translate korean e08s04_bathtub_f763bdc5:
-
-    # arj "They {i}will{/i} hear us."
-    arj "They {i}will{/i} hear us."
-
-# game/code/e08/e08s04.rpy:480
-translate korean e08s04_bathtub_2d03b089:
-
-    # mc "It's just that seeing you as such a caring and loving person makes me want to share in that love, is that so weird?"
-    mc "It's just that seeing you as such a caring and loving person makes me want to share in that love, is that so weird?"
-
-# game/code/e08/e08s04.rpy:481
-translate korean e08s04_bathtub_ae2c595c:
-
-    # arj "A little bit."
-    arj "A little bit."
-
-# game/code/e08/e08s04.rpy:484
-translate korean e08s04_bathtub_db2a8fb9:
-
-    # arj "Alright. Let's do it, but let's not be too loud. We don't want to wake up Ashley."
-    arj "Alright. Let's do it, but let's not be too loud. We don't want to wake up Ashley."
-
-# game/code/e08/e08s04.rpy:486
-translate korean e08s04_bathtub_be2251f7:
-
-    # mc "Why don't we try something new?"
-    mc "Why don't we try something new?"
-
-# game/code/e08/e08s04.rpy:489
-translate korean e08s04_bathtub_ace25142:
-
-    # arj "What do you have in mind?"
-    arj "What do you have in mind?"
-
-# game/code/e08/e08s04.rpy:491
-translate korean e08s04_bathtub_82b192e4:
-
-    # mc "Let me show you."
-    mc "Let me show you."
-
-# game/code/e08/e08s04.rpy:497
-translate korean e08s04_bathtub_a2c35e5c:
-
-    # arj "I hope I don't fall."
-    arj "I hope I don't fall."
-
-# game/code/e08/e08s04.rpy:499
-translate korean e08s04_bathtub_17c6a12b:
-
-    # mc "Don't worry, just hold on to the bath."
-    mc "Don't worry, just hold on to the bath."
-
-# game/code/e08/e08s04.rpy:502
-translate korean e08s04_bathtub_63fc3fd1:
-
-    # arj "Are you sure about this?"
-    arj "Are you sure about this?"
-
-# game/code/e08/e08s04.rpy:510
-translate korean e08s04_bathtub_7644b250:
-
-    # mc "Before we do this, we should pick a safe word."
-    mc "Before we do this, we should pick a safe word."
-
-# game/code/e08/e08s04.rpy:512
-translate korean e08s04_bathtub_1efdc5eb:
-
-    # arj "Well, it doesn't really make sense to have a safe word seeing as how my head will be underwater."
-    arj "Well, it doesn't really make sense to have a safe word seeing as how my head will be underwater."
-
-# game/code/e08/e08s04.rpy:513
-translate korean e08s04_bathtub_efb3aab4:
-
-    # mc "Okay, so how are you going to let me know?"
-    mc "Okay, so how are you going to let me know?"
-
-# game/code/e08/e08s04.rpy:516
-translate korean e08s04_bathtub_4e230a01:
-
-    # arj "Fuck you!"
-    arj "Fuck you!"
-
-# game/code/e08/e08s04.rpy:518
-translate korean e08s04_bathtub_11455b53:
-
-    # mc "What?"
-    mc "What?"
-
-# game/code/e08/e08s04.rpy:520
-translate korean e08s04_bathtub_d7219c59:
-
-    # arj "If I don't fall, or flail around, I guess a middle finger directed at you?"
-    arj "If I don't fall, or flail around, I guess a middle finger directed at you?"
-
-# game/code/e08/e08s04.rpy:521
-translate korean e08s04_bathtub_ed8d8168:
-
-    # arj "Stick it."
-    arj "Stick it."
-
-# game/code/e08/e08s04.rpy:523
-translate korean e08s04_bathtub_7a8a3b39:
-
-    # mc "Works for me."
-    mc "Works for me."
-
-# game/code/e08/e08s04.rpy:534
-translate korean e08s04_bathtub_a7be9f6f:
-
-    # mc "Alright, hold on tight."
-    mc "Alright, hold on tight."
-
-# game/code/e08/e08s04.rpy:536
-translate korean e08s04_bathtub_1871830e:
-
-    # arj "Wait, you're just going in?"
-    arj "Wait, you're just going in?"
-
-# game/code/e08/e08s04.rpy:538
-translate korean e08s04_bathtub_722e9a7a:
-
-    # mc "It's a little late for foreplay, isn't it?"
-    mc "It's a little late for foreplay, isn't it?"
-
-# game/code/e08/e08s04.rpy:542
-translate korean e08s04_bathtub_5254668e:
-
-    # arj "Ahh! I don't know."
-    arj "Ahh! I don't know."
-
-# game/code/e08/e08s04.rpy:543
-translate korean e08s04_bathtub_27c9800e:
-
-    # arj "Are you sure?"
-    arj "Are you sure?"
-
-# game/code/e08/e08s04.rpy:547
-translate korean e08s04_bathtub_b298a16d:
-
-    # arj "Mmfph!"
-    arj "Mmfph!"
-
-# game/code/e08/e08s04.rpy:571
-translate korean e08s04_bathtub_b2004faf:
-
-    # mc "Have we fucked in a bathroom before?"
-    mc "Have we fucked in a bathroom before?"
-
-# game/code/e08/e08s04.rpy:573
-translate korean e08s04_bathtub_faa45fdc:
-
-    # arj "We must have."
-    arj "We must have."
-
-# game/code/e08/e08s04.rpy:574
-translate korean e08s04_bathtub_0648d4db:
-
-    # arj "Right?"
-    arj "Right?"
-
-# game/code/e08/e08s04.rpy:576
-translate korean e08s04_bathtub_8f30161f:
-
-    # mc "Not with guests."
-    mc "Not with guests."
-
-# game/code/e08/e08s04.rpy:579
-translate korean e08s04_bathtub_0971e77d:
-
-    # arj "At parties, near pools, in front of guests."
-    arj "At parties, near pools, in front of guests."
-
-# game/code/e08/e08s04.rpy:581
-translate korean e08s04_bathtub_f15e47fe:
-
-    # mc "When's the last time we had one of those?"
-    mc "When's the last time we had one of those?"
-
-# game/code/e08/e08s04.rpy:585
-translate korean e08s04_bathtub_e6b9c764:
-
-    # arj "I don't remember. Ahh fuck."
-    arj "I don't remember. Ahh fuck."
-
-# game/code/e08/e08s04.rpy:587
-translate korean e08s04_bathtub_05b28c87:
-
-    # mc "You're being too loud."
-    mc "You're being too loud."
-
-# game/code/e08/e08s04.rpy:588
-translate korean e08s04_bathtub_2b75482c:
-
-    # arj "I can't help you fucking me so good."
-    arj "I can't help you fucking me so good."
-
-# game/code/e08/e08s04.rpy:592
-translate korean e08s04_bathtub_261f81f1:
-
-    # mc "If you have a dunk, will you settle down?"
-    mc "If you have a dunk, will you settle down?"
-
-# game/code/e08/e08s04.rpy:594
-translate korean e08s04_bathtub_98f22a78:
-
-    # arj "Let me give it a try."
-    arj "Let me give it a try."
-
-# game/code/e08/e08s04.rpy:617
-translate korean e08s04_bathtub_5e5d0fa3:
-
-    # mc "How was that?"
-    mc "How was that?"
-
-# game/code/e08/e08s04.rpy:618
-translate korean e08s04_bathtub_a57533ab:
-
-    # arj "Good."
-    arj "Good."
-
-# game/code/e08/e08s04.rpy:619
-translate korean e08s04_bathtub_69ddf4d8:
-
-    # arj "Let me get another look down there. I think I almost found it."
-    arj "Let me get another look down there. I think I almost found it."
-
-# game/code/e08/e08s04.rpy:621
-translate korean e08s04_bathtub_11455b53_1:
-
-    # mc "What?"
-    mc "What?"
-
-# game/code/e08/e08s04.rpy:623
-translate korean e08s04_bathtub_c2c80ae2:
-
-    # arj "Your balls."
-    arj "Your balls."
-
-# game/code/e08/e08s04.rpy:656
-translate korean e08s04_bathtub_c3bacbc7:
-
-    # arj "Huff... huff..."
-    arj "Huff... huff..."
-
-# game/code/e08/e08s04.rpy:657
-translate korean e08s04_bathtub_db7e0dbc:
-
-    # arj "That was too rough."
-    arj "That was too rough."
-
-# game/code/e08/e08s04.rpy:658
-translate korean e08s04_bathtub_2305c427:
-
-    # arj "I almost lost consciousness."
-    arj "I almost lost consciousness."
-
-# game/code/e08/e08s04.rpy:661
-translate korean e08s04_bathtub_01aa062c:
-
-    # mc "You didn't use your safe word."
-    mc "You didn't use your safe word."
-
-# game/code/e08/e08s04.rpy:663
-translate korean e08s04_bathtub_9c6b792b:
-
-    # arj "Because it felt so good and weird."
-    arj "Because it felt so good and weird."
-
-# game/code/e08/e08s04.rpy:665
-translate korean e08s04_bathtub_ddcdf7ea:
-
-    # mc "Do you want to do it again?"
-    mc "Do you want to do it again?"
-
-# game/code/e08/e08s04.rpy:668
-translate korean e08s04_bathtub_987622d5:
-
-    # arj "I usually don't like new things."
-    arj "I usually don't like new things."
-
-# game/code/e08/e08s04.rpy:669
-translate korean e08s04_bathtub_7e76e26a:
-
-    # arj "But this is great."
-    arj "But this is great."
-
-# game/code/e08/e08s04.rpy:670
-translate korean e08s04_bathtub_1eba8318:
-
-    # arj "I love trying out new things with you."
-    arj "I love trying out new things with you."
-
-# game/code/e08/e08s04.rpy:679
-translate korean e08s04_bathtub_3160286e:
-
-    # mc "It's like our honeymoon again."
-    mc "It's like our honeymoon again."
-
-# game/code/e08/e08s04.rpy:685
-translate korean e08s04_bathtub_d90dd1cd:
-
-    # arj "Under the most fucked up situation imaginable, but yeah, just like our honeymoon."
-    arj "Under the most fucked up situation imaginable, but yeah, just like our honeymoon."
-
-# game/code/e08/e08s04.rpy:696
-translate korean e08s04_bathtub_83078e78:
-
-    # mc "I love you."
-    mc "I love you."
-
-# game/code/e08/e08s04.rpy:697
-translate korean e08s04_bathtub_4bcaa12a:
-
-    # arj "I love you back."
-    arj "I love you back."
-
-# game/code/e08/e08s04.rpy:706
-translate korean e08s04_bathtub_50c68e9e:
-
-    # mc "I hope we don't get a cold from this."
-    mc "I hope we don't get a cold from this."
-
-# game/code/e08/e08s04.rpy:709
-translate korean e08s04_bathtub_7c661363:
-
-    # arj "That's what you're worried about?"
-    arj "That's what you're worried about?"
-
-# game/code/e08/e08s04.rpy:711
-translate korean e08s04_bathtub_a70c3a02:
-
-    # mc "Having a cold is no joke."
-    mc "Having a cold is no joke."
-
-# game/code/e08/e08s04.rpy:718
-translate korean e08s04_bathtub_79956cd0:
-
-    # arj "What was that?"
-    arj "What was that?"
-
-# game/code/e08/e08s04.rpy:729
-translate korean e08s04_bathtub_09b2dab7:
-
-    # mc "Nothing. It was probably Remy."
-    mc "Nothing. It was probably Remy."
-
-# game/code/e08/e08s04.rpy:731
-translate korean e08s04_bathtub_8b0d467d:
-
-    # arj "Is she okay?"
-    arj "Is she okay?"
-
-# game/code/e08/e08s04.rpy:733
-translate korean e08s04_bathtub_02973e5d:
-
-    # mc "She's fine. Let's go again."
-    mc "She's fine. Let's go again."
-
-# game/code/e08/e08s04.rpy:737
-translate korean e08s04_bathtub_dedc9904:
-
-    # arj "Alright. This time, you're holding onto the bath."
-    arj "Alright. This time, you're holding onto the bath."
-
-# game/code/e08/e08s04.rpy:739
-translate korean e08s04_bathtub_74c4e61f:
-
-    # mc "What are you going to do?"
-    mc "What are you going to do?"
-
-# game/code/e08/e08s04.rpy:740
-translate korean e08s04_bathtub_f1afd9f0:
-
-    # arj "I got a few ideas."
-    arj "I got a few ideas."
-
-# game/code/e08/e08s04.rpy:778
-translate korean e08s04_next_morning_c575d4ec:
-
-    # arj "Morning. Did you like your breakfast?"
-    arj "Morning. Did you like your breakfast?"
-
-# game/code/e08/e08s04.rpy:780
-translate korean e08s04_next_morning_702bde28:
-
-    # mc "I did. How come you didn't wake me?"
-    mc "I did. How come you didn't wake me?"
-
-# game/code/e08/e08s04.rpy:783
-translate korean e08s04_next_morning_138154dc:
-
-    # arj "You looked so peaceful."
-    arj "You looked so peaceful."
-
-# game/code/e08/e08s04.rpy:786
-translate korean e08s04_next_morning_681a35ab:
-
-    # mc "That's my job, I'm supposed to let you sleep in."
-    mc "That's my job, I'm supposed to let you sleep in."
-
-# game/code/e08/e08s04.rpy:788
-translate korean e08s04_next_morning_04e4b955:
-
-    # arj "Maybe next time."
-    arj "Maybe next time."
-
-# game/code/e08/e08s04.rpy:791
-translate korean e08s04_next_morning_f7be70e0:
-
-    # mc "Why are you holding a wheel?"
-    mc "Why are you holding a wheel?"
-
-# game/code/e08/e08s04.rpy:793
-translate korean e08s04_next_morning_a9f65c58:
-
-    # arj "It's actually a spoke."
-    arj "It's actually a spoke."
-
-# game/code/e08/e08s04.rpy:794
-translate korean e08s04_next_morning_91537e2f:
-
-    # mc "Are you thinking about opening a garage or something?"
-    mc "Are you thinking about opening a garage or something?"
-
-# game/code/e08/e08s04.rpy:795
-translate korean e08s04_next_morning_79260cb3:
-
-    # arj "No, we need to clean this place up."
-    arj "No, we need to clean this place up."
-
-# game/code/e08/e08s04.rpy:798
-translate korean e08s04_next_morning_ed9efe0e:
-
-    # arj "We'll need to stockpile supplies and clean up."
-    arj "We'll need to stockpile supplies and clean up."
-
-# game/code/e08/e08s04.rpy:799
-translate korean e08s04_next_morning_bcc35a99:
-
-    # arj "I think it's a good time to start thinking about helping out the community."
-    arj "I think it's a good time to start thinking about helping out the community."
-
-# game/code/e08/e08s04.rpy:801
-translate korean e08s04_next_morning_fcf340b6:
-
-    # mc "I agree."
-    mc "I agree."
-
-# game/code/e08/e08s04.rpy:802
-translate korean e08s04_next_morning_4e6a8397:
-
-    # arj "We need to start as soon as possible, and distribute what we have on the farm."
-    arj "We need to start as soon as possible, and distribute what we have on the farm."
-
-# game/code/e08/e08s04.rpy:805
-translate korean e08s04_next_morning_5bc7f88a:
-
-    # mc "Where's this coming from all of a sudden?"
-    mc "Where's this coming from all of a sudden?"
-
-# game/code/e08/e08s04.rpy:806
-translate korean e08s04_next_morning_c8541cf3:
-
-    # mc "You're being really assertive. I think I like it."
-    mc "You're being really assertive. I think I like it."
-
-# game/code/e08/e08s04.rpy:808
-translate korean e08s04_next_morning_1ce917d6:
-
-    # arj "When I was picking up supplies, I saw some posted signs, there's some aid organizations in town."
-    arj "When I was picking up supplies, I saw some posted signs, there's some aid organizations in town."
-
-# game/code/e08/e08s04.rpy:810
-translate korean e08s04_next_morning_52b628b9:
-
-    # arj "International Red Cross, Médecins Sans Frontières..."
-    arj "International Red Cross, Médecins Sans Frontières..."
-
-# game/code/e08/e08s04.rpy:811
-translate korean e08s04_next_morning_97829e2e:
-
-    # arj "I figured if they're in town, the storm must have affected our town quite substantially."
-    arj "I figured if they're in town, the storm must have affected our town quite substantially."
-
-# game/code/e08/e08s04.rpy:813
-translate korean e08s04_next_morning_e00bab93:
-
-    # mc "That's true."
-    mc "That's true."
-
-# game/code/e08/e08s04.rpy:814
-translate korean e08s04_next_morning_2ed07cdf:
-
-    # mc "Stockpiling some supplies is probably a good idea anyway."
-    mc "Stockpiling some supplies is probably a good idea anyway."
-
-# game/code/e08/e08s04.rpy:815
-translate korean e08s04_next_morning_746606c9:
-
-    # mc "The helping out part is part of our duty now, isn't it?"
-    mc "The helping out part is part of our duty now, isn't it?"
-
-# game/code/e08/e08s04.rpy:818
-translate korean e08s04_next_morning_5b263957:
-
-    # arj "I'm going to the shop to pick up some supplies."
-    arj "I'm going to the shop to pick up some supplies."
-
-# game/code/e08/e08s04.rpy:819
-translate korean e08s04_next_morning_f330af3f:
-
-    # arj "You can get started with the refurnishing."
-    arj "You can get started with the refurnishing."
-
-# game/code/e08/e08s04.rpy:820
-translate korean e08s04_next_morning_576a38a2:
-
-    # arj "Here."
-    arj "Here."
-
-# game/code/e08/e08s04.rpy:824
-translate korean e08s04_next_morning_a5637873:
-
-    # mc "Is this for the tractor? I mean, this is kinda old-fashioned."
-    mc "Is this for the tractor? I mean, this is kinda old-fashioned."
-
-# game/code/e08/e08s04.rpy:826
-translate korean e08s04_next_morning_62c25714:
-
-    # arj "Get rid of it."
-    arj "Get rid of it."
-
-# game/code/e08/e08s04.rpy:830
-translate korean e08s04_next_morning_2cfd612a:
-
-    # mc "Remy!"
-    mc "Remy!"
-
-# game/code/e08/e08s04.rpy:831
-translate korean e08s04_next_morning_11130935:
-
-    # mc "Where are you?"
-    mc "Where are you?"
-
-# game/code/e08/e08s04.rpy:832
-translate korean e08s04_next_morning_72bedd09:
-
-    # mct "Where is this dog? Sleeping again?"
-    mct "Where is this dog? Sleeping again?"
-
-# game/code/e08/e08s04.rpy:840
-translate korean e08s04_next_morning_5ebbc493:
-
-    # mc "Can you stay here and give me moral support?"
-    mc "Can you stay here and give me moral support?"
-
-# game/code/e08/e08s04.rpy:842
-translate korean e08s04_next_morning_01c29271:
-
-    # mct "Look at me, I'm talking to a dog."
-    mct "Look at me, I'm talking to a dog."
-
-# game/code/e08/e08s04.rpy:847
-translate korean e08s04_next_morning_d41de262:
-
-    # mc "Atta, girl."
-    mc "Atta, girl."
-
-# game/code/e08/e08s04.rpy:848
-translate korean e08s04_next_morning_dbce40a1:
-
-    # mc "At least she understands me."
-    mc "At least she understands me."
-
-# game/code/e08/e08s04.rpy:849
-translate korean e08s04_next_morning_1320e8cf:
-
-    # mct "I think."
-    mct "I think."
-
-# game/code/e08/e08s04.rpy:853
-translate korean e08s04_next_morning_a5dc7edc:
-
-    # mc "Hey, whoa, whoa whoa."
-    mc "Hey, whoa, whoa whoa."
-
-# game/code/e08/e08s04.rpy:857
-translate korean e08s04_next_morning_177d3eb2:
-
-    # mc "What are you doing?"
-    mc "What are you doing?"
-
-# game/code/e08/e08s04.rpy:859
-translate korean e08s04_next_morning_0d2e418b:
-
-    # fc "I'm helping."
-    fc "I'm helping."
-
-# game/code/e08/e08s04.rpy:861
-translate korean e08s04_next_morning_285bcd48:
-
-    # mc "How come?"
-    mc "How come?"
-
-# game/code/e08/e08s04.rpy:862
-translate korean e08s04_next_morning_d2ca9a70:
-
-    # fc "Because the dog woke me up, and I need something to do."
-    fc "Because the dog woke me up, and I need something to do."
-
-# game/code/e08/e08s04.rpy:863
-translate korean e08s04_next_morning_011b48fd:
-
-    # mc "You're pushing yourself too hard. You're taking care of Ashley, I mean you're barely sleeping."
-    mc "You're pushing yourself too hard. You're taking care of Ashley, I mean you're barely sleeping."
-
-# game/code/e08/e08s04.rpy:866
-translate korean e08s04_next_morning_2e3829e4:
-
-    # fc "Don't worry about me."
-    fc "Don't worry about me."
-
-# game/code/e08/e08s04.rpy:867
-translate korean e08s04_next_morning_e8514221:
-
-    # fc "I can't just sit by and not help."
-    fc "I can't just sit by and not help."
-
-# game/code/e08/e08s04.rpy:870
-translate korean e08s04_next_morning_e6e8af46:
-
-    # mc "Shouldn't you be taking care of your wife? You have your hands full."
-    mc "Shouldn't you be taking care of your wife? You have your hands full."
-
-# game/code/e08/e08s04.rpy:872
-translate korean e08s04_next_morning_a5309bfc:
-
-    # fc "She's sleeping."
-    fc "She's sleeping."
-
-# game/code/e08/e08s04.rpy:875
-translate korean e08s04_next_morning_03321975:
-
-    # mc "Alright, just don't burn yourself out. I can't afford to take care of both you and Ashley."
-    mc "Alright, just don't burn yourself out. I can't afford to take care of both you and Ashley."
-
-# game/code/e08/e08s04.rpy:877
-translate korean e08s04_next_morning_8565110b:
-
-    # fc "Fair enough. Don't worry, I have a strong constitution."
-    fc "Fair enough. Don't worry, I have a strong constitution."
-
-# game/code/e08/e08s04.rpy:878
-translate korean e08s04_next_morning_043857db:
-
-    # fc "So, whose idea was it, anyway? Setting up the shelter."
-    fc "So, whose idea was it, anyway? Setting up the shelter."
-
-# game/code/e08/e08s04.rpy:880
-translate korean e08s04_next_morning_288ec74e:
-
-    # mc "AmRose. She's been watching the news every night on my phone, and helping out at the women's shelter at the crack of dawn."
-    mc "AmRose. She's been watching the news every night on my phone, and helping out at the women's shelter at the crack of dawn."
-
-# game/code/e08/e08s04.rpy:882
-translate korean e08s04_next_morning_0aced3d5:
-
-    # fc "I'm guessing that's where she's at now."
-    fc "I'm guessing that's where she's at now."
-
-# game/code/e08/e08s04.rpy:888
-translate korean e08s04_next_morning_8ffbf435:
-
-    # mc "Apparently the whole place is flooded, according to her. She's helping with getting the water out and directing people here."
-    mc "Apparently the whole place is flooded, according to her. She's helping with getting the water out and directing people here."
-
-# game/code/e08/e08s04.rpy:890
-translate korean e08s04_next_morning_fd510cf9:
-
-    # fc "What about the other shelters?"
-    fc "What about the other shelters?"
-
-# game/code/e08/e08s04.rpy:891
-translate korean e08s04_next_morning_ce5ba7b1:
-
-    # mc "They're all full."
-    mc "They're all full."
-
-# game/code/e08/e08s04.rpy:895
-translate korean e08s04_next_morning_dd9b9fbd:
-
-    # mc "We need to help the others."
-    mc "We need to help the others."
-
-# game/code/e08/e08s04.rpy:896
-translate korean e08s04_next_morning_ff32d7f0:
-
-    # mc "I wish I took a class on dealing with acts of God."
-    mc "I wish I took a class on dealing with acts of God."
-
-# game/code/e08/e08s04.rpy:898
-translate korean e08s04_next_morning_50cb222c:
-
-    # fc "You're a farmer."
-    fc "You're a farmer."
-
-# game/code/e08/e08s04.rpy:900
-translate korean e08s04_next_morning_589b57f1:
-
-    # mc "I wasn't always a farmer. I'm college-educated, you know?"
-    mc "I wasn't always a farmer. I'm college-educated, you know?"
-
-# game/code/e08/e08s04.rpy:902
-translate korean e08s04_next_morning_dcc319bf:
-
-    # fc "Really? You didn't seem like the college-going type."
-    fc "Really? You didn't seem like the college-going type."
-
-# game/code/e08/e08s04.rpy:903
-translate korean e08s04_next_morning_84c0a736:
-
-    # fc "Anyway, don't worry too much. We're all figuring it out on our own time."
-    fc "Anyway, don't worry too much. We're all figuring it out on our own time."
-
-# game/code/e08/e08s04.rpy:905
-translate korean e08s04_next_morning_bd571ad8:
-
-    # mc "Thanks for the advice."
-    mc "Thanks for the advice."
-
-# game/code/e08/e08s04.rpy:908
-translate korean e08s04_next_morning_35b94a0f:
-
-    # mc "What are the chances of us needing a huge wheel spoke?"
-    mc "What are the chances of us needing a huge wheel spoke?"
-
-# game/code/e08/e08s04.rpy:912
-translate korean e08s04_next_morning_9b2e5382:
-
-    # fc "I would throw it out."
-    fc "I would throw it out."
-
-# game/code/e08/e08s04.rpy:915
-translate korean e08s04_next_morning_379fd5e3:
-
-    # mc "The others can pitch the tents we bought."
-    mc "The others can pitch the tents we bought."
-
-# game/code/e08/e08s04.rpy:917
-translate korean e08s04_next_morning_d54ad45d:
-
-    # fc "Got it, chief."
-    fc "Got it, chief."
-
-# game/code/e08/e08s04.rpy:918
-translate korean e08s04_next_morning_04a6265a:
-
-    # mct "The hard part's over, and now the real work begins."
-    mct "The hard part's over, and now the real work begins."
+    arj "나도 없어."
 
 translate korean strings:
 
-    # game/code/e08/e08s04.rpy:34
-    old "Next morning"
-    new "Next morning"
-
-    # game/code/e08/e08s04.rpy:504
-    old "Dunk her head in the water"
-    new "Dunk her head in the water"
-
-    # game/code/e08/e08s04.rpy:504
-    old "Don't dunk her head in the water"
-    new "Don't dunk her head in the water"
+    # game/code/e08/e08s03.rpy:27
+    old "One late afternoon"
+    new "어느 늦은 오후"
 
