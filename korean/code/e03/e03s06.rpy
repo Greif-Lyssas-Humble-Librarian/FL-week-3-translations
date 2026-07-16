@@ -1,1694 +1,1056 @@
-﻿# game/code/e03/e03s06.rpy:83
-translate korean e03s06_57432737:
+# game/code/e03/e03s05.rpy:23
+translate korean e03s05_b48a7398:
 
-    # mc "It's a good thing you got your phone back, Lyssa. Otherwise I don't think we ever would have been able to get that cab home."
-    mc "It's a good thing you got your phone back, Lyssa. Otherwise I don't think we ever would have been able to get that cab home."
+    # mc "When do we get to see Lyssa?"
+    mc "리사는 언제 만날 수 있어요?"
 
-# game/code/e03/e03s06.rpy:85
-translate korean e03s06_207dfdc5:
+# game/code/e03/e03s05.rpy:26
+translate korean e03s05_d55d1581:
 
-    # mh "It was the first thing I grabbed when they took me to start the goddess test."
-    mh "It was the first thing I grabbed when they took me to start the goddess test."
+    # "Cult Member" "You can see the goddess when she deigns it. Now, get back to work."
+    "교단원" "여신께서 알현을 허락하실 때 뵐 수 있습니다. 자, 다시 일하세요."
 
-# game/code/e03/e03s06.rpy:88
-translate korean e03s06_c43683c6:
+# game/code/e03/e03s05.rpy:29
+translate korean e03s05_6bdca591:
 
-    # ca "Oh my... I-"
-    ca "Oh my... I-"
+    # mc "But, we want-"
+    mc "그래도, 우리는-"
 
-# game/code/e03/e03s06.rpy:95
-translate korean e03s06_eaa296e3:
+# game/code/e03/e03s05.rpy:32
+translate korean e03s05_ca14ed93:
 
-    # ca "It's soooo sooooooft. This is amazing!"
-    ca "It's soooo sooooooft. This is amazing!"
+    # "Cult Member" "A mortal does not get to make demands of a goddess, or of her loyal followers. Prove yourself, and maybe you'll be granted an audience!"
+    "교단원" "필멸자는 여신님이나 그분의 충실한 신도들에게 요구할 수 없습니다. 스스로를 증명하십시오, 그래야 접견을 승락받을 수 있을 겁니다!"
 
-# game/code/e03/e03s06.rpy:97
-translate korean e03s06_0693eb7f:
+# game/code/e03/e03s05.rpy:34
+translate korean e03s05_6ad76365:
 
-    # mh "You're welcome to spend the night here tonight, Chiara. You've been through so much."
-    mh "You're welcome to spend the night here tonight, Chiara. You've been through so much."
+    # mc "Mrreeeegggh."
+    mc "므으으윽."
 
-# game/code/e03/e03s06.rpy:98
-translate korean e03s06_aae467b2:
+# game/code/e03/e03s05.rpy:43
+translate korean e03s05_e87f98c8:
 
-    # mh "And in the morning we can bring you to the police station for your statement."
-    mh "And in the morning we can bring you to the police station for your statement."
+    # sy "We're never going to be able to sneak away and find Lyssa if this guy keeps watching us!"
+    sy "저 자식이 우리를 계속 감시하는 한 몰래 빠져나가서 리사 못 찾을 기회는 절대 없을 거야!"
 
-# game/code/e03/e03s06.rpy:99
-translate korean e03s06_25f3fdbf:
+# game/code/e03/e03s05.rpy:45
+translate korean e03s05_b6d6a269:
 
-    # ca "Mmmhmmmmm!"
-    ca "Mmmhmmmmm!"
+    # mc "I know. And he definitely doesn't trust us."
+    mc "알아. 그런데 이 사람은 우리를 전혀 안 믿잖아."
 
-# game/code/e03/e03s06.rpy:102
-translate korean e03s06_a23f9b1b:
+# game/code/e03/e03s05.rpy:46
+translate korean e03s05_c09cb094:
 
-    # sy "Why not go tonight? Get this over and done with?"
-    sy "Why not go tonight? Get this over and done with?"
+    # sy "Which is crazy! We're like, the most trustable people ever."
+    sy "이게 말이 되냐! 우리처럼 믿음직한 사람들이 어디 있다고."
 
-# game/code/e03/e03s06.rpy:104
-translate korean e03s06_e78cdd5a:
+# game/code/e03/e03s05.rpy:49
+translate korean e03s05_40dc2f9e:
 
-    # mc "I don't think you could drag Chiara out of that bed."
-    mc "I don't think you could drag Chiara out of that bed."
+    # mc "I don't know about that. We did infiltrate this cult to bring it down."
+    mc "그건 좀 아니지 않냐. 우리 이 교단을 무너뜨리려고 잠입한 건데."
 
-# game/code/e03/e03s06.rpy:110
-translate korean e03s06_80bff18e:
+# game/code/e03/e03s05.rpy:52
+translate korean e03s05_a9ac7b62:
 
-    # mh "Plus, I look absolutely ridiculous right now."
-    mh "Plus, I look absolutely ridiculous right now."
+    # sy "Oh yeah..."
+    sy "아, 그렇지..."
 
-# game/code/e03/e03s06.rpy:113
-translate korean e03s06_99ea8e9e:
+# game/code/e03/e03s05.rpy:55
+translate korean e03s05_af0df724:
 
-    # sy "I think you look {i}hot as fuck.{/i}"
-    sy "I think you look {i}hot as fuck.{/i}"
+    # mc "But we need to find an excuse to get away from him."
+    mc "여하튼 우린 저 작자한테서 벗어날 구실이 필요해."
 
-# game/code/e03/e03s06.rpy:116
-translate korean e03s06_792a466c:
+# game/code/e03/e03s05.rpy:58
+translate korean e03s05_ad1e88ba:
 
-    # mh "Thank you, Stacy. But I can hardly walk into a police station with any expectation of being taken seriously right now."
-    mh "Thank you, Stacy. But I can hardly walk into a police station with any expectation of being taken seriously right now."
+    # sy "Oh, just leave that to me."
+    sy "오, 그건 나한테 맡겨."
 
-# game/code/e03/e03s06.rpy:119
-translate korean e03s06_418b8335:
+# game/code/e03/e03s05.rpy:63
+translate korean e03s05_b96f5aa5:
 
-    # sy "I would listen to anything you say, my goddess!"
-    sy "I would listen to anything you say, my goddess!"
+    # sy "Hey! I'm getting pretty thirsty. Can we get some water?"
+    sy "저기요! 나 목마른데요. 물 좀 마실 수 있을까요?"
 
-# game/code/e03/e03s06.rpy:123
-translate korean e03s06_59138ac2:
+# game/code/e03/e03s05.rpy:66
+translate korean e03s05_b5296078:
 
-    # sy "I want to worship and please you! I am nothing but a mere mortal begging at your altar!"
-    sy "I want to worship and please you! I am nothing but a mere mortal begging at your altar!"
+    # "Cult Member" "Mmergg. You two have barely done anything so far!"
+    "교단원" "으으으. 두 사람은 지금까지 한 게 거의 없잖습니까!"
 
-# game/code/e03/e03s06.rpy:125
-translate korean e03s06_3e18dcc4:
+# game/code/e03/e03s05.rpy:69
+translate korean e03s05_3c854996:
 
-    # mh "Hahaha! Knock it off, Stacy."
-    mh "Hahaha! Knock it off, Stacy."
+    # sy "Well that's because we're city folks who've never done a hard day's work in our lives! We need a devoted cul- errr, Dyma follower to show us how to do it!"
+    sy "그건 우리가 도시 사람이라서 평생 힘든 일 해 본 적이 없어서 그렇죠! 헌신적인 사이- 어, 디마님 신도분이 방법을 좀 보여 주셔야 할 것 같아요!"
 
-# game/code/e03/e03s06.rpy:128
-translate korean e03s06_fa5e5f57:
+# game/code/e03/e03s05.rpy:72
+translate korean e03s05_06c9bdbc:
 
-    # mc "I think we've found a new Stacy kink! Who knew that was even possible?"
-    mc "I think we've found a new Stacy kink! Who knew that was even possible?"
+    # "Cult Member" "That couldn't hurt..."
+    "교단원" "그 정도는 뭐..."
 
-# game/code/e03/e03s06.rpy:130
-translate korean e03s06_538829b0:
+# game/code/e03/e03s05.rpy:75
+translate korean e03s05_1e809d6a:
 
-    # sy "Hey! Maybe I just like being told what to do every once in awhile."
-    sy "Hey! Maybe I just like being told what to do every once in awhile."
+    # sy "Could you show me the right way to do it? I'm just so silly I don't think I'll ever figure it out on my own!"
+    sy "제대로 하는 법 좀 보여 주실 수 있어요? 제가 좀 멍청해서 혼자서는 절대 못 알아낼 것 같아요!"
 
-# game/code/e03/e03s06.rpy:133
-translate korean e03s06_ebd8c917:
+# game/code/e03/e03s05.rpy:78
+translate korean e03s05_d8ebcfbd:
 
-    # ca "It's nice for awhile, as long as your goddess is a benevolent one."
-    ca "It's nice for awhile, as long as your goddess is a benevolent one."
+    # "Cult Member" "Give me the axe and I'll show you how it's done."
+    "교단원" "도끼를 주세요, 어떻게 하는지 보여 드리죠."
 
-# game/code/e03/e03s06.rpy:137
-translate korean e03s06_d8dbe259:
+# game/code/e03/e03s05.rpy:81
+translate korean e03s05_90a93b48:
 
-    # sy "Lyssa is the most benevolent. A kind and caring lover, and she never fails to make my legs quiver."
-    sy "Lyssa is the most benevolent. A kind and caring lover, and she never fails to make my legs quiver."
+    # sy "Oh, but what about that water?"
+    sy "오, 그런데 물은요?"
 
-# game/code/e03/e03s06.rpy:139
-translate korean e03s06_56048133:
+# game/code/e03/e03s05.rpy:83
+translate korean e03s05_ab7e1e61:
 
-    # mh "Oh goodness, I just realized how uncomfortable this must be for you."
-    mh "Oh goodness, I just realized how uncomfortable this must be for you."
+    # "Cult Member" "I can get it after-"
+    "교단원" "그건 나중에 가져다-"
 
-# game/code/e03/e03s06.rpy:143
-translate korean e03s06_54d65eac:
+# game/code/e03/e03s05.rpy:84
+translate korean e03s05_95544ba0:
 
-    # ca "No, it's okay. I joined them for a reason. I believed in the message."
-    ca "No, it's okay. I joined them for a reason. I believed in the message."
+    # sy "But I am sooooo thirsty!"
+    sy "그런데 진짜아아 목마르거든요!"
 
-# game/code/e03/e03s06.rpy:144
-translate korean e03s06_7ca535e7:
+# game/code/e03/e03s05.rpy:87
+translate korean e03s05_4f130a86:
 
-    # ca "But then the High Priestess showed up, and... it got really, really weird."
-    ca "But then the High Priestess showed up, and... it got really, really weird."
+    # "Cult Member" "You - go fetch the water. And come straight back. Don't wander around."
+    "교단원" "거기 - 가서 물 좀 가져오세요. 곧장 돌아와야 됩니다. 마음대로 돌아다니면 안 돼요."
 
-# game/code/e03/e03s06.rpy:147
-translate korean e03s06_b6cdf341:
+# game/code/e03/e03s05.rpy:90
+translate korean e03s05_d897cb82:
 
-    # ca "At first, things were fine. I looked like her goddess so I was taken care of. Up until she realized that her goddess was also supposed to have a cock."
-    ca "At first, things were fine. I looked like her goddess so I was taken care of. Up until she realized that her goddess was also supposed to have a cock."
+    # mc "Sure! I can do that."
+    mc "물론이죠! 그럴게요."
 
-# game/code/e03/e03s06.rpy:148
-translate korean e03s06_3423acad:
+# game/code/e03/e03s05.rpy:94
+translate korean e03s05_9532d588:
 
-    # ca "But the sex before that point was amazing."
-    ca "But the sex before that point was amazing."
+    # "Cult Member" "So first - your grip on the axe is the most important part of the swing."
+    "교단원" "자, 우선 - 도끼를 잡는 법이 휘두르기에서 가장 중요한 부분입니다."
 
-# game/code/e03/e03s06.rpy:151
-translate korean e03s06_71292ff6:
+# game/code/e03/e03s05.rpy:97
+translate korean e03s05_b7f8ff83:
 
-    # sy "Mmmmm... sex..."
-    sy "Mmmmm... sex..."
+    # sy "Oh! I never would have even thought about that!"
+    sy "오! 그건 생각도 못 해 봤어요!"
 
-# game/code/e03/e03s06.rpy:153
-translate korean e03s06_081b59ca:
+# game/code/e03/e03s05.rpy:102
+translate korean e03s05_300fd1f9:
 
-    # mc "You've only ever got one thing on your mind, Stacy."
-    mc "You've only ever got one thing on your mind, Stacy."
+    # mct "Now, where would they keep Lyssa..."
+    mct "자, 리사를 어디에 가둬 뒀을까..."
 
-# game/code/e03/e03s06.rpy:156
-translate korean e03s06_63bac601:
+# game/code/e03/e03s05.rpy:103
+translate korean e03s05_b69ce303:
 
-    # sy "Hey! I walked away from an orgy tonight, don't you forget that!"
-    sy "Hey! I walked away from an orgy tonight, don't you forget that!"
+    # mct "Probably somewhere they could keep her secret. Wouldn't want her just walking around."
+    mct "아마 리사를 몰래 숨겨 둘 만한 곳이겠지. 리사가 마음대로 돌아다니게 두진 않을 거야."
 
-# game/code/e03/e03s06.rpy:159
-translate korean e03s06_05560a81:
+# game/code/e03/e03s05.rpy:105
+translate korean e03s05_3947be79:
 
-    # mh "And we won't."
-    mh "And we won't."
+    # mct "Hmmm... Where could it be?"
+    mct "으음... 어디 있을까?"
 
-# game/code/e03/e03s06.rpy:161
-translate korean e03s06_b7282e99:
+# game/code/e03/e03s05.rpy:107
+translate korean e03s05_1bcdc53b:
 
-    # ca "Mmmm. Their orgies were the best."
-    ca "Mmmm. Their orgies were the best."
+    # mct "How have I never seen this before? It's a little obvious, but it's the perfect place."
+    mct "여길 왜 지금까지 못 봤지? 좀 뻔하긴 해도, 딱 맞는 장소잖아."
 
-# game/code/e03/e03s06.rpy:164
-translate korean e03s06_e71adafb:
+# game/code/e03/e03s05.rpy:113
+translate korean e03s05_e529a5ee:
 
-    # sy "Gah. Curse being a hero, I missed out on all the fun."
-    sy "Gah. Curse being a hero, I missed out on all the fun."
+    # mct "Well, this is super weird..."
+    mct "이야, 이거 완전 이상한데..."
 
-# game/code/e03/e03s06.rpy:166
-translate korean e03s06_193a4488:
+# game/code/e03/e03s05.rpy:116
+translate korean e03s05_0187112b:
 
-    # ca "What's stopping us from having our own fun?"
-    ca "What's stopping us from having our own fun?"
+    # mct "Creepy cave... What the hell do they do in here?"
+    mct "으스스한 동굴이네... 여기서 대체 뭘 하는 거야?"
 
-# game/code/e03/e03s06.rpy:169
-translate korean e03s06_54de7298:
+# game/code/e03/e03s05.rpy:119
+translate korean e03s05_a67d4c92:
 
-    # mc "What did you have in mind, Chiara?"
-    mc "What did you have in mind, Chiara?"
+    # "Guard" "Get into your cell!"
+    "간수" "감방 안으로 들어가!"
 
-# game/code/e03/e03s06.rpy:172
-translate korean e03s06_3669f6b9:
+# game/code/e03/e03s05.rpy:121
+translate korean e03s05_e88c3bd3:
 
-    # ca "Honestly, all I've wanted to do for the last week is get fucked. What do you say?"
-    ca "Honestly, all I've wanted to do for the last week is get fucked. What do you say?"
+    # mct "What the fuck?"
+    mct "이게 뭐지 씨발?"
 
-# game/code/e03/e03s06.rpy:174
-translate korean e03s06_462bb255:
+# game/code/e03/e03s05.rpy:124
+translate korean e03s05_796280e1:
 
-    # mh "Are you sure?"
-    mh "Are you sure?"
+    # "Guard" "You pretender. I cannot wait until your fate is decided before the High Priestess' tribunal."
+    "간수" "이 사기꾼. 대사제님의 심판장에서 네 운명이 결정될 날이 기다려지는군."
 
-# game/code/e03/e03s06.rpy:175
-translate korean e03s06_8314e8fd:
+# game/code/e03/e03s05.rpy:128
+translate korean e03s05_500721c2:
 
-    # ca "I am {i}so sure.{/i}"
-    ca "I am {i}so sure.{/i}"
+    # "Lyssa?" "But I didn't do anything!"
+    "리사?" "저 아무것도 안 했다고요!"
 
-# game/code/e03/e03s06.rpy:179
-translate korean e03s06_6fcd7cae:
+# game/code/e03/e03s05.rpy:131
+translate korean e03s05_89f5ea72:
 
-    # ca "You can't tell me that you're not thinking about it."
-    ca "You can't tell me that you're not thinking about it."
+    # "Guard" "Impersonating a goddess is crime against nature itself!"
+    "간수" "여신을 사칭하는 건 자연 그 자체에 대한 범죄다!"
 
-# game/code/e03/e03s06.rpy:181
-translate korean e03s06_de237c93:
+# game/code/e03/e03s05.rpy:134
+translate korean e03s05_dd7038df:
 
-    # mc "Uhhhh... the thought may have crossed my mind once or twice."
-    mc "Uhhhh... the thought may have crossed my mind once or twice."
+    # "Lyssa?" "But I didn't-"
+    "리사?" "그래도 저는-"
 
-# game/code/e03/e03s06.rpy:185
-translate korean e03s06_0f3aad06:
+# game/code/e03/e03s05.rpy:137
+translate korean e03s05_60cc6708:
 
-    # ca "I can tell."
-    ca "I can tell."
+    # "Guard" "Quiet! Before I get the flogger back out!"
+    "간수" "조용히 해! 채찍을 다시 꺼내기 전에!"
 
-# game/code/e03/e03s06.rpy:187
-translate korean e03s06_f47fb55a:
+# game/code/e03/e03s05.rpy:138
+translate korean e03s05_c912de4a:
 
-    # sy "Yay. Orgy time. The universe is balanced once again."
-    sy "Yay. Orgy time. The universe is balanced once again."
+    # "Lyssa?" "..."
+    "리사?" "..."
 
-# game/code/e03/e03s06.rpy:189
-translate korean e03s06_320e27aa:
+# game/code/e03/e03s05.rpy:142
+translate korean e03s05_3c450893:
 
-    # mh "Mmmmm."
-    mh "Mmmmm."
+    # "Guard" "Good. Now I need to walk this stress off. The negativity your aura gives off is bringing me down."
+    "간수" "좋아. 이제 걷으면서 기분 전환 좀 해야겠군. 네 부정적인 기운 때문에 기분이 안 좋아."
 
-# game/code/e03/e03s06.rpy:204
-translate korean e03s06_d5a4a418:
+# game/code/e03/e03s05.rpy:150
+translate korean e03s05_1048953d:
 
-    # mh "Christ, Stacy! You don't need to suck it so hard!"
-    mh "Christ, Stacy! You don't need to suck it so hard!"
+    # "Lyssa?" "What, you come to ridicule me?"
+    "리사?" "뭐야, 당신. 나 놀리러 온 거야?"
 
-# game/code/e03/e03s06.rpy:205
-translate korean e03s06_f2575cfe:
+# game/code/e03/e03s05.rpy:153
+translate korean e03s05_2d8989b5:
 
-    # mh "Even though it does feel incredible."
-    mh "Even though it does feel incredible."
+    # mc "Lyssa! It's me - [mcname]! What the hell did they do to your hair?"
+    mc "리사! 나야 - [mcname]! 저 사람들이 네 머리에 대체 뭘 한 거야?"
 
-# game/code/e03/e03s06.rpy:207
-translate korean e03s06_541fa73d:
+# game/code/e03/e03s05.rpy:157
+translate korean e03s05_6c74b79f:
 
-    # mc "She's feeling feisty!"
-    mc "She's feeling feisty!"
+    # "Not Lyssa?" "Lyssa? Who the hell is Lyssa?"
+    "리사가 아닌 사람?" "리사? 염병할 리사가 대체 누군데?"
 
-# game/code/e03/e03s06.rpy:208
-translate korean e03s06_c6547276:
+# game/code/e03/e03s05.rpy:160
+translate korean e03s05_e5b8c54e:
 
-    # mh "No kidding!"
-    mh "No kidding!"
+    # mc "Wait-"
+    mc "잠깐-"
 
-# game/code/e03/e03s06.rpy:212
-translate korean e03s06_47113c42:
+# game/code/e03/e03s05.rpy:161
+translate korean e03s05_dcb43eea:
 
-    # mc "I could say the same about Chiara though, holy shit!"
-    mc "I could say the same about Chiara though, holy shit!"
+    # mc "Wait, you're not Lyssa!"
+    mc "잠깐, 너 리사가 아니잖아!"
 
-# game/code/e03/e03s06.rpy:213
-translate korean e03s06_8f5e4179:
+# game/code/e03/e03s05.rpy:164
+translate korean e03s05_dba79029:
 
-    # mh "Oh yeah?"
-    mh "Oh yeah?"
+    # ca "No, I'm Chiara."
+    ca "아니지, 난 키아라거든."
 
-# game/code/e03/e03s06.rpy:215
-translate korean e03s06_f8c43212:
+# game/code/e03/e03s05.rpy:167
+translate korean e03s05_5120d39e:
 
-    # mc "She wasn't kidding about being horny. She might suck it straight off my body!"
-    mc "She wasn't kidding about being horny. She might suck it straight off my body!"
+    # mc "Well, I guess it doesn't matter. We're here to help take down the cult!"
+    mc "뭐, 상관없지. 우린 이 교단을 무너뜨리러 왔어!"
 
-# game/code/e03/e03s06.rpy:216
-translate korean e03s06_eab89944:
+# game/code/e03/e03s05.rpy:170
+translate korean e03s05_b1f9b96c:
 
-    # mc "If you two aren't careful - ngggggh - we'll cum before you have any fun!"
-    mc "If you two aren't careful - ngggggh - we'll cum before you have any fun!"
+    # ca "You're doing a great job so far."
+    ca "지금까지 아주 잘하고 있구나."
 
-# game/code/e03/e03s06.rpy:219
-translate korean e03s06_686e3fef:
+# game/code/e03/e03s05.rpy:173
+translate korean e03s05_8303df1c:
 
-    # mh "But remind me to get Stacy this turned on more often. This is an amazing blowjob."
-    mh "But remind me to get Stacy this turned on more often. This is an amazing blowjob."
+    # mc "Hey! We're trying. They took our friend and we're trying to find her."
+    mc "어이! 우리도 애쓰고 있다고. 저 사람들이 우리 친구를 데려가서 지금 찾고 있는 중이야."
 
-# game/code/e03/e03s06.rpy:220
-translate korean e03s06_94138a81:
+# game/code/e03/e03s05.rpy:176
+translate korean e03s05_82388469:
 
-    # mc "Fuck - same here! The cultists were crazy for locking you up, Chiara!"
-    mc "Fuck - same here! The cultists were crazy for locking you up, Chiara!"
+    # ca "She wouldn't happen to be trans, would she?"
+    ca "혹시 그 친구, 성전환자야?"
 
-# game/code/e03/e03s06.rpy:223
-translate korean e03s06_fdcedc90:
+# game/code/e03/e03s05.rpy:179
+translate korean e03s05_5280f094:
 
-    # mh "Mmmm, she looks so hot sucking your dick... Is this what you get to see every time I suck your cock?"
-    mh "Mmmm, she looks so hot sucking your dick... Is this what you get to see every time I suck your cock?"
+    # mc "She is!"
+    mc "맞아!"
 
-# game/code/e03/e03s06.rpy:224
-translate korean e03s06_8c2394a5:
+# game/code/e03/e03s05.rpy:182
+translate korean e03s05_92a9d8b2:
 
-    # mc "Every. Single. Time."
-    mc "Every. Single. Time."
+    # ca "That explains why they set up the tribunal..."
+    ca "그래서 심판을 준비한 거로군..."
 
-# game/code/e03/e03s06.rpy:227
-translate korean e03s06_103b907f:
+# game/code/e03/e03s05.rpy:183
+translate korean e03s05_d98eb27e:
 
-    # mh "Mmmmm... I can see why you like blowjobs so much, [mcname]."
-    mh "Mmmmm... I can see why you like blowjobs so much, [mcname]."
+    # ca "Long story short, this cult thought I was their holy goddess until they found out I didn't have a dick. Then they locked me in here."
+    ca "간단히 말하면, 이 교단은 나를 자기들 성스러운 여신이라고 생각했는데, 나한테 자지가 없다는 걸 알고 나서는 여기 가뒀어."
 
-# game/code/e03/e03s06.rpy:229
-translate korean e03s06_17850061:
+# game/code/e03/e03s05.rpy:184
+translate korean e03s05_050412f3:
 
-    # mc "I can say the same to you! My sister is in her top 5 hottest moments when she's sucking dick."
-    mc "I can say the same to you! My sister is in her top 5 hottest moments when she's sucking dick."
+    # ca "They thought that it still could be me though, so they kept me around. Until a few days ago, when suddenly I was told I have to go to a trial before the High Priestess for my crime against nature."
+    ca "그래도 여전히 내가 여신일 가능성이 있다고 생각해서 계속 데리고 있긴 했지. 그런데 며칠 전에 갑자기 자연에 대한 죄로 대사제 앞에서 심판을 받아야 한다는 거야."
 
-# game/code/e03/e03s06.rpy:231
-translate korean e03s06_44ae4298:
+# game/code/e03/e03s05.rpy:187
+translate korean e03s05_5693a819:
 
-    # mc "I can say the same to you! Stacy is in her top 5 hottest moments when she's sucking dick."
-    mc "I can say the same to you! Stacy is in her top 5 hottest moments when she's sucking dick."
+    # mc "Huh..."
+    mc "허..."
 
-# game/code/e03/e03s06.rpy:237
-translate korean e03s06_92b20048:
+# game/code/e03/e03s05.rpy:188
+translate korean e03s05_f444d272:
 
-    # mh "You've got a good point there... I do love watching my cock disappear down her throat..."
-    mh "You've got a good point there... I do love watching my cock disappear down her throat..."
+    # mc "Good thing we're here to break you out! And, with what happened to you, you can help us bring down the cult!"
+    mc "그럼 우리가 여기 온 게 다행이네! 그리고 그런 일이 있었다면, 그쪽이 이 교단 무너뜨리는 데 도움이 되겠어!"
 
-# game/code/e03/e03s06.rpy:238
-translate korean e03s06_bd9d44ad:
+# game/code/e03/e03s05.rpy:191
+translate korean e03s05_3d325522:
 
-    # mc "Only thing better is fucking you!"
-    mc "Only thing better is fucking you!"
+    # ca "That's going to be awfully hard trapped in a cell."
+    ca "감방에 갇혀 있는데 돕는 건 정말 힘들 거 같은데."
 
-# game/code/e03/e03s06.rpy:240
-translate korean e03s06_f8da9238:
+# game/code/e03/e03s05.rpy:193
+translate korean e03s05_8bf087b3:
 
-    # mh "Is that so?"
-    mh "Is that so?"
+    # mc "Right, uhm..."
+    mc "그렇지, 음..."
 
-# game/code/e03/e03s06.rpy:241
-translate korean e03s06_37c12963:
+# game/code/e03/e03s05.rpy:196
+translate korean e03s05_dd044037:
 
-    # mc "Uh huh!"
-    mc "Uh huh!"
+    # "Guard" "Mmmm, it feels so good to be cleaned of that negative energy."
+    "간수" "으으음, 그 부정적인 기운을 씻어내고 나니 기분이 진짜 좋군."
 
-# game/code/e03/e03s06.rpy:242
-translate korean e03s06_eaafbcca:
+# game/code/e03/e03s05.rpy:198
+translate korean e03s05_1200aa6f:
 
-    # mh "Then come over here and have your fun, cowboy."
-    mh "Then come over here and have your fun, cowboy."
+    # mc "Oh shit! She's coming back!"
+    mc "아 씨! 저 인간이 돌아오고 있어!"
 
-# game/code/e03/e03s06.rpy:249
-translate korean e03s06_11d97b5d:
+# game/code/e03/e03s05.rpy:201
+translate korean e03s05_70d1e017:
 
-    # sy "I think our guest deserves some attention too! Locked up in that cage... I bet no one even ate you out."
-    sy "I think our guest deserves some attention too! Locked up in that cage... I bet no one even ate you out."
+    # ca "Go! If you get caught, they'll throw you in here with me!"
+    ca "가! 잡히면 너도 나랑 여기에 갇힐 거야!"
 
-# game/code/e03/e03s06.rpy:252
-translate korean e03s06_21387165:
+# game/code/e03/e03s05.rpy:204
+translate korean e03s05_20207860:
 
-    # ca "Are you offering?"
-    ca "Are you offering?"
+    # mc "I promise, I'll figure out a way to get you out!"
+    mc "꼭 어떻게든 방법을 찾아서 거기서 꺼내 줄게!"
 
-# game/code/e03/e03s06.rpy:256
-translate korean e03s06_a4a625ea:
+# game/code/e03/e03s05.rpy:207
+translate korean e03s05_b7832ca1:
 
-    # sy "I bet you taste like a fucking peach."
-    sy "I bet you taste like a fucking peach."
+    # ca "Please, hurry!"
+    ca "알겠으니까, 서둘러!"
 
-# game/code/e03/e03s06.rpy:258
-translate korean e03s06_a4de11f9:
+# game/code/e03/e03s05.rpy:213
+translate korean e03s05_22e6dc99:
 
-    # ca "Only one way to find out."
-    ca "Only one way to find out."
+    # "Guard" "Now, do you promise to behave? Because you upset my tummy before and I don't like having an upset tummy."
+    "간수" "자, 얌전히 있겠다고 약속할 수 있나? 저번에 너 때문에 배가 안 좋았는데 난 배가 아픈 건 싫단 말이야."
 
-# game/code/e03/e03s06.rpy:261
-translate korean e03s06_7ff064f4:
+# game/code/e03/e03s05.rpy:216
+translate korean e03s05_03fcbda9:
 
-    # mc "And while they're having their fun..."
-    mc "And while they're having their fun..."
+    # ca "Yes, I promise..."
+    ca "그래, 그러지..."
 
-# game/code/e03/e03s06.rpy:262
-translate korean e03s06_05fa4972:
+# game/code/e03/e03s05.rpy:223
+translate korean e03s05_73f5f4be:
 
-    # mc "Let's have a little of our own!"
-    mc "Let's have a little of our own!"
+    # "Cult Member" "And all of that, with a good stance, is the best way to chop wood."
+    "교단원" "그리고 이 모든 것에, 좋은 자세를 더하면, 나무 패는 최고의 방법이 되는 거죠."
 
-# game/code/e03/e03s06.rpy:275
-translate korean e03s06_7f2d2d9b:
+# game/code/e03/e03s05.rpy:226
+translate korean e03s05_daca45ec:
 
-    # mh "Oh goooooood, [mcname]! I've missed this!"
-    mh "Oh goooooood, [mcname]! I've missed this!"
+    # sy "Thank you! Wow, this has been super educational. I know I'm going to do so much better now!"
+    sy "감사해요! 와, 진짜 유익했어요. 이제 훨씬 잘할 수 있을 것 같아요!"
 
-# game/code/e03/e03s06.rpy:276
-translate korean e03s06_c5cf4ac4:
+# game/code/e03/e03s05.rpy:230
+translate korean e03s05_681a372c:
 
-    # mc "Oh I have too! Your ass is incredible!"
-    mc "Oh I have too! Your ass is incredible!"
+    # sy "[mcname]! You're back!"
+    sy "[mcname]! 돌아왔구나!"
 
-# game/code/e03/e03s06.rpy:279
-translate korean e03s06_b066446d:
+# game/code/e03/e03s05.rpy:233
+translate korean e03s05_a9e28f39:
 
-    # mh "Mmmmm - and we have our own little show!"
-    mh "Mmmmm - and we have our own little show!"
+    # "Cult Member" "Where's the water?"
+    "교단원" "물은 어디 있습니까?"
 
-# game/code/e03/e03s06.rpy:280
-translate korean e03s06_0db60deb:
+# game/code/e03/e03s05.rpy:236
+translate korean e03s05_029216a1:
 
-    # mh "How does her tongue feel, Chiara?"
-    mh "How does her tongue feel, Chiara?"
+    # mc "Oh, uhhhh, I couldn't find it?"
+    mc "아, 으으으음, 못 찾았는데요?"
 
-# game/code/e03/e03s06.rpy:282
-translate korean e03s06_0f609195:
+# game/code/e03/e03s05.rpy:240
+translate korean e03s05_bec1d562:
 
-    # ca "So so so so so gooood! Gah! This is exactly what I needed!"
-    ca "So so so so so gooood! Gah! This is exactly what I needed!"
+    # "Cult Member" "Useless city slicker...{w} I'll go get it. Don't go anywhere."
+    "교단원" "쓸모없는 도시 뺀질이 같으니...{w} 내가 가져오죠. 어디 가지 마십쇼."
 
-# game/code/e03/e03s06.rpy:283
-translate korean e03s06_3c9d24dd:
+# game/code/e03/e03s05.rpy:244
+translate korean e03s05_7e29e343:
 
-    # mh "I think we all needed a good fuck away from any cult supervision."
-    mh "I think we all needed a good fuck away from any cult supervision."
+    # sy "What took you so long if you weren't getting water?"
+    sy "물 가져온 것도 아닌데 왜 그렇게 오래 걸린 거야?"
 
-# game/code/e03/e03s06.rpy:286
-translate korean e03s06_0dd09f36:
+# game/code/e03/e03s05.rpy:247
+translate korean e03s05_6ca1dde3:
 
-    # mc "Nnnnnggggg - you're telling me! I feel like I could cum just looking at you, Lyssa!"
-    mc "Nnnnnggggg - you're telling me! I feel like I could cum just looking at you, Lyssa!"
+    # mc "I found someone locked up in a prison cell!"
+    mc "감방에 갇힌 사람을 찾았어!"
 
-# game/code/e03/e03s06.rpy:287
-translate korean e03s06_2c73cc8b:
+# game/code/e03/e03s05.rpy:250
+translate korean e03s05_cf61b99f:
 
-    # ca "No! I want a turn on your dick too!"
-    ca "No! I want a turn on your dick too!"
+    # sy "What!?!"
+    sy "뭐!?!"
 
-# game/code/e03/e03s06.rpy:290
-translate korean e03s06_b0b0b643:
+# game/code/e03/e03s05.rpy:253
+translate korean e03s05_eec2387a:
 
-    # mh "Oh don't worry, [mcname] always has plenty of steam."
-    mh "Oh don't worry, [mcname] always has plenty of steam."
+    # mc "Yeah! And she looked {i}just{/i} like Lyssa!"
+    mc "리사랑 {i}완전히{/i} 똑같이 생겼더라니까!"
 
-# game/code/e03/e03s06.rpy:291
-translate korean e03s06_001205ca:
+# game/code/e03/e03s05.rpy:255
+translate korean e03s05_7d9716f2:
 
-    # ca "Oh God! I think Stacy wants a turn too! S-she just started - oh fuck, oh fuck!"
-    ca "Oh God! I think Stacy wants a turn too! S-she just started - oh fuck, oh fuck!"
+    # sy "Are you sure it wasn't Lyssa?"
+    sy "리사가 아니었던 거 확실해?"
 
-# game/code/e03/e03s06.rpy:294
-translate korean e03s06_c5aadf3f:
+# game/code/e03/e03s05.rpy:256
+translate korean e03s05_2b4e785c:
 
-    # mh "Classic Stacy - working hard to get you to cum so she can take a ride on [mcname]."
-    mh "Classic Stacy - working hard to get you to cum so she can take a ride on [mcname]."
+    # mc "Yeah, I talked to her."
+    mc "응, 얘기도 나눴어."
 
-# game/code/e03/e03s06.rpy:295
-translate korean e03s06_e047367d:
+# game/code/e03/e03s05.rpy:259
+translate korean e03s05_b866cfad:
 
-    # ca "S-she's always like this?!"
-    ca "S-she's always like this?!"
+    # sy "What! Why are they keeping her in a prison cell?"
+    sy "뭐! 왜 이 인간들이 그 사람은 감방에 가둬 둔 거야?"
 
-# game/code/e03/e03s06.rpy:296
-translate korean e03s06_c849718e:
+# game/code/e03/e03s05.rpy:263
+translate korean e03s05_f9ccc5e6:
 
-    # mc "She's insatiable."
-    mc "She's insatiable."
+    # mc "It sounds like they thought she was their goddess, but she wasn't trans, so..."
+    mc "얘기 들어 보니까 그 사람을 여신이라고 생각했는데, 성전환자가 아니라서 그런 모양이야, 그래서..."
 
-# game/code/e03/e03s06.rpy:299
-translate korean e03s06_9f80706d:
+# game/code/e03/e03s05.rpy:265
+translate korean e03s05_e9828111:
 
-    # ca "Oh my - fuuuuuuuuuhck! Jusssst like that!"
-    ca "Oh my - fuuuuuuuuuhck! Jusssst like that!"
+    # sy "That would explain why she looks like Lyssa! But... wouldn't her friend have told her that?"
+    sy "그래서 리사처럼 생긴 거구나! 그런데... 리사 친구가 이런 것까지 다 말해 줬어야 하는 거 아니야?"
 
-# game/code/e03/e03s06.rpy:300
-translate korean e03s06_f95b13f6:
+# game/code/e03/e03s05.rpy:266
+translate korean e03s05_84f9d3b7:
 
-    # mc "Mmmmm - sounds like she's getting close!"
-    mc "Mmmmm - sounds like she's getting close!"
+    # mc "Yeah, I think-"
+    mc "그러니까, 아마-"
 
-# game/code/e03/e03s06.rpy:303
-translate korean e03s06_9f913e07:
+# game/code/e03/e03s05.rpy:267
+translate korean e03s05_3970fb4a:
 
-    # mh "Mmmhaah. Don't forget about me, my love."
-    mh "Mmmhaah. Don't forget about me, my love."
+    # sy "Shhh! He's coming back."
+    sy "쉿! 그 인간 온다."
 
-# game/code/e03/e03s06.rpy:304
-translate korean e03s06_7cfbbd47:
+# game/code/e03/e03s05.rpy:271
+translate korean e03s05_b63b81ff:
 
-    # mc "Oh... I could never forget about you, Lyssa."
-    mc "Oh... I could never forget about you, Lyssa."
+    # "Cult Member" "We are done for the day. Go back to your abode and freshen up."
+    "교단원" "오늘 일은 끝났습니다. 숙소로 돌아가서 씻으세요."
 
-# game/code/e03/e03s06.rpy:305
-translate korean e03s06_4e042873:
+# game/code/e03/e03s05.rpy:274
+translate korean e03s05_e07bc938:
 
-    # mh "Mmmmmmmm, that's all a girl needs to hear sometimes!"
-    mh "Mmmmmmmm, that's all a girl needs to hear sometimes!"
+    # sy "Hey, where's the water!?"
+    sy "저기요, 물은 어디 있어요!?"
 
-# game/code/e03/e03s06.rpy:308
-translate korean e03s06_e0d5d592:
+# game/code/e03/e03s05.rpy:276
+translate korean e03s05_796532a9:
 
-    # ca "Oh please - please keep going! Lick my pusssssy just like that!"
-    ca "Oh please - please keep going! Lick my pusssssy just like that!"
+    # "Cult Member" "There are more important tasks to be done. The goddess Dyma has called for a gathering this evening."
+    "교단원" "더 중요한 일이 있습니다. 디마 여신님께서 오늘 저녁 모임을 소집하셨습니다."
 
-# game/code/e03/e03s06.rpy:309
-translate korean e03s06_4c7f4e66:
+# game/code/e03/e03s05.rpy:279
+translate korean e03s05_31e4feb6:
 
-    # mh "Mmmmm.... [mcname]...."
-    mh "Mmmmm.... [mcname]...."
+    # sy "Man... I just wanted some water..."
+    sy "아우... 난 물 좀 마시고 싶었는데..."
 
-# game/code/e03/e03s06.rpy:310
-translate korean e03s06_077bda03:
+# game/code/e03/e03s05.rpy:283
+translate korean e03s05_af94d576:
 
-    # ca "Oh my God!"
-    ca "Oh my God!"
+    # mc "Come on, we should get ready. It sounds like Lyssa has something planned for tonight."
+    mc "가자, 준비해야지. 리사가 오늘 밤에 뭔가 계획하고 있는 것 같아."
 
-# game/code/e03/e03s06.rpy:317
-translate korean e03s06_de432360:
+# game/code/e03/e03s05.rpy:286
+translate korean e03s05_8be626a8:
 
-    # ca "Oh my God, oh my goddess! Ohmygowdohmygodohmygod!"
-    ca "Oh my God, oh my goddess! Ohmygowdohmygodohmygod!"
+    # sy "What about the water! I'm a thirsty bitch."
+    sy "물은 어쩌고! 나 완전 목말라 죽겠는데."
 
-# game/code/e03/e03s06.rpy:325
-translate korean e03s06_badd4ae3:
+# game/code/e03/e03s05.rpy:289
+translate korean e03s05_d1da4f41:
 
-    # ca "Gooooodessss I'm cummmmmmming!!!!!!!"
-    ca "Gooooodessss I'm cummmmmmming!!!!!!!"
+    # mc "Don't worry, we'll get you some water."
+    mc "걱정 마, 물은 구할 수 있을 거야."
 
-# game/code/e03/e03s06.rpy:328
-translate korean e03s06_0b173d7d:
+# game/code/e03/e03s05.rpy:299
+translate korean e03s05_649f2889:
 
-    # ca "YessssohGodyessskeepgoingkeepgoing!!! FuuuUUUUUUUCCCCCK!"
-    ca "YessssohGodyessskeepgoingkeepgoing!!! FuuuUUUUUUUCCCCCK!"
+    # hp "My followers, I am so happy to be standing here this evening. As was promised and foretold, our goddess has come to us!"
+    hp "도반들이여, 오늘 저녁 이 자리에 서게 되어 참으로 기쁘도다. 언약과 예언대로, 여신께서 강림하셨으니!"
 
-# game/code/e03/e03s06.rpy:331
-translate korean e03s06_ebe8ca8c:
+# game/code/e03/e03s05.rpy:305
+translate korean e03s05_fccb765e:
 
-    # sy "Sounds like you enjoyed that."
-    sy "Sounds like you enjoyed that."
+    # hp "Tonight, I am proud to welcome Dyma, the goddess of beauty and love, to this mortal plane."
+    hp "오늘 밤, 빈도는 미와 사랑의 여신 디마님을 이 차안에 맞이하게 되어 참으로 자랑스럽다."
 
-# game/code/e03/e03s06.rpy:333
-translate korean e03s06_8c8df6d7:
+# game/code/e03/e03s05.rpy:315
+translate korean e03s05_dad73a2c:
 
-    # ca "Mmmmmhmmmmmm... jusssssswhatIneeded..."
-    ca "Mmmmmhmmmmmm... jusssssswhatIneeded..."
+    # "Cult Member" "Thank you, goddess! Thank you, Dyma!"
+    "교단원" "감사합니다, 여신님! 감사합니다, 디마님!"
 
-# game/code/e03/e03s06.rpy:334
-translate korean e03s06_a73285c7:
+# game/code/e03/e03s05.rpy:318
+translate korean e03s05_1687cf73:
 
-    # sy "Happy to be of service, Chiara."
-    sy "Happy to be of service, Chiara."
+    # mc "Oh my God..."
+    mc "세상에나..."
 
-# game/code/e03/e03s06.rpy:337
-translate korean e03s06_f7ac6a54:
+# game/code/e03/e03s05.rpy:321
+translate korean e03s05_70960050:
 
-    # mc "Well, if she had been brainwashed by the cult, I think you just pressed the hard reset button on her brain."
-    mc "Well, if she had been brainwashed by the cult, I think you just pressed the hard reset button on her brain."
+    # sy "Uh huh. These people are all cuckoo for cocoa puffs!"
+    sy "그러니까. 이 인간들 대가리에 똥이 가득하네!"
 
-# game/code/e03/e03s06.rpy:340
-translate korean e03s06_bcbca355:
+# game/code/e03/e03s05.rpy:324
+translate korean e03s05_ae4ea4c8:
 
-    # sy "That was the goal."
-    sy "That was the goal."
+    # mc "Yeah. This isn't going to be easy..."
+    mc "맞아. 이거 쉽지 않을 것 같은데..."
 
-# game/code/e03/e03s06.rpy:342
-translate korean e03s06_d4feeae4:
+# game/code/e03/e03s05.rpy:327
+translate korean e03s05_fdc03554:
 
-    # mh "Promise to eat my ass this well next time?"
-    mh "Promise to eat my ass this well next time?"
+    # sy "But... is it just me, or is Lyssa kind of extra hot all painted in gold like that?"
+    sy "그런데... 나만 그렇게 생각하는 거야, 아니면 리사 저렇게 금색으로 칠하니까 진짜로 더 섹시해 보이는 거야?"
 
-# game/code/e03/e03s06.rpy:343
-translate korean e03s06_4785abda:
+# game/code/e03/e03s05.rpy:330
+translate korean e03s05_cbd48e7f:
 
-    # sy "Promise."
-    sy "Promise."
+    # mc "Come on, Stacy. We need to stay focused!"
+    mc "제발, 스테이시. 우리 집중해야 해!"
 
-# game/code/e03/e03s06.rpy:346
-translate korean e03s06_8a801012:
+# game/code/e03/e03s05.rpy:333
+translate korean e03s05_827c900d:
 
-    # mh "Okay, as much fun as being a golden goddess is, I can't handle this anymore. I need to wash this off."
-    mh "Okay, as much fun as being a golden goddess is, I can't handle this anymore. I need to wash this off."
+    # sy "Right! Focused. Not thinking about Lyssa's golden cock."
+    sy "그래! 집중. 리사의 황금 자지는 생각 안 할게."
 
-# game/code/e03/e03s06.rpy:348
-translate korean e03s06_e93412e7:
+# game/code/e03/e03s05.rpy:340
+translate korean e03s05_4edb5d8a:
 
-    # sy "Awwww! I wanted to have some fun with you as a golden goddess!"
-    sy "Awwww! I wanted to have some fun with you as a golden goddess!"
+    # hp "What is your first decree, my goddess?"
+    hp "여신님의 첫 계시는 무엇이옵니까?"
 
-# game/code/e03/e03s06.rpy:351
-translate korean e03s06_220a84aa:
+# game/code/e03/e03s05.rpy:343
+translate korean e03s05_57386899:
 
-    # mh "I promise we will in the future. I will go out and buy the body paint and everything."
-    mh "I promise we will in the future. I will go out and buy the body paint and everything."
+    # mh "I think, I would like to get to know each member of my... church, personally."
+    mh "나는... 이 도량의 도반 한 사람 한 사람을 직접 알고 싶다."
 
-# game/code/e03/e03s06.rpy:352
-translate korean e03s06_43d86a00:
+# game/code/e03/e03s05.rpy:346
+translate korean e03s05_9b1fdff9:
 
-    # mh "But this stuff is starting to tingle, and not in a fun way."
-    mh "But this stuff is starting to tingle, and not in a fun way."
+    # hp "Yes, my goddess! You should speak with-"
+    hp "알겠나이다, 여신님! 먼저-"
 
-# game/code/e03/e03s06.rpy:355
-translate korean e03s06_aa1741be:
+# game/code/e03/e03s05.rpy:349
+translate korean e03s05_1330f1ad:
 
-    # mc "Hmmmmm..."
-    mc "Hmmmmm..."
+    # mh "I shall decide who speaks to me first."
+    mh "누구와 먼저 이야기할지는 내가 정하겠다."
 
-# game/code/e03/e03s06.rpy:361
-translate korean e03s06_031b81d4:
+# game/code/e03/e03s05.rpy:350
+translate korean e03s05_453659db:
 
-    # mc "You know, we always can help our golden goddess with a golden shower."
-    mc "You know, we always can help our golden goddess with a golden shower."
+    # mh "First, I would like to speak to those two. They who helped me ascend."
+    mh "먼저, 저 두 사람과 이야기하고 싶다. 내가 승천하는 걸 도운 이들이니라."
 
-# game/code/e03/e03s06.rpy:364
-translate korean e03s06_575233cf:
+# game/code/e03/e03s05.rpy:353
+translate korean e03s05_13a52eb7:
 
-    # sy "Uggggh - how long have you been holding on to that one?"
-    sy "Uggggh - how long have you been holding on to that one?"
+    # hp "Of course, Dyma...{w} You two! Approach the goddess and pay your respects!"
+    hp "물론이옵니다, 디마님...{w} 그대 둘! 여신님께 와서 경의를 표하라!"
 
-# game/code/e03/e03s06.rpy:367
-translate korean e03s06_4d0b7004:
+# game/code/e03/e03s05.rpy:356
+translate korean e03s05_6119b1c5:
 
-    # mc "Just came up with it, I swear to God."
-    mc "Just came up with it, I swear to God."
+    # mc "Hey, Ly-"
+    mc "어, 리-"
 
-# game/code/e03/e03s06.rpy:369
-translate korean e03s06_19f3259b:
+# game/code/e03/e03s05.rpy:358
+translate korean e03s05_33184c6d:
 
-    # sy "It was terrible. But, also, a great idea."
-    sy "It was terrible. But, also, a great idea."
+    # hp "Kneel."
+    hp "무릎을 꿇어라."
 
-# game/code/e03/e03s06.rpy:372
-translate korean e03s06_804811ac:
+# game/code/e03/e03s05.rpy:360
+translate korean e03s05_5ef43fce:
 
-    # mh "Mmmmm... that doesn't sound like a terrible way to wash off."
-    mh "Mmmmm... that doesn't sound like a terrible way to wash off."
+    # sy "Huh?"
+    sy "어?"
 
-# game/code/e03/e03s06.rpy:378
-translate korean e03s06_a5767469:
+# game/code/e03/e03s05.rpy:361
+translate korean e03s05_57516065:
 
-    # mc "Just a quick wipe down?"
-    mc "Just a quick wipe down?"
+    # hp "Show your respect and bow before the goddess!"
+    hp "경의를 표하고 여신님께 절을 올려라!"
 
-# game/code/e03/e03s06.rpy:381
-translate korean e03s06_62195381:
+# game/code/e03/e03s05.rpy:365
+translate korean e03s05_a5ec958e:
 
-    # mh "Two minutes. Promise."
-    mh "Two minutes. Promise."
+    # mc "Oh, uhm..."
+    mc "아, 음..."
 
-# game/code/e03/e03s06.rpy:384
-translate korean e03s06_9c92adf5:
+# game/code/e03/e03s05.rpy:366
+translate korean e03s05_c097dd97:
 
-    # sy "Well hurry up! I still want to get fucked so hard I can't walk straight!"
-    sy "Well hurry up! I still want to get fucked so hard I can't walk straight!"
+    # mc "Uhm, thank you for choosing us, goddess, to speak to you."
+    mc "어, 여신님께서 저희를 택하시고 말을 걸어 주셔서 감사합니다."
 
-# game/code/e03/e03s06.rpy:394
-translate korean e03s06_watersports_fe251381:
+# game/code/e03/e03s05.rpy:369
+translate korean e03s05_410fd3af:
 
-    # mh "Why don't we take this party to the bathroom, so we don't make a mess on my floor."
-    mh "Why don't we take this party to the bathroom, so we don't make a mess on my floor."
+    # hp "Good. That is the right reverence to show the mighty Dyma."
+    hp "좋다. 이것이 위대한 디마님께 보여야 마땅할 바른 경외심이니라."
 
-# game/code/e03/e03s06.rpy:397
-translate korean e03s06_watersports_5d653962:
+# game/code/e03/e03s05.rpy:372
+translate korean e03s05_41f05e1f:
 
-    # ca "Mmmmmparty?"
-    ca "Mmmmmparty?"
+    # mh "I would like to speak to my members alone, High Priestess."
+    mh "이 아이들과 이야기하고 싶구나, 대사제."
 
-# game/code/e03/e03s06.rpy:401
-translate korean e03s06_watersports_ee3b825e:
+# game/code/e03/e03s05.rpy:375
+translate korean e03s05_98e313a2:
 
-    # ca "Wait... is this what I think it is?"
-    ca "Wait... is this what I think it is?"
+    # hp "But-"
+    hp "하오나-"
 
-# game/code/e03/e03s06.rpy:403
-translate korean e03s06_watersports_6d7b73f1:
+# game/code/e03/e03s05.rpy:378
+translate korean e03s05_dd395e92:
 
-    # sy "Uh huh! We're going to help Lyssa wash off."
-    sy "Uh huh! We're going to help Lyssa wash off."
+    # mh "You dare question your goddess?"
+    mh "감히 그대의 여신에게 의문을 표하는가?"
 
-# game/code/e03/e03s06.rpy:404
-translate korean e03s06_watersports_4882167f:
+# game/code/e03/e03s05.rpy:381
+translate korean e03s05_c19c7ccb:
 
-    # ca "Kinky. I dig it."
-    ca "Kinky. I dig it."
+    # hp "No, Dyma. My deepest apologies. I will leave you to your grand plan."
+    hp "아니옵니다, 디마님. 깊이 사죄 드리옵니다. 여신님의 위대한 계획에 따라 자리를 비우겠나이다."
 
-# game/code/e03/e03s06.rpy:407
-translate korean e03s06_watersports_5bfe12b5:
+# game/code/e03/e03s05.rpy:386
+translate korean e03s05_68f30313:
 
-    # mc "We think so. Care to join us?"
-    mc "We think so. Care to join us?"
+    # mh "Boy, am I glad to see you two."
+    mh "어우, 두 사람 보니까 정말 좋다."
 
-# game/code/e03/e03s06.rpy:409
-translate korean e03s06_watersports_457d6d5b:
+# game/code/e03/e03s05.rpy:389
+translate korean e03s05_fabb0468:
 
-    # ca "I don't think I can really stand yet, but..."
-    ca "I don't think I can really stand yet, but..."
+    # mc "Lyssa! Are you okay?"
+    mc "리사! 괜찮아?"
 
-# game/code/e03/e03s06.rpy:412
-translate korean e03s06_watersports_607010e7:
+# game/code/e03/e03s05.rpy:392
+translate korean e03s05_78eac12a:
 
-    # ca "I would {i}love{/i} to watch."
-    ca "I would {i}love{/i} to watch."
+    # mh "Minus being painted gold and looking absolutely ridiculous, I'm fine."
+    mh "금칠 당해서 완전히 우스꽝스러워 보이게 된 거 빼면, 괜찮아."
 
-# game/code/e03/e03s06.rpy:414
-translate korean e03s06_watersports_c54e458d:
+# game/code/e03/e03s05.rpy:395
+translate korean e03s05_e1eddaa7:
 
-    # mc "Totally cool!"
-    mc "Totally cool!"
+    # sy "I think the gold makes you look hot."
+    sy "금칠하니까 오히려 섹시해 보이는데."
 
-# game/code/e03/e03s06.rpy:416
-translate korean e03s06_watersports_6d0b6086:
+# game/code/e03/e03s05.rpy:398
+translate korean e03s05_87089892:
 
-    # sy "Follow us!"
-    sy "Follow us!"
+    # mh "Thank you, Stacy."
+    mh "고마워, 스테이시."
 
-# game/code/e03/e03s06.rpy:427
-translate korean e03s06_watersports_537b7014:
+# game/code/e03/e03s05.rpy:401
+translate korean e03s05_6736420a:
 
-    # sy "Ready, [mcname]?"
-    sy "Ready, [mcname]?"
+    # mc "What have they been doing to you?"
+    mc "저 사람들이 자기한테 뭘 한 거야?"
 
-# game/code/e03/e03s06.rpy:429
-translate korean e03s06_watersports_d55ae269:
+# game/code/e03/e03s05.rpy:404
+translate korean e03s05_3d35a7bb:
 
-    # mc "Yep!"
-    mc "Yep!"
+    # mh "Mostly pampering and propaganda. The High Priestess is a zealot, absolutely. I think she actually believes I'm a goddess."
+    mh "대부분 애지중지하면서 세뇌하려고 했지. 대사제는 완전 광신도야. 진심으로 내가 그 여신이라고 믿는 모양이던걸."
 
-# game/code/e03/e03s06.rpy:439
-translate korean e03s06_watersports_a130f7ff:
+# game/code/e03/e03s05.rpy:407
+translate korean e03s05_28fbe8b3:
 
-    # mh "Oh this feels sooooo gooood!"
-    mh "Oh this feels sooooo gooood!"
+    # mc "Apparently it's not the first time they've thought that about someone."
+    mc "알아 보니까 이런 짓 한 게 처음이 아니라던데."
 
-# game/code/e03/e03s06.rpy:440
-translate korean e03s06_watersports_698cd2b0:
+# game/code/e03/e03s05.rpy:410
+translate korean e03s05_9cf607e4:
 
-    # mc "Oh fuck yeah it does!"
-    mc "Oh fuck yeah it does!"
+    # mh "What?"
+    mh "무슨 말이야?"
 
-# game/code/e03/e03s06.rpy:443
-translate korean e03s06_watersports_7a9d3b91:
+# game/code/e03/e03s05.rpy:413
+translate korean e03s05_92bb3e78:
 
-    # ca "And it's so hot to watch, mmmmmm!"
-    ca "And it's so hot to watch, mmmmmm!"
+    # sy "[mcname] found someone locked up in a cell that looks exactly like you. They thought she was the goddess but I guess she didn't have the right bits."
+    sy "[mcname] 녀석이 리사랑 완전히 똑같이 생긴 사람을 감방에서 찾았어. 그 사람을 여신이라고 생각했는데 꼭 필요한 부분이 없었나 봐."
 
-# game/code/e03/e03s06.rpy:444
-translate korean e03s06_watersports_381ada4e:
+# game/code/e03/e03s05.rpy:416
+translate korean e03s05_bb334e41:
 
-    # sy "Glad we can help, Lyssa!"
-    sy "Glad we can help, Lyssa!"
+    # mh "Right bits?"
+    mh "꼭 필요한 부분?"
 
-# game/code/e03/e03s06.rpy:457
-translate korean e03s06_watersports_8359762f:
+# game/code/e03/e03s05.rpy:419
+translate korean e03s05_3443ddf9:
 
-    # mc "Feeling better getting that paint off of you?"
-    mc "Feeling better getting that paint off of you?"
+    # mc "She's got a vagina. Apparently, being trans is an important element to being Dyma."
+    mc "그 사람한텐 보지가 있대. 듣자 하니, 디마가 되려면 성전환자인 게 중요한 요소인가 봐."
 
-# game/code/e03/e03s06.rpy:459
-translate korean e03s06_watersports_f713575a:
+# game/code/e03/e03s05.rpy:422
+translate korean e03s05_8b33030e:
 
-    # mh "Mmmhmmmm, much better."
-    mh "Mmmhmmmm, much better."
+    # mh "Ahh. But you said she's locked up?"
+    mh "아아. 그런데 그 분이 갇혀 있다고?"
 
-# game/code/e03/e03s06.rpy:462
-translate korean e03s06_watersports_4a1d7d89:
+# game/code/e03/e03s05.rpy:425
+translate korean e03s05_b05836d6:
 
-    # sy "I feel so much better tooooo!"
-    sy "I feel so much better tooooo!"
+    # mc "Uh huh. They've got prisoner cells in this cave."
+    mc "그래. 여기 동굴에 있는 감방에 갇혀 있어."
 
-# game/code/e03/e03s06.rpy:465
-translate korean e03s06_watersports_b744e846:
+# game/code/e03/e03s05.rpy:428
+translate korean e03s05_26081f40:
 
-    # mh "Just because I'm no longer golden, doesn't mean the golden shower needs to end."
-    mh "Just because I'm no longer golden, doesn't mean the golden shower needs to end."
+    # mh "The High Priestess conveniently left that out of the tour..."
+    mh "대사제가 참 편리하게도 그곳을 소개해 줄 때 빼놨네..."
 
-# game/code/e03/e03s06.rpy:467
-translate korean e03s06_watersports_85569df5:
+# game/code/e03/e03s05.rpy:431
+translate korean e03s05_7153c56d:
 
-    # sy "Say no more!"
-    sy "Say no more!"
+    # sy "But it sounds like we don't even need the camera anymore. If we can get her out, then we'll have all the proof we need!"
+    sy "그런데 그 사람이 있으니까, 카메라도 없어도 괜찮겠다. 그 사람만 구하면 필요한 증거는 다 확보되는 셈이잖아!"
 
-# game/code/e03/e03s06.rpy:477
-translate korean e03s06_watersports_06a3d39d:
+# game/code/e03/e03s05.rpy:434
+translate korean e03s05_098ab7a9:
 
-    # sy "Oh fuuuuck, Lyssa!"
-    sy "Oh fuuuuck, Lyssa!"
+    # mh "I managed to get the camera back after they took our clothes and I've been recording for a few days."
+    mh "저 사람들이 우리 옷을 가져간 뒤에 간신히 카메라는 다시 찾았지, 며칠째 녹화도 해 뒀고."
 
-# game/code/e03/e03s06.rpy:478
-translate korean e03s06_watersports_de358896:
+# game/code/e03/e03s05.rpy:435
+translate korean e03s05_37f47cf0:
 
-    # mh "Yes, Stacy! Give me all of it!"
-    mh "Yes, Stacy! Give me all of it!"
+    # mh "But that, plus an eyewitness testimony is more than enough to get a warrant and to shut this place down."
+    mh "그렇다면 영상 증거에 목격자 증언까지 더해지니까, 영장 받고 이곳에 대한 폐쇄 명령도 받아내기 충분해."
 
-# game/code/e03/e03s06.rpy:479
-translate korean e03s06_watersports_66bb1692:
+# game/code/e03/e03s05.rpy:438
+translate korean e03s05_0b776a27:
 
-    # mc "Why are you so hot, Lyssa?!"
-    mc "Why are you so hot, Lyssa?!"
+    # sy "But how are we going to get her out?"
+    sy "그런데 그 사람은 어떻게 꺼내지?"
 
-# game/code/e03/e03s06.rpy:482
-translate korean e03s06_watersports_2c41ff43:
+# game/code/e03/e03s05.rpy:440
+translate korean e03s05_cbba5259:
 
-    # ca "Fuuuhhhhhh... this is- oh, oh, OH!"
-    ca "Fuuuhhhhhh... this is- oh, oh, OH!"
+    # mc "What we need is a distraction."
+    mc "틈을 만들 뭔가가 필요한데."
 
-# game/code/e03/e03s06.rpy:483
-translate korean e03s06_watersports_ea87ca7c:
+# game/code/e03/e03s05.rpy:443
+translate korean e03s05_9f4ba8e2:
 
-    # sy "Sounds like someone is really enjoying this."
-    sy "Sounds like someone is really enjoying this."
+    # mh "I have just the thing."
+    mh "그런 거라면 나한테 딱 맞는 게 있지."
 
-# game/code/e03/e03s06.rpy:484
-translate korean e03s06_watersports_38be756b:
+# game/code/e03/e03s05.rpy:447
+translate korean e03s05_da47c5ea:
 
-    # ca "Ohmmmyyygaaaaawd!"
-    ca "Ohmmmyyygaaaaawd!"
+    # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh "나의 귀환을 경축하는 축제가 있어야 한다! 나의 강림을 위한 진정한 향연이 필요하다!"
 
-# game/code/e03/e03s06.rpy:485
-translate korean e03s06_watersports_83fc5346:
+# game/code/e03/e03s05.rpy:450
+translate korean e03s05_75163ac9:
 
-    # mc "Saving Chiara from the cult is the best thing we could have done!"
-    mc "Saving Chiara from the cult is the best thing we could have done!"
+    # hp "My goddess, we did not prepare food for you to enjoy this evening."
+    hp "여신님, 오늘 저녁 즐기실 음식은 준비하지 못했사옵니다."
 
-# game/code/e03/e03s06.rpy:488
-translate korean e03s06_watersports_31762599:
+# game/code/e03/e03s05.rpy:453
+translate korean e03s05_a015c69c:
 
-    # sy "Mmmhmmm, she's so fucking cute!"
-    sy "Mmmhmmm, she's so fucking cute!"
+    # mh "I did not mean a feast of food, I mean of the more {i}carnal{/i} variety."
+    mh "음식의 만끽을 말한 것이 아니다, {i}육체의{/i} 만끽을 말한 것이다."
 
-# game/code/e03/e03s06.rpy:489
-translate korean e03s06_watersports_4ece1325:
+# game/code/e03/e03s05.rpy:455
+translate korean e03s05_2628190a:
 
-    # mh "And this is the reward we all deserve for all of our hard work!"
-    mh "And this is the reward we all deserve for all of our hard work!"
+    # hp "My goddess?"
+    hp "여신님?"
 
-# game/code/e03/e03s06.rpy:490
-translate korean e03s06_watersports_8d53cc58:
+# game/code/e03/e03s05.rpy:458
+translate korean e03s05_9cefff57:
 
-    # sy "You have {i}no idea!{/i}"
-    sy "You have {i}no idea!{/i}"
+    # mh "Am I not the goddess of love?"
+    mh "나는 사랑의 여신이 아닌가?"
 
-# game/code/e03/e03s06.rpy:491
-translate korean e03s06_watersports_e57b1ccb:
+# game/code/e03/e03s05.rpy:459
+translate korean e03s05_8b555851:
 
-    # mc "Best part of an adventure is the reward at the end."
-    mc "Best part of an adventure is the reward at the end."
+    # mh "An orgy is the only festivity to consecrate my arrival!"
+    mh "나의 강림을 축성할 제전은 오직 난교뿐이다!"
 
-# game/code/e03/e03s06.rpy:494
-translate korean e03s06_watersports_109bb7bd:
+# game/code/e03/e03s05.rpy:465
+translate korean e03s05_2409b2c6:
 
-    # ca "Oh God, oh God, I'm going to cum - I'm going to cum, goddess!!"
-    ca "Oh God, oh God, I'm going to cum - I'm going to cum, goddess!!"
+    # mc "{size=*0.6}Stacy! What are you doing?{/size}"
+    mc "{size=*0.6}스테이시! 너 뭐 하는 거야?{/size}"
 
-# game/code/e03/e03s06.rpy:495
-translate korean e03s06_watersports_dbf0bba8:
+# game/code/e03/e03s05.rpy:468
+translate korean e03s05_b48392da:
 
-    # mh "Yes, cum for me, Chiara. I want you to cum."
-    mh "Yes, cum for me, Chiara. I want you to cum."
+    # sy "Getting ready for the orgy! What are you doing?"
+    sy "난교 준비하는 거지! 넌 뭐 하냐?"
 
-# game/code/e03/e03s06.rpy:496
-translate korean e03s06_watersports_a04edb7f:
+# game/code/e03/e03s05.rpy:471
+translate korean e03s05_95462312:
 
-    # ca "Oh goooooddddeeeessssss!"
-    ca "Oh goooooddddeeeessssss!"
+    # mc "{size=*0.6}The orgy is a distraction so we can go free Chiara!{/size}"
+    mc "{size=*0.6}난교는 키아라를 풀어 주러 갈 수 있게 시선을 돌리려는 구실이잖아!{/size}"
 
-# game/code/e03/e03s06.rpy:500
-translate korean e03s06_watersports_8b9ba7d9:
+# game/code/e03/e03s05.rpy:473
+translate korean e03s05_6a58fdd4:
 
-    # ca "Holy shiiiiiiiiiiit!"
-    ca "Holy shiiiiiiiiiiit!"
+    # sy "Ohhh yeaaaaahhhh...{w} But what about the orgy?"
+    sy "아아아, 그어어어렇구우나나...{w} 그런데 난교는 어쩌고?"
 
-# game/code/e03/e03s06.rpy:511
-translate korean e03s06_watersports_1956399c:
+# game/code/e03/e03s05.rpy:474
+translate korean e03s05_d03c2a0d:
 
-    # mh "Mmmmm, thank you for your gift, Chiara."
-    mh "Mmmmm, thank you for your gift, Chiara."
+    # mc "{size=*0.6}We can have our own orgy later!{/size}"
+    mc "{size=*0.6}난교는 나중에 우리끼리 하면 되잖아!{/size}"
 
-# game/code/e03/e03s06.rpy:513
-translate korean e03s06_watersports_ee920db6:
+# game/code/e03/e03s05.rpy:477
+translate korean e03s05_17891617:
 
-    # ca "Mmmrrrrgggg... sorry for cumming on you..."
-    ca "Mmmrrrrgggg... sorry for cumming on you..."
+    # sy "Fiiiiiine."
+    sy "아아알겠어."
 
-# game/code/e03/e03s06.rpy:514
-translate korean e03s06_watersports_c3b5df62:
+# game/code/e03/e03s05.rpy:482
+translate korean e03s05_6670dc23:
 
-    # mh "No, no. You taste delicious, Chiara."
-    mh "No, no. You taste delicious, Chiara."
+    # mh "Once they get started, we can make our escape."
+    mh "저 사람들이 시작하면, 그때 빠져나가자."
 
-# game/code/e03/e03s06.rpy:517
-translate korean e03s06_watersports_00a8f1c2:
+# game/code/e03/e03s05.rpy:485
+translate korean e03s05_74c498aa:
 
-    # mh "Now give me a moment, I just want to dry off a bit."
-    mh "Now give me a moment, I just want to dry off a bit."
+    # mc "Sounds good to me."
+    mc "좋아."
 
-# game/code/e03/e03s06.rpy:519
-translate korean e03s06_watersports_9a8be96d:
+# game/code/e03/e03s05.rpy:495
+translate korean e03s05_0e181c63:
 
-    # sy "Hurry! I am super horny and need some of [mcname]'s dick!"
-    sy "Hurry! I am super horny and need some of [mcname]'s dick!"
+    # mh "I think their attention is occupied. Let's go."
+    mh "저 사람들 정신 팔린 것 같아. 가자."
 
-# game/code/e03/e03s06.rpy:520
-translate korean e03s06_watersports_d66d0173:
+# game/code/e03/e03s05.rpy:497
+translate korean e03s05_68a5da2f:
 
-    # mh "I'll be quick, I promise."
-    mh "I'll be quick, I promise."
+    # sy "Lead the way, [mcname]!"
+    sy "앞장서, [mcname]!"
 
-# game/code/e03/e03s06.rpy:532
-translate korean e03s06_continue_b95b31a4:
+# game/code/e03/e03s05.rpy:508
+translate korean e03s05_699878f6:
 
-    # sy "[mcname]..."
-    sy "[mcname]..."
+    # mc "Hey!"
+    mc "어이!"
 
-# game/code/e03/e03s06.rpy:534
-translate korean e03s06_continue_08c01398:
+# game/code/e03/e03s05.rpy:511
+translate korean e03s05_bf34bb1a:
 
-    # mc "Yes, Stacy?"
-    mc "Yes, Stacy?"
+    # ca "Is this the rescue party?"
+    ca "구조대인가?"
 
-# game/code/e03/e03s06.rpy:537
-translate korean e03s06_continue_8bdd2fdb:
+# game/code/e03/e03s05.rpy:515
+translate korean e03s05_90c74f3e:
 
-    # sy "I can't wait. Get on the bed."
-    sy "I can't wait. Get on the bed."
+    # mc "It is! Let's get you out of here."
+    mc "맞아! 여기서 꺼내 줄게."
 
-# game/code/e03/e03s06.rpy:540
-translate korean e03s06_continue_3797c6d9:
+# game/code/e03/e03s05.rpy:518
+translate korean e03s05_79cf2d46:
 
-    # mc "But what about-"
-    mc "But what about-"
+    # ca "Quick, before the guard gets back."
+    ca "서둘러, 경비가 돌아오기 전에."
 
-# game/code/e03/e03s06.rpy:542
-translate korean e03s06_continue_8591fe43:
+# game/code/e03/e03s05.rpy:521
+translate korean e03s05_335a8173:
 
-    # sy "She can join in when she gets back. My pussy is aching for your hard cock. So get on the bed."
-    sy "She can join in when she gets back. My pussy is aching for your hard cock. So get on the bed."
+    # sy "Oh, you don't have to worry about that. Lyssa here demanded an orgy we're all missing so he's probably super distracted right now."
+    sy "오, 그건 걱정 안 해도 돼. 리사가 난교를 요구했고 우리는 다 빠져나왔으니, 그 경비도 지금 정신이 딴 데 팔려 있을 거야."
 
-# game/code/e03/e03s06.rpy:544
-translate korean e03s06_continue_b1f2782b:
+# game/code/e03/e03s05.rpy:524
+translate korean e03s05_5e4216e8:
 
-    # mc "Whatever you want, my dear sister."
-    mc "Whatever you want, my dear sister."
+    # ca "Huh. Aren't you a little short to be a goddess?"
+    ca "허. 당신은 여신이라기엔 몰골이 좀 그런데?"
 
-# game/code/e03/e03s06.rpy:546
-translate korean e03s06_continue_e9417ce5:
+# game/code/e03/e03s05.rpy:527
+translate korean e03s05_b2bd1c26:
 
-    # mc "Whatever you want, Stacy."
-    mc "Whatever you want, Stacy."
+    # mh "Maybe. But, we can talk about that later."
+    mh "그 이야기는 나중에 하죠."
 
-# game/code/e03/e03s06.rpy:550
-translate korean e03s06_continue_2f818fdf:
+# game/code/e03/e03s05.rpy:530
+translate korean e03s05_45df229a:
 
-    # ca "Mrrrrrmmmm..."
-    ca "Mrrrrrmmmm..."
+    # ca "There's one small hitch in the plan. The door is locked and I don't know where the key is."
+    ca "이 계획에 작은 문제가 하나 있어. 문이 잠겨 있는데 열쇠가 어디 있는지 몰라."
 
-# game/code/e03/e03s06.rpy:552
-translate korean e03s06_continue_e77d6632:
+# game/code/e03/e03s05.rpy:535
+translate korean e03s05_a865e238:
 
-    # mc "Sounds like someone is still enjoying their post orgasm bliss."
-    mc "Sounds like someone is still enjoying their post orgasm bliss."
+    # sy "Leave that to me."
+    sy "그건 나한테 맡겨."
 
-# game/code/e03/e03s06.rpy:555
-translate korean e03s06_continue_081dd40b:
+# game/code/e03/e03s05.rpy:537
+translate korean e03s05_ba3dc4d0:
 
-    # sy "I used some of my secret techniques on her, so I'm not surprised."
-    sy "I used some of my secret techniques on her, so I'm not surprised."
+    # mc "Stacy, what are you doing?"
+    mc "스테이시, 뭐 하는 거야?"
 
-# game/code/e03/e03s06.rpy:557
-translate korean e03s06_continue_f7b967b7:
+# game/code/e03/e03s05.rpy:540
+translate korean e03s05_0fb8c7e4:
 
-    # ca "I needed that... so badly..."
-    ca "I needed that... so badly..."
+    # sy "I'm going to pick the lock!"
+    sy "자물쇠 따려고 하는데!"
 
-# game/code/e03/e03s06.rpy:561
-translate korean e03s06_continue_f1528d89:
+# game/code/e03/e03s05.rpy:542
+translate korean e03s05_153e8d4e:
 
-    # sy "But she's had her fun, now it's my turn."
-    sy "But she's had her fun, now it's my turn."
+    # mh "You know how to pick locks?"
+    mh "자물쇠 따는 법 알아?"
 
-# game/code/e03/e03s06.rpy:565
-translate korean e03s06_continue_44d98b48:
+# game/code/e03/e03s05.rpy:543
+translate korean e03s05_21396c9c:
 
-    # mh "Getting started without me?"
-    mh "Getting started without me?"
+    # sy "Uh huh!"
+    sy "그럼!"
 
-# game/code/e03/e03s06.rpy:571
-translate korean e03s06_continue_470c47ab:
+# game/code/e03/e03s05.rpy:546
+translate korean e03s05_5cacd0ea:
 
-    # mc "I tried to tell her."
-    mc "I tried to tell her."
+    # mc "Bull shit."
+    mc "말도 안 돼."
 
-# game/code/e03/e03s06.rpy:573
-translate korean e03s06_continue_e1b8e799:
+# game/code/e03/e03s05.rpy:549
+translate korean e03s05_4b8e46f1:
 
-    # sy "Patience is not my strong suit!"
-    sy "Patience is not my strong suit!"
+    # sy "You think all those times I walked in on you in the bathroom was because you 'accidentally' left the door unlocked?"
+    sy "네가 있을 때 내가 욕실에 들어갈 수 있었던 이유가 다 네가 '깜빡하고' 문을 안 잠가서 그런 거라고 생각했냐?"
 
-# game/code/e03/e03s06.rpy:574
-translate korean e03s06_continue_bd88d5e7:
+# game/code/e03/e03s05.rpy:552
+translate korean e03s05_05206d8b:
 
-    # mh "We know, Stacy. That's why I hurried back out here."
-    mh "We know, Stacy. That's why I hurried back out here."
+    # mc "I knew I wasn't forgetting to lock the door!"
+    mc "역시 내가 문 잠근 걸 까먹은 게 아니었다니까!"
 
-# game/code/e03/e03s06.rpy:577
-translate korean e03s06_continue_78e0728d:
+# game/code/e03/e03s05.rpy:556
+translate korean e03s05_e9b4b8ea:
 
-    # mh "Seems like Stacy has already laid claim to [mcname]..."
-    mh "Seems like Stacy has already laid claim to [mcname]..."
+    # sy "And, done!"
+    sy "자, 됐다!"
 
-# game/code/e03/e03s06.rpy:579
-translate korean e03s06_continue_b00a4ece:
+# game/code/e03/e03s05.rpy:560
+translate korean e03s05_090c41a9:
 
-    # ca "Mmm. Want to lay claim to me?"
-    ca "Mmm. Want to lay claim to me?"
+    # mc "What do you say we blow this popsicle stand?"
+    mc "이제 여기서 당장 째는 게 어때?"
 
-# game/code/e03/e03s06.rpy:580
-translate korean e03s06_continue_9e40f273:
+# game/code/e03/e03s05.rpy:563
+translate korean e03s05_0d852b67:
 
-    # mh "I would be honored."
-    mh "I would be honored."
+    # ca "Please!"
+    ca "그러자 좀!"
 
-# game/code/e03/e03s06.rpy:598
-translate korean e03s06_continue_8178ecb4:
+# game/code/e03/e03s05.rpy:570
+translate korean e03s05_5e156a9d:
 
-    # sy "Fuuuuuuck, this is what I needed!!! Fuck, [mcname]!"
-    sy "Fuuuuuuck, this is what I needed!!! Fuck, [mcname]!"
+    # sy "Do you think they'll notice we've gone?"
+    sy "우리 사라진 거 알아챌까?"
 
-# game/code/e03/e03s06.rpy:599
-translate korean e03s06_continue_5e4c92e8:
+# game/code/e03/e03s05.rpy:572
+translate korean e03s05_864af616:
 
-    # mc "Oh God, Stacy!"
-    mc "Oh God, Stacy!"
+    # mc "I doubt it. By the time they realize what's happened, we'll be long gone."
+    mc "아닐걸. 무슨 일이 일어났는지 알아챌 때 쯤이면, 우린 이미 멀리 가 있을 테니까."
 
-# game/code/e03/e03s06.rpy:600
-translate korean e03s06_continue_fcf7601e:
+# game/code/e03/e03s05.rpy:575
+translate korean e03s05_931a3c6a:
 
-    # sy "I fucking love riding your cock!!!"
-    sy "I fucking love riding your cock!!!"
+    # ca "Can we not sit and talk about it, and get out of here?"
+    ca "여기서 가만히 서서 이야기하지 말고 좀 나가면 안 될까?"
 
-# game/code/e03/e03s06.rpy:603
-translate korean e03s06_continue_fa99b64a:
+# game/code/e03/e03s05.rpy:578
+translate korean e03s05_2495ebb3:
 
-    # mh "I can feel your pussy squeezing my dick!"
-    mh "I can feel your pussy squeezing my dick!"
-
-# game/code/e03/e03s06.rpy:604
-translate korean e03s06_continue_c5de6ccf:
-
-    # sy "Oh my goooooooood!"
-    sy "Oh my goooooooood!"
-
-# game/code/e03/e03s06.rpy:607
-translate korean e03s06_continue_93a29d2c:
-
-    # mh "Mmmmm, Chiaaarraaaa!"
-    mh "Mmmmm, Chiaaarraaaa!"
-
-# game/code/e03/e03s06.rpy:608
-translate korean e03s06_continue_a6f1e38e:
-
-    # ca "Oh goddess... you feel so good inside!"
-    ca "Oh goddess... you feel so good inside!"
-
-# game/code/e03/e03s06.rpy:611
-translate korean e03s06_continue_f0ad5eea:
-
-    # sy "I want you to fill my little pussy up with your hot cum, [mcname]! I want you to fill meeee uuuppp!"
-    sy "I want you to fill my little pussy up with your hot cum, [mcname]! I want you to fill meeee uuuppp!"
-
-# game/code/e03/e03s06.rpy:614
-translate korean e03s06_continue_03daa122:
-
-    # ca "Ohhhhh grahhhhhhH!"
-    ca "Ohhhhh grahhhhhhH!"
-
-# game/code/e03/e03s06.rpy:615
-translate korean e03s06_continue_f8c8c6df:
-
-    # mh "Still sensitive?"
-    mh "Still sensitive?"
-
-# game/code/e03/e03s06.rpy:616
-translate korean e03s06_continue_e77dd63c:
-
-    # ca "Fu-fu-fu-fu - yes!"
-    ca "Fu-fu-fu-fu - yes!"
-
-# game/code/e03/e03s06.rpy:619
-translate korean e03s06_continue_9e52e4c3:
-
-    # mc "Stacy! Shiiiit! You're so wet and tight!"
-    mc "Stacy! Shiiiit! You're so wet and tight!"
-
-# game/code/e03/e03s06.rpy:620
-translate korean e03s06_continue_2958592a:
-
-    # sy "I've been horny since we saw that orgy! All I've been able to do is picture your amazing cock buried deep inside my pussy!"
-    sy "I've been horny since we saw that orgy! All I've been able to do is picture your amazing cock buried deep inside my pussy!"
-
-# game/code/e03/e03s06.rpy:621
-translate korean e03s06_continue_67bbfda0:
-
-    # mc "Mmmmmmggggghh!"
-    mc "Mmmmmmggggghh!"
-
-# game/code/e03/e03s06.rpy:624
-translate korean e03s06_continue_7dae7f40:
-
-    # mh "Yes, show me how you worship me!"
-    mh "Yes, show me how you worship me!"
-
-# game/code/e03/e03s06.rpy:625
-translate korean e03s06_continue_3ed91b43:
-
-    # ca "I love it. Keep pleasuring yourself with my pussy. Yes, *moans* YES!"
-    ca "I love it. Keep pleasuring yourself with my pussy. Yes, *moans* YES!"
-
-# game/code/e03/e03s06.rpy:628
-translate korean e03s06_continue_a016eb68:
-
-    # mc "Oh, are you still only good enough to be my little breeding bitch?"
-    mc "Oh, are you still only good enough to be my little breeding bitch?"
-
-# game/code/e03/e03s06.rpy:629
-translate korean e03s06_continue_2f32ddcb:
-
-    # sy "Yes! I am just a little cum dump for your fertile seed! Fuck me, breed me, make me yours!"
-    sy "Yes! I am just a little cum dump for your fertile seed! Fuck me, breed me, make me yours!"
-
-# game/code/e03/e03s06.rpy:635
-translate korean e03s06_continue_4da5dd6a:
-
-    # ca "I always dreamed of being fucked by a goddess, and here I am..."
-    ca "I always dreamed of being fucked by a goddess, and here I am..."
-
-# game/code/e03/e03s06.rpy:636
-translate korean e03s06_continue_c64afefa:
-
-    # mh "Living up to your fantasy?"
-    mh "Living up to your fantasy?"
-
-# game/code/e03/e03s06.rpy:638
-translate korean e03s06_continue_9337174d:
-
-    # ca "It's better than I could have ever imagined...."
-    ca "It's better than I could have ever imagined...."
-
-# game/code/e03/e03s06.rpy:639
-translate korean e03s06_continue_7cbe2b3b:
-
-    # ca "*moans* Mmmmm, Lyssa! Fuck me! Let me worship before your cock! This is the most incredible thing that's ever happened to me, fuuuuck!"
-    ca "*moans* Mmmmm, Lyssa! Fuck me! Let me worship before your cock! This is the most incredible thing that's ever happened to me, fuuuuck!"
-
-# game/code/e03/e03s06.rpy:642
-translate korean e03s06_continue_a33a4ab4:
-
-    # mc "Yes, Stacy, yes! Nnnnngggghhh!!!"
-    mc "Yes, Stacy, yes! Nnnnngggghhh!!!"
-
-# game/code/e03/e03s06.rpy:650
-translate korean e03s06_continue_e4f4ebaa:
-
-    # sy "Mmmm... I can feel your dick twitching inside me, about to cum. But I want a turn with Lyssa and I feel bad for hogging you."
-    sy "Mmmm... I can feel your dick twitching inside me, about to cum. But I want a turn with Lyssa and I feel bad for hogging you."
-
-# game/code/e03/e03s06.rpy:652
-translate korean e03s06_continue_d19c4edf:
-
-    # mc "That's okay, Stacy."
-    mc "That's okay, Stacy."
-
-# game/code/e03/e03s06.rpy:655
-translate korean e03s06_continue_8ba6264b:
-
-    # ca "I would love to get fucked by the man who managed to lock down both of these gorgeous women."
-    ca "I would love to get fucked by the man who managed to lock down both of these gorgeous women."
-
-# game/code/e03/e03s06.rpy:659
-translate korean e03s06_continue_505b218b:
-
-    # mc "I would love that."
-    mc "I would love that."
-
-# game/code/e03/e03s06.rpy:662
-translate korean e03s06_continue_62ebde00:
-
-    # sy "Oh this is going to be so hot."
-    sy "Oh this is going to be so hot."
-
-# game/code/e03/e03s06.rpy:664
-translate korean e03s06_continue_0cec8f20:
-
-    # ca "Yes it is!"
-    ca "Yes it is!"
-
-# game/code/e03/e03s06.rpy:668
-translate korean e03s06_continue_9e33fd19:
-
-    # sy "Mmmmm-!"
-    sy "Mmmmm-!"
-
-# game/code/e03/e03s06.rpy:678
-translate korean e03s06_continue_3d30b6c6:
-
-    # sy "Oh God, Lyssa!"
-    sy "Oh God, Lyssa!"
-
-# game/code/e03/e03s06.rpy:682
-translate korean e03s06_continue_c623fdc2:
-
-    # mh "Oh, Stacy - you're the perfect little pussy for me to breed!"
-    mh "Oh, Stacy - you're the perfect little pussy for me to breed!"
-
-# game/code/e03/e03s06.rpy:683
-translate korean e03s06_continue_713b441d:
-
-    # sy "Oh shiiiiiiit!"
-    sy "Oh shiiiiiiit!"
-
-# game/code/e03/e03s06.rpy:686
-translate korean e03s06_continue_5e67e2af:
-
-    # ca "Watching her fuck you... am I in heaven?"
-    ca "Watching her fuck you... am I in heaven?"
-
-# game/code/e03/e03s06.rpy:687
-translate korean e03s06_continue_48e59e10:
-
-    # mc "Oh fuuuh - I - ngggg - have no idea, because I feel like I'm right there with you!"
-    mc "Oh fuuuh - I - ngggg - have no idea, because I feel like I'm right there with you!"
-
-# game/code/e03/e03s06.rpy:693
-translate korean e03s06_continue_0ce3a6af:
-
-    # sy "I love watching you fuck other people, bro!"
-    sy "I love watching you fuck other people, bro!"
-
-# game/code/e03/e03s06.rpy:695
-translate korean e03s06_continue_6de58d05:
-
-    # sy "I love watching you fuck other people, [mcname]!"
-    sy "I love watching you fuck other people, [mcname]!"
-
-# game/code/e03/e03s06.rpy:696
-translate korean e03s06_continue_7b8f60d3:
-
-    # mh "You just like watching people fuck!"
-    mh "You just like watching people fuck!"
-
-# game/code/e03/e03s06.rpy:697
-translate korean e03s06_continue_6a37ceb6:
-
-    # sy "Maaaaayb- oh, just like that, Lyssa, yeeessssss!"
-    sy "Maaaaayb- oh, just like that, Lyssa, yeeessssss!"
-
-# game/code/e03/e03s06.rpy:700
-translate korean e03s06_continue_28575098:
-
-    # mc "Oh, Chiaaarrraaa!"
-    mc "Oh, Chiaaarrraaa!"
-
-# game/code/e03/e03s06.rpy:701
-translate korean e03s06_continue_6bd359fe:
-
-    # ca "That's good. Right there. Yessuah. Oh, this feels soooo goood! Mmmph - mmmph!"
-    ca "That's good. Right there. Yessuah. Oh, this feels soooo goood! Mmmph - mmmph!"
-
-# game/code/e03/e03s06.rpy:704
-translate korean e03s06_continue_ca9f71db:
-
-    # mh "Mmmmpphhhh - Stacy, do you want me to fill your little pussy with my cum?"
-    mh "Mmmmpphhhh - Stacy, do you want me to fill your little pussy with my cum?"
-
-# game/code/e03/e03s06.rpy:705
-translate korean e03s06_continue_c60d9be0:
-
-    # sy "YES! Please, goddess, yes! Fill my slutty little hole with your seed!"
-    sy "YES! Please, goddess, yes! Fill my slutty little hole with your seed!"
-
-# game/code/e03/e03s06.rpy:708
-translate korean e03s06_continue_2e304861:
-
-    # mh "Oh fuck - I hope your supple womb is ready for this, you dirty little minx!"
-    mh "Oh fuck - I hope your supple womb is ready for this, you dirty little minx!"
-
-# game/code/e03/e03s06.rpy:709
-translate korean e03s06_continue_d7cf0cbf:
-
-    # sy "Oh god, it is! Yes! YesyesyesyesyesyesYASSS!"
-    sy "Oh god, it is! Yes! YesyesyesyesyesyesYASSS!"
-
-# game/code/e03/e03s06.rpy:712
-translate korean e03s06_continue_21afe068:
-
-    # mc "Oh - I'm going to cum!"
-    mc "Oh - I'm going to cum!"
-
-# game/code/e03/e03s06.rpy:713
-translate korean e03s06_continue_d72a31f2:
-
-    # ca "Cum inside me! Please!"
-    ca "Cum inside me! Please!"
-
-# game/code/e03/e03s06.rpy:720
-translate korean e03s06_continue_ad20d587:
-
-    # mc "Oh fuck-!"
-    mc "Oh fuck-!"
-
-# game/code/e03/e03s06.rpy:722
-translate korean e03s06_continue_70d607d6:
-
-    # sy "Oh yesss, oh yesssssss!"
-    sy "Oh yesss, oh yesssssss!"
-
-# game/code/e03/e03s06.rpy:723
-translate korean e03s06_continue_1a30f447:
-
-    # mh "Ohhh, I'm getting close!"
-    mh "Ohhh, I'm getting close!"
-
-# game/code/e03/e03s06.rpy:724
-translate korean e03s06_continue_acc20661:
-
-    # mc "Me too!"
-    mc "Me too!"
-
-# game/code/e03/e03s06.rpy:728
-translate korean e03s06_continue_db22c2af:
-
-    # sy "Oh I can feel your cum so deep inside me fuuuuHHHHUUUCK! I'M CUMMING!!!"
-    sy "Oh I can feel your cum so deep inside me fuuuuHHHHUUUCK! I'M CUMMING!!!"
-
-# game/code/e03/e03s06.rpy:732
-translate korean e03s06_continue_4f80dcb9:
-
-    # ca "Oh goddess, me tooooooo!"
-    ca "Oh goddess, me tooooooo!"
-
-# game/code/e03/e03s06.rpy:736
-translate korean e03s06_continue_c271bd71:
-
-    # mh "Yes, take every drop! I'm going to fill up your womb!"
-    mh "Yes, take every drop! I'm going to fill up your womb!"
-
-# game/code/e03/e03s06.rpy:740
-translate korean e03s06_continue_be1d5457:
-
-    # mc "Ohhhhgggaawwdd!"
-    mc "Ohhhhgggaawwdd!"
-
-# game/code/e03/e03s06.rpy:742
-translate korean e03s06_continue_399f84f5:
-
-    # mc "Oh I just came so hard..."
-    mc "Oh I just came so hard..."
-
-# game/code/e03/e03s06.rpy:748
-translate korean e03s06_continue_b7a23ef5:
-
-    # mh "Mmmmm... almost got every drop."
-    mh "Mmmmm... almost got every drop."
-
-# game/code/e03/e03s06.rpy:751
-translate korean e03s06_continue_5807c951:
-
-    # ca "I can help with that!"
-    ca "I can help with that!"
-
-# game/code/e03/e03s06.rpy:754
-translate korean e03s06_continue_e08aa39b:
-
-    # ca "There, every drop taken care of."
-    ca "There, every drop taken care of."
-
-# game/code/e03/e03s06.rpy:756
-translate korean e03s06_continue_a4bcf03a:
-
-    # mh "Thank you, Chiara."
-    mh "Thank you, Chiara."
-
-# game/code/e03/e03s06.rpy:757
-translate korean e03s06_continue_2f24f5b3:
-
-    # ca "No, thank you for that sweet little treat."
-    ca "No, thank you for that sweet little treat."
-
-# game/code/e03/e03s06.rpy:761
-translate korean e03s06_continue_9c5f2f38:
-
-    # sy "Fuck... that was good..."
-    sy "Fuck... that was good..."
-
-# game/code/e03/e03s06.rpy:763
-translate korean e03s06_continue_5b4ce3c2:
-
-    # mh "All better now?"
-    mh "All better now?"
-
-# game/code/e03/e03s06.rpy:764
-translate korean e03s06_continue_ad024b78:
-
-    # sy "Mmmhmmm..."
-    sy "Mmmhmmm..."
-
-# game/code/e03/e03s06.rpy:767
-translate korean e03s06_continue_02b91da4:
-
-    # mc "That make up for skipping the orgy?"
-    mc "That make up for skipping the orgy?"
-
-# game/code/e03/e03s06.rpy:769
-translate korean e03s06_continue_81b58bf4:
-
-    # sy "What orgy?"
-    sy "What orgy?"
-
-# game/code/e03/e03s06.rpy:770
-translate korean e03s06_continue_f36e5aec:
-
-    # mc "Exactly."
-    mc "Exactly."
-
-# game/code/e03/e03s06.rpy:774
-translate korean e03s06_continue_be3abf14:
-
-    # mc "I am going to sleep like a log tonight."
-    mc "I am going to sleep like a log tonight."
-
-# game/code/e03/e03s06.rpy:776
-translate korean e03s06_continue_5e0a1e8d:
-
-    # mh "Happy to be home?"
-    mh "Happy to be home?"
-
-# game/code/e03/e03s06.rpy:777
-translate korean e03s06_continue_7d777826:
-
-    # mc "Home is wherever you and Stacy are."
-    mc "Home is wherever you and Stacy are."
-
-# game/code/e03/e03s06.rpy:780
-translate korean e03s06_continue_42f8915e:
-
-    # mc "So no matter where I am, I'm always home."
-    mc "So no matter where I am, I'm always home."
-
-# game/code/e03/e03s06.rpy:783
-translate korean e03s06_continue_615fac77:
-
-    # mc "But I am happy to be sleeping in our bed. Those cult mattresses absolutely sucked."
-    mc "But I am happy to be sleeping in our bed. Those cult mattresses absolutely sucked."
-
-# game/code/e03/e03s06.rpy:786
-translate korean e03s06_continue_a598fda6:
-
-    # mh "Hahaha - you should've tried out my goddess bed. It was pretty amazing."
-    mh "Hahaha - you should've tried out my goddess bed. It was pretty amazing."
-
-# game/code/e03/e03s06.rpy:789
-translate korean e03s06_continue_07735f34:
-
-    # mc "Maybe after the investigation they'll let us take it."
-    mc "Maybe after the investigation they'll let us take it."
-
-# game/code/e03/e03s06.rpy:791
-translate korean e03s06_continue_7b7775f4:
-
-    # mh "Good night, [mcname]."
-    mh "Good night, [mcname]."
-
-# game/code/e03/e03s06.rpy:792
-translate korean e03s06_continue_61723548:
-
-    # mc "Good night Lyssa, Stacy, Chiara."
-    mc "Good night Lyssa, Stacy, Chiara."
-
-# game/code/e03/e03s06.rpy:794
-translate korean e03s06_continue_a35b3d97:
-
-    # ca "Mmmmm-night."
-    ca "Mmmmm-night."
-
-# game/code/e03/e03s06.rpy:797
-translate korean e03s06_continue_afd9cffd:
-
-    # sy "Hoooonk... choooooooooo..."
-    sy "Hoooonk... choooooooooo..."
-
-# game/code/e03/e03s06.rpy:811
-translate korean e03s06_continue_52ed503a:
-
-    # mh "Just where I left you two."
-    mh "Just where I left you two."
-
-# game/code/e03/e03s06.rpy:815
-translate korean e03s06_continue_483a2173:
-
-    # sy "Mmmmrrrrnnng?"
-    sy "Mmmmrrrrnnng?"
-
-# game/code/e03/e03s06.rpy:816
-translate korean e03s06_continue_58a800f8:
-
-    # mc "Oh shit, did we oversleep or something?"
-    mc "Oh shit, did we oversleep or something?"
-
-# game/code/e03/e03s06.rpy:818
-translate korean e03s06_continue_e23e26d0:
-
-    # mh "No, you two looked so peaceful, and we've had a crazy couple of days, so I thought I'd let you both catch up on some rest."
-    mh "No, you two looked so peaceful, and we've had a crazy couple of days, so I thought I'd let you both catch up on some rest."
-
-# game/code/e03/e03s06.rpy:822
-translate korean e03s06_continue_9e229c2c:
-
-    # mc "Thank you, but you can't be the only working gal in the house!"
-    mc "Thank you, but you can't be the only working gal in the house!"
-
-# game/code/e03/e03s06.rpy:826
-translate korean e03s06_continue_aa91bbbc:
-
-    # mc "At the very least, I can make you some coffee."
-    mc "At the very least, I can make you some coffee."
-
-# game/code/e03/e03s06.rpy:828
-translate korean e03s06_continue_9c7024ca:
-
-    # mh "That would be wonderful, [mcname]. Thank you."
-    mh "That would be wonderful, [mcname]. Thank you."
-
-# game/code/e03/e03s06.rpy:831
-translate korean e03s06_continue_262fbb7f:
-
-    # sy "*mumbles* Two coffees, please."
-    sy "*mumbles* Two coffees, please."
-
-# game/code/e03/e03s06.rpy:835
-translate korean e03s06_continue_319b8c0f:
-
-    # mc "Two coffees, coming right up!"
-    mc "Two coffees, coming right up!"
-
-# game/code/e03/e03s06.rpy:844
-translate korean e03s06_continue_6ce2793e:
-
-    # mc "Where's Chiara?"
-    mc "Where's Chiara?"
-
-# game/code/e03/e03s06.rpy:847
-translate korean e03s06_continue_325dd691:
-
-    # mh "Already at the police station. She was up early with me, figured we could go and get everything over with."
-    mh "Already at the police station. She was up early with me, figured we could go and get everything over with."
-
-# game/code/e03/e03s06.rpy:849
-translate korean e03s06_continue_a9c93a1e:
-
-    # mc "Oh? How'd it go?"
-    mc "Oh? How'd it go?"
-
-# game/code/e03/e03s06.rpy:852
-translate korean e03s06_continue_473db64c:
-
-    # mh "It went well. She was able to answer all of their questions, stayed calm. An ideal witness, honestly."
-    mh "It went well. She was able to answer all of their questions, stayed calm. An ideal witness, honestly."
-
-# game/code/e03/e03s06.rpy:854
-translate korean e03s06_continue_10bd942e:
-
-    # mc "That's good! What's she going to do now?"
-    mc "That's good! What's she going to do now?"
-
-# game/code/e03/e03s06.rpy:855
-translate korean e03s06_continue_edfe98b7:
-
-    # mh "Well it sounds like Chiara moved to Crowning for the cult. Before that, she lived two hours away in Lordridge."
-    mh "Well it sounds like Chiara moved to Crowning for the cult. Before that, she lived two hours away in Lordridge."
-
-# game/code/e03/e03s06.rpy:858
-translate korean e03s06_continue_32484cf5:
-
-    # mc "So she's going to head home?" id e03s06_continue_32484cf5
-    mc "So she's going to head home?" id e03s06_continue_32484cf5
-
-# game/code/e03/e03s06.rpy:860
-translate korean e03s06_continue_547ad033:
-
-    # mh "Not yet. They're going to put her into protective custody for a while, at least until they can charge the High Priestess."
-    mh "Not yet. They're going to put her into protective custody for a while, at least until they can charge the High Priestess."
-
-# game/code/e03/e03s06.rpy:861
-translate korean e03s06_continue_b73cebff:
-
-    # mc "Is it that serious?"
-    mc "Is it that serious?"
-
-# game/code/e03/e03s06.rpy:862
-translate korean e03s06_continue_d80197f9:
-
-    # mh "Well they imprisoned her once. I agree with the police that there's a real danger they might try it again."
-    mh "Well they imprisoned her once. I agree with the police that there's a real danger they might try it again."
-
-# game/code/e03/e03s06.rpy:863
-translate korean e03s06_continue_b33a8e3d:
-
-    # mc "That makes sense. What's she going to do?"
-    mc "That makes sense. What's she going to do?"
-
-# game/code/e03/e03s06.rpy:866
-translate korean e03s06_continue_f92ae8b4:
-
-    # mh "They'll find a place for her to stay, keep some marshals with her. They'll be able to keep an eye on her. Keep her safe."
-    mh "They'll find a place for her to stay, keep some marshals with her. They'll be able to keep an eye on her. Keep her safe."
-
-# game/code/e03/e03s06.rpy:869
-translate korean e03s06_continue_960b0be9:
-
-    # mc "Coffee's done."
-    mc "Coffee's done."
-
-# game/code/e03/e03s06.rpy:873
-translate korean e03s06_continue_6c66d703:
-
-    # sy "Does that mean we get to have Chiara over more?"
-    sy "Does that mean we get to have Chiara over more?"
-
-# game/code/e03/e03s06.rpy:875
-translate korean e03s06_continue_cb952952:
-
-    # mh "She made sure to tell the marshals that she needs to be able to visit us from time to time."
-    mh "She made sure to tell the marshals that she needs to be able to visit us from time to time."
-
-# game/code/e03/e03s06.rpy:876
-translate korean e03s06_continue_a75863b1:
-
-    # sy "Mmmmm... that's good. She's awesome."
-    sy "Mmmmm... that's good. She's awesome."
-
-# game/code/e03/e03s06.rpy:879
-translate korean e03s06_continue_d6dca9e2:
-
-    # sy "Just what I needed after last night..."
-    sy "Just what I needed after last night..."
-
-# game/code/e03/e03s06.rpy:882
-translate korean e03s06_continue_51f3172a:
-
-    # mc "Yeah, you seemed to have a lot of fun with that breeding thing."
-    mc "Yeah, you seemed to have a lot of fun with that breeding thing."
-
-# game/code/e03/e03s06.rpy:885
-translate korean e03s06_continue_b593e148:
-
-    # sy "Yeah, I didn't know it would be so hot to think of you guys making me pregnant, but it's great."
-    sy "Yeah, I didn't know it would be so hot to think of you guys making me pregnant, but it's great."
-
-# game/code/e03/e03s06.rpy:887
-translate korean e03s06_continue_55062520:
-
-    # mc "Yeah, even better because we can't actually get you pregnant. Right, Stacy?"
-    mc "Yeah, even better because we can't actually get you pregnant. Right, Stacy?"
-
-# game/code/e03/e03s06.rpy:889
-translate korean e03s06_continue_922b03f0:
-
-    # mh "Wait... you're on birth control, right?"
-    mh "Wait... you're on birth control, right?"
-
-# game/code/e03/e03s06.rpy:892
-translate korean e03s06_continue_bc4f1a33:
-
-    # mc "Right?"
-    mc "Right?"
+    # mc "Yep! Yep, yep, yep!"
+    mc "그래! 그래, 그래, 그래!"
 
 translate korean strings:
 
-    # game/code/e03/e03s06.rpy:70
-    old "Home sweet home"
-    new "Home sweet home"
-
-    # game/code/e03/e03s06.rpy:356
-    old "You know, we can help you wash off"
-    new "You know, we can help you wash off"
-
-    # game/code/e03/e03s06.rpy:356
-    old "Hurry, because I'm still ready to go!"
-    new "Hurry, because I'm still ready to go!"
+    # game/code/e03/e03s05.rpy:6
+    old "Later"
+    new "시간이 흘러"
 
